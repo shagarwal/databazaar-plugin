@@ -1,0 +1,20 @@
+dataset_id,downloads,likes,tags,description,url,_source,_retrieved_at
+oscar-corpus/colossal-oscar-1.0,40,36,"task_categories:fill-mask, task_categories:text-generation, task_ids:language-modeling, multilinguality:multilingual, source_datasets:original, license:cc0-1.0, size_categories:n>1T, arxiv:2212.10440, arxiv:2010.14571, region:us","
+	
+		
+		Dataset Card for Colossal OSCAR 1
+	
+
+
+	
+		
+		IMPORTANT NOTE: THIS DATASET CARD IS STILL BEING WRITTEN, PLEASE BE PATIENT WHILE WE COMPLETE ALL THE INFORMATION ABOUT THE CORPUS
+	
+
+
+	
+		
+		Dataset Summary
+	
+
+The OSCAR project (Open Super-large Crawled Aggregated coRpus) is an Open Source project aiming to provide web-based multilingual resources and datasets for Machine Learning (ML) and Artificial Intelligence (AI) applications. The project focuses specifically in providing large… See the",https://huggingface.co/datasets/oscar-corpus/colossal-oscar-1.0,huggingface:oscar-corpus/colossal-oscar-1.0,2026-05-04T19:28:16+00:00

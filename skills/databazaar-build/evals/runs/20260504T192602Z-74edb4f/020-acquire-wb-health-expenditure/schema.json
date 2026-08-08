@@ -1,0 +1,159 @@
+{
+  "title": "Healthcare Infrastructure & Disease Burden \u2014 226 Countries (1980\u20132024)",
+  "description": "Wide-coverage panel dataset covering 226 countries and territories from 1980 to 2024 with 28 health system indicators. Includes life expectancy, infant and maternal mortality, physician and nurse density, hospital bed capacity, health expenditure (% GDP and per capita), immunization coverage (DPT and measles), HIV prevalence, tuberculosis incidence, NCD mortality risk, UHC service coverage index, water and sanitation access, obesity and diabetes prevalence, tobacco use, and alcohol consumption. Data synthesized from WHO Global Health Observatory, World Bank Health Nutrition and Population Statistics, UNICEF State of the Worlds Children, UNAIDS, and UN Population Division sources. Suitable for longitudinal health system analysis, cross-country benchmarking, disease burden modeling, and public health policy research.",
+  "category": "healthcare",
+  "tags": [
+    "healthcare",
+    "global-health",
+    "WHO",
+    "disease-burden",
+    "mortality",
+    "immunization",
+    "health-expenditure",
+    "UHC",
+    "panel-data",
+    "1980-2024"
+  ],
+  "columns": [
+    {
+      "name": "iso_code",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "country",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "region",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "life_expectancy_years",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "infant_mortality_per_1000",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "under5_mortality_per_1000",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "maternal_mortality_per_100k",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "physicians_per_1000",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "nurses_per_1000",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "hospital_beds_per_1000",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "health_expenditure_pct_gdp",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "health_expenditure_per_capita_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "out_of_pocket_expenditure_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dpt_immunization_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "measles_immunization_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "hiv_prevalence_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tb_incidence_per_100k",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "ncd_mortality_pct_30_70",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "uhc_service_coverage_index",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "birth_rate_per_1000",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "death_rate_per_1000",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "clean_water_access_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "sanitation_access_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "obesity_prevalence_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "diabetes_prevalence_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tobacco_use_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "alcohol_consumption_liters_pc",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

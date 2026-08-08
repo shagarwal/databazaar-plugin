@@ -1,0 +1,8 @@
+mode: prepare
+kind: standard
+input: evals/fixtures/pii-mixed-redact.csv
+tags: prepare,pii,redact
+expects:
+  min_rows: 7
+  pii_blocked: false
+notes: "Email + phone in same file, both redacted."

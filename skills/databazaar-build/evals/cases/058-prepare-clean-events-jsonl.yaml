@@ -1,0 +1,8 @@
+mode: prepare
+kind: standard
+input: evals/fixtures/clean-events.jsonl
+tags: prepare,clean,jsonl
+expects:
+  min_rows: 30
+  pii_blocked: false
+notes: "Clean JSONL."

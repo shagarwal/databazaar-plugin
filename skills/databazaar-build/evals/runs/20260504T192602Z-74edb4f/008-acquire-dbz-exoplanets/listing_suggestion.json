@@ -1,0 +1,32 @@
+{
+  "title": "NASA Exoplanet & Planetary Candidate Catalog \u2014 20,933 Objects from NASA, Kepler & TESS (1992\u20132025)",
+  "description": "Harmonized catalog of 20,933 exoplanetary objects combining three authoritative NASA sources: the NASA Exoplanet Archive (6,153 confirmed exoplanets), the Kepler Cumulative KOI Table (6,867 unique Kepler Objects of Interest), and the TESS Objects of Interest catalog (7,913 TOIs). Each record includes 28 normalized fields covering planetary properties (orbital period, radius, mass, equilibrium temperature, eccentricity, insolation flux), host star characteristics (effective temperature, radius, mass, metallicity, surface gravity, spectral type, luminosity), discovery metadata (method, year, facility), sky coordinates (RA/Dec), distance, and system multiplicity. Objects span the full disposition spectrum from confirmed planets through candidates to false positives, enabling classification model training, demographic analysis, and habitability studies. Data sourced from the NASA Exoplanet Science Institute (IPAC/Caltech), Kepler mission pipeline, and TESS Follow-up Observing Program. Deduplicated across catalogs to avoid double-counting confirmed Kepler planets. Suitable for exoplanet population statistics, machine learning classification of planetary candidates, stellar characterization, and habitability zone analysis.",
+  "category": "scientific",
+  "tags": [
+    "exoplanets",
+    "NASA",
+    "Kepler",
+    "TESS",
+    "astronomy",
+    "astrophysics",
+    "planetary-science",
+    "stellar-properties",
+    "habitability",
+    "space",
+    "transit-photometry",
+    "radial-velocity"
+  ],
+  "suggested_price_usd": 2.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 2.99,
+      "label": "heuristic"
+    }
+  ]
+}

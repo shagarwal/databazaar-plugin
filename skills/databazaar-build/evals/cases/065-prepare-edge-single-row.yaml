@@ -1,0 +1,8 @@
+mode: prepare
+kind: standard
+input: evals/fixtures/single-row.csv
+tags: prepare,edge,single-row
+expects:
+  min_rows: 1
+  pii_blocked: false
+notes: "Single row produces output today; v0.4 should add row-count gate (<10 → 'not listable'). Tracking as soft TODO."

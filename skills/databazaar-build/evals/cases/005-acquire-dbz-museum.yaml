@@ -1,0 +1,8 @@
+mode: acquire
+kind: standard
+request: "museum artwork open access metadata"
+tags: acquire,databazaar,cultural-heritage
+expects:
+  min_rows: 100
+  pii_blocked: false
+notes: "Museum artwork listings exist."

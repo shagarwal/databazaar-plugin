@@ -1,0 +1,169 @@
+{
+  "title": "International Flight Routes & Airport Connectivity Network",
+  "description": "Cleaned dataset of 66,771 commercial flight routes connecting 3,214 airports across 225 countries, enriched with airline data, geographic coordinates, route distances, and country-level economic indicators.\n\n## Sources\n- **OpenFlights**: Airport locations, airline information, and route data for all commercial airlines worldwide\n- **World Bank**: Country-level population (2023), GDP per capita (2023), and air passenger volume (2022)\n\n## Key Features\n- Route-level detail: origin/destination airports, airline, distance (km), equipment type\n- Distance classification: short-haul (<500km), medium-haul, long-haul, ultra-long-haul (>4000km)\n- Domestic vs international and intercontinental route flags\n- Country-level economic context: population, GDP per capita, air passenger volumes\n- Continental and timezone coverage for all airports\n\n## Coverage\n- 66,771 routes | 546 airlines | 3,214 airports | 225 countries\n- Distance distribution: 12K short-haul, 28K medium-haul, 20K long-haul, 7K ultra-long-haul\n- Intercontinental routes: 9,479\n\n## Use Cases\n- Aviation network analysis and hub identification\n- Route optimization and market gap analysis\n- Economic corridor mapping between countries\n- Geographic accessibility studies\n- Airline competitive landscape analysis",
+  "category": "geographic",
+  "tags": [
+    "aviation",
+    "airports",
+    "flights",
+    "routes",
+    "transportation",
+    "airlines",
+    "connectivity",
+    "geography",
+    "economics",
+    "global"
+  ],
+  "columns": [
+    {
+      "name": "route_id",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "airline_code",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "airline_name",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "airline_country",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "airline_active",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_airport_code",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_airport_name",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_city",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_country",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_continent",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_latitude",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_longitude",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dest_airport_code",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dest_airport_name",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dest_city",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dest_country",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dest_continent",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dest_latitude",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dest_longitude",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "distance_km",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "distance_class",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "is_codeshare",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "stops",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "equipment",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "is_domestic",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "is_intercontinental",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_country_population",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_country_gdp_per_capita",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dest_country_population",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dest_country_gdp_per_capita",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

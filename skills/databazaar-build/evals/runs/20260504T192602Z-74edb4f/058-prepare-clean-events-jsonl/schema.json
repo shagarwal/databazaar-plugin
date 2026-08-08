@@ -1,0 +1,41 @@
+{
+  "title": "clean-events",
+  "description": "Prepared from proprietary input. 30 rows \u00d7 3 columns.",
+  "category": "other",
+  "tags": [],
+  "columns": [
+    {
+      "name": "event_id",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "name": "type",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "purchase",
+        "click",
+        "click"
+      ]
+    },
+    {
+      "name": "value_cents",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "912",
+        "2253",
+        "1828"
+      ]
+    }
+  ]
+}

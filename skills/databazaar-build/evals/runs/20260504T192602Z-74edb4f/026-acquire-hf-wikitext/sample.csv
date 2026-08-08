@@ -1,0 +1,17 @@
+dataset_id,downloads,likes,tags,description,url,_source,_retrieved_at
+Salesforce/wikitext,1290648,678,"task_categories:text-generation, task_categories:fill-mask, task_ids:language-modeling, task_ids:masked-language-modeling, annotations_creators:no-annotation, language_creators:crowdsourced, multilinguality:monolingual, source_datasets:original, language:en, license:cc-by-sa-3.0, license:gfdl, size_categories:1M<n<10M, format:parquet, modality:text, library:datasets, library:dask, library:polars, library:mlcroissant, arxiv:1609.07843, region:us","
+	
+		
+		Dataset Card for ""wikitext""
+	
+
+
+	
+		
+		Dataset Summary
+	
+
+ The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified
+ Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike License.
+Compared to the preprocessed version of Penn Treebank (PTB), WikiText-2 is over 2 times larger and WikiText-103 is over
+110 times larger. The WikiText dataset also features a far larger… See",https://huggingface.co/datasets/Salesforce/wikitext,huggingface:Salesforce/wikitext,2026-05-04T19:28:10+00:00

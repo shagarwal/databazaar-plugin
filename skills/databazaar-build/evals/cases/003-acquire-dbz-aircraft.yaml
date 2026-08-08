@@ -1,0 +1,8 @@
+mode: acquire
+kind: standard
+request: "US aircraft for-sale listings barnstormers"
+tags: acquire,databazaar,marketplace-snapshot
+expects:
+  min_rows: 30
+  pii_blocked: false
+notes: "Aircraft snapshot listings exist; tests scrape-output category."

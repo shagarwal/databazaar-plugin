@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-05-04T19:28:27+00:00",
+  "row_count": 7,
+  "detections": [
+    {
+      "column": "email",
+      "pattern": "email",
+      "tier": 1,
+      "match_count": 7,
+      "action": "redacted"
+    },
+    {
+      "column": "phone",
+      "pattern": "phone",
+      "tier": 1,
+      "match_count": 7,
+      "action": "redacted"
+    }
+  ],
+  "blocked": false,
+  "blockers": []
+}

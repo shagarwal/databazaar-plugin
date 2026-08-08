@@ -1,0 +1,173 @@
+{
+  "title": "International Tourism, Travel & Transport Statistics (1960\u20132023)",
+  "description": "Multi-source panel dataset covering international tourism, air transport, surface transport, trade in services, and international migration for 218 countries from 1960 to 2023. Contains 13,952 observations across 31 variables including tourism arrivals/departures, receipts/expenditures, air passenger volumes, railway traffic, container port throughput, and derived indicators like tourism intensity per capita and tourism balance.\n\n**Sources:** World Bank Open Data API \u2014 25 indicator series compiled from World Development Indicators (WDI), International Tourism statistics (UNWTO via World Bank), ICAO air transport data, and UN Population Division migration estimates.\n\n**Key Features:**\n- 218 countries and territories\n- 64-year time span (1960\u20132023)\n- 8 core tourism indicators (arrivals, departures, receipts, expenditures)\n- 3 air transport indicators (passengers, departures, freight)\n- 2 surface transport indicators (railways passengers, freight)\n- 5 trade & services indicators\n- 3 migration indicators\n- 4 derived analytical indicators (tourism intensity, receipts % GDP, tourism balance, air passengers per capita)\n- GDP, GDP per capita, and population for contextual analysis\n\n**Format:** Wide panel \u2014 one row per country-year, all indicators as columns. Missing values left blank (not all indicators available for all country-years).\n\n**Use Cases:** Tourism economics research, travel industry analysis, transport infrastructure comparisons, international mobility trends, COVID-19 impact studies on global tourism, development economics.",
+  "category": "social",
+  "tags": [
+    "tourism",
+    "travel",
+    "transport",
+    "air-transport",
+    "migration",
+    "world-bank",
+    "panel-data",
+    "international",
+    "economics"
+  ],
+  "columns": [
+    {
+      "name": "country_code",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "country_name",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "international_tourism_arrivals",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "international_tourism_departures",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tourism_receipts_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tourism_expenditures_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tourism_receipts_pct_exports",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tourism_expenditures_pct_imports",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tourism_receipts_travel_items_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tourism_expenditures_travel_items_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "air_transport_passengers",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "air_transport_departures",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "air_transport_freight_million_ton_km",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "exports_goods_services_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "imports_goods_services_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "travel_services_pct_exports",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "travel_services_pct_imports",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "international_migrant_stock",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "international_migrant_stock_pct_pop",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "net_migration",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "railways_passengers_km",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "railways_freight_million_ton_km",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "container_port_traffic_teu",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gdp_current_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gdp_per_capita_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "population",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tourism_intensity_per_1000",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tourism_receipts_pct_gdp",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tourism_balance_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "air_passengers_per_capita",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

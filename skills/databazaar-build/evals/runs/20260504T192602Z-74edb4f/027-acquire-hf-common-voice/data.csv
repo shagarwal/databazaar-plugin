@@ -1,0 +1,26 @@
+dataset_id,downloads,likes,tags,description,url,_source,_retrieved_at
+AlicanKiraz0/Cybersecurity-Dataset-Fenrir-v2.1,7028,68,"task_categories:text-generation, language:en, license:apache-2.0, size_categories:10K<n<100K, format:json, modality:text, library:datasets, library:pandas, library:polars, library:mlcroissant, region:us, cybersecurity, defensive-security, instruction-tuning","
+	
+		
+		Cybersecurity Defense Instruction-Tuning Dataset (v2.1)
+	
+
+
+
+Created by Alican Kiraz
+
+	
+		
+		TL;DR
+	
+
+A ready-to-train dataset of 99,870 high-quality system / user / assistant triples for defensive, alignment-safe cybersecurity SFT training.
+Apache-2.0 licensed and production-ready.
+Scope: OWASP Top 10, MITRE ATT&CK, NIST CSF, CIS Controls, ASD Essential 8, modern authentication (OAuth 2 / OIDC / SAML), SSL / TLS, Cloud & DevSecOps, Cryptography, and AI Security.
+
+
+	
+		
+	
+	
+		1  What’s… ",https://huggingface.co/datasets/AlicanKiraz0/Cybersecurity-Dataset-Fenrir-v2.1,huggingface:AlicanKiraz0/Cybersecurity-Dataset-Fenrir-v2.1,2026-05-04T19:28:12+00:00

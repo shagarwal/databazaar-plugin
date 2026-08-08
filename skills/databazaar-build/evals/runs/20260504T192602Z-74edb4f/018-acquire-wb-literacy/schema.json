@@ -1,0 +1,158 @@
+{
+  "title": "Gender Equality & Women's Empowerment Indicators (1960\u20132024)",
+  "description": "A extensive panel dataset covering gender equality and women's empowerment indicators for 217+ countries from 1960 to 2024. Compiled from World Bank Gender Statistics, combining 25 indicators per country-year: women in parliament (%), female/male labor force participation, gender parity in education (primary/secondary/tertiary enrollment), maternal mortality rates, adolescent fertility, life expectancy by gender, unemployment by gender, literacy rates by gender, contraceptive prevalence, vulnerable employment, primary school completion rates, births attended by skilled staff, total fertility rate, women justifying violence indicators, female land ownership, and female firm ownership. Over 16,000 rows with 28 columns. Useful for gender research, policy analysis, SDG tracking, and cross-country development comparisons.",
+  "category": "social",
+  "tags": [
+    "gender-equality",
+    "womens-empowerment",
+    "world-bank",
+    "demographics",
+    "sdg",
+    "labor",
+    "education",
+    "health",
+    "country-panel"
+  ],
+  "columns": [
+    {
+      "name": "country_code",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "country_name",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "adolescent_fertility_rate",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "births_attended_skilled_staff_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "contraceptive_prevalence_female_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "female_labor_force_participation_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "female_life_expectancy",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "female_literacy_rate_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "female_primary_completion_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "female_unemployment_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "firms_female_ownership_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gender_parity_primary_enrollment",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gender_parity_secondary_enrollment",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gender_parity_tertiary_enrollment",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "male_labor_force_participation_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "male_life_expectancy",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "male_literacy_rate_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "male_primary_completion_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "male_unemployment_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "maternal_mortality_per_100k",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "total_fertility_rate",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "vulnerable_employment_female_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "vulnerable_employment_male_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "women_justify_beating_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "women_legal_nondiscrimination_score",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "women_own_land_alone_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "women_parliament_pct",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

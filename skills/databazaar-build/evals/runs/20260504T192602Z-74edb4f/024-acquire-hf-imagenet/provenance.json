@@ -1,0 +1,20 @@
+{
+  "skill_version": "0.2.0",
+  "generated_at": "2026-05-04T19:28:08+00:00",
+  "row_count": 1,
+  "sources": [
+    {
+      "name": "HuggingFace dataset keremberke/indoor-scene-classification",
+      "url": "https://huggingface.co/datasets/keremberke/indoor-scene-classification",
+      "license": "see card",
+      "retrieved_at": "2026-05-04T19:28:08+00:00"
+    }
+  ],
+  "rows": [
+    {
+      "row_index": 0,
+      "source": "huggingface:keremberke/indoor-scene-classification",
+      "retrieved_at": "2026-05-04T19:28:08+00:00"
+    }
+  ]
+}

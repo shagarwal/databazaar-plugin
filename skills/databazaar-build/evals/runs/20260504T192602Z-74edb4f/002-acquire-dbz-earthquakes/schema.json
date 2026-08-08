@@ -1,0 +1,156 @@
+{
+  "title": "Seismic Events Database \u2014 94,767 Earthquakes (2020\u20132025)",
+  "description": "Wide-coverage catalog of 94,767 seismic events (magnitude 4.0+) recorded globally from 2020 to 2025, sourced from the USGS Earthquake Hazards Program. Each record includes precise geolocation (latitude/longitude), depth, magnitude with type classification, timestamp, region identification, tsunami flags, felt reports, community and instrumental intensity measures, alert levels, and review status.\n\nKey features:\n- **94,767 unique events** spanning 6 years (2020\u20132025)\n- **Global coverage**: 180+ countries and regions, with major representation from Indonesia, Japan, Philippines, Chile, and the Pacific Ring of Fire\n- **Enriched classifications**: depth class (shallow/intermediate/deep), magnitude class (light/moderate/strong/major/great)\n- **Multi-source validation**: Events cross-referenced across USGS contributing networks\n- **28 columns** including technical parameters (RMS error, azimuthal gap, station count) for advanced seismological analysis\n\nIdeal for: seismic risk modeling, geospatial analysis, climate/disaster research, machine learning (earthquake prediction), insurance risk assessment, and educational use.\n\nData sourced from the USGS Earthquake Hazards Program (earthquake.usgs.gov), a globally authoritative public seismological data source.",
+  "category": "scientific",
+  "tags": [
+    "earthquakes",
+    "seismology",
+    "geospatial",
+    "natural-disasters",
+    "usgs",
+    "global",
+    "time-series"
+  ],
+  "columns": [
+    {
+      "name": "event_id",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "time_utc",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "month",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "latitude",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "longitude",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "depth_km",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "depth_class",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "magnitude",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "magnitude_type",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "magnitude_class",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "place_description",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "region",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "locality",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "event_type",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "tsunami_flag",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "significance",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "felt_reports",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "community_intensity",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "modified_mercalli_intensity",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "alert_level",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "review_status",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "station_count",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "rms_error",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "azimuthal_gap",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "min_distance_deg",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "data_sources",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "usgs_url",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

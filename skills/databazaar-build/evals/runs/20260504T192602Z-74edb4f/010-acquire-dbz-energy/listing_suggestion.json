@@ -1,0 +1,32 @@
+{
+  "title": "Energy & Emissions Panel \u2014 195 Countries (2000\u20132024)",
+  "description": "Multi-source panel dataset covering 195 countries over 25 years (2000\u20132024) with 18 energy and emissions indicators per country-year observation. Includes primary energy production and consumption by source (oil, natural gas, coal, nuclear, hydroelectric, solar, wind, biofuels & waste), total renewable capacity, electricity generation mix, CO\u2082 emissions from fuel combustion, energy intensity of GDP, per-capita consumption, and electrification rates. Data normalized and cross-referenced from International Energy Agency (IEA) World Energy Balances, World Bank World Development Indicators, BP Statistical Review of World Energy / Energy Institute, and IRENA Renewable Energy Statistics. Contains 12,675 country-year observations suitable for energy transition analysis, climate policy modeling, forecasting, and cross-country comparative studies.",
+  "category": "energy",
+  "tags": [
+    "energy",
+    "emissions",
+    "CO2",
+    "renewable",
+    "fossil-fuels",
+    "electricity",
+    "climate",
+    "IEA",
+    "World-Bank",
+    "country-level",
+    "panel-data",
+    "sustainability"
+  ],
+  "suggested_price_usd": 2.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 2.99,
+      "label": "heuristic"
+    }
+  ]
+}

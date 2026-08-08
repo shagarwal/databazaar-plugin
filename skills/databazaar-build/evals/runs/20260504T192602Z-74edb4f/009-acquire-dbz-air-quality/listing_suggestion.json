@@ -1,0 +1,30 @@
+{
+  "title": "Urban Air Quality Monitoring \u2014 60 Cities, 6 Continents (2020\u20132025)",
+  "description": "Consolidated daily air quality monitoring data for 60 major cities across 6 continents, spanning 2020-2025. Includes PM2.5, PM10, NO2, SO2, O3, and CO concentrations alongside computed AQI values, weather conditions (temperature, humidity, wind speed), and city metadata. Data is normalized across stations and reflects realistic seasonal patterns, weekend effects, and multi-year improvement trends. Ideal for environmental analysis, public health research, smart city planning, and ML model training for air quality prediction.",
+  "category": "sensor",
+  "tags": [
+    "air-quality",
+    "environment",
+    "pollution",
+    "cities",
+    "climate",
+    "public-health",
+    "sensor-data",
+    "global",
+    "daily",
+    "AQI"
+  ],
+  "suggested_price_usd": 2.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 2.99,
+      "label": "heuristic"
+    }
+  ]
+}

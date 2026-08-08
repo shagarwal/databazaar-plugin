@@ -1,0 +1,52 @@
+{
+  "title": "pii-mixed-redact",
+  "description": "Prepared from proprietary input. 7 rows \u00d7 4 columns.",
+  "category": "other",
+  "tags": [],
+  "columns": [
+    {
+      "name": "id",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "name": "email",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "u1@x.com",
+        "u2@x.com",
+        "u3@x.com"
+      ]
+    },
+    {
+      "name": "phone",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "415-555-0001",
+        "415-555-0002",
+        "415-555-0003"
+      ]
+    },
+    {
+      "name": "city",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "SF",
+        "SF",
+        "SF"
+      ]
+    }
+  ]
+}

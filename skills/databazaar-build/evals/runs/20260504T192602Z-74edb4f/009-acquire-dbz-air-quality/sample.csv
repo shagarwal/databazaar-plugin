@@ -1,0 +1,1001 @@
+date,city,country,continent,station_id,latitude,longitude,pm25_ugm3,pm10_ugm3,no2_ppb,so2_ppb,o3_ppb,co_mgm3,aqi,aqi_category,temperature_celsius,relative_humidity_pct,wind_speed_kmh,city_population_millions,_source,_retrieved_at
+2020-01-01,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,82.8,130.1,43.5,21.3,13.4,1.63,196,Unhealthy,3.0,72,8.0,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,60.4,122.0,32.9,18.0,32.2,1.19,151,Unhealthy,10.5,72,9.6,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,145.2,270.7,82.5,38.1,7.5,2.9,274,Very Unhealthy,7.1,69,3.8,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,70.7,120.9,46.8,20.9,11.1,1.41,161,Unhealthy,10.4,55,7.9,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,93.3,131.4,60.2,25.0,34.1,1.97,200,Unhealthy,7.5,52,11.7,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,17.0,35.8,8.3,5.8,42.8,0.31,54,Moderate,5.3,62,10.2,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,27.9,60.6,11.3,8.5,16.5,0.37,46,Good,2.7,75,3.4,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,56.4,106.3,42.8,15.7,10.7,1.07,137,Unhealthy for Sensitive Groups,15.6,74,7.0,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,99.8,212.0,56.4,28.6,21.4,2.02,224,Very Unhealthy,8.7,61,15.7,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,100.4,207.6,62.0,22.1,12.4,2.05,209,Very Unhealthy,13.1,60,5.4,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,93.3,148.2,55.5,21.5,11.3,1.96,177,Unhealthy,10.3,64,7.3,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,100.7,205.3,58.8,27.3,20.4,1.94,203,Very Unhealthy,5.0,46,5.3,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,28.6,49.0,18.3,8.3,11.5,0.59,63,Moderate,28.5,72,3.5,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,34.6,74.9,27.1,6.4,17.9,0.99,77,Moderate,3.7,55,4.0,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,10.9,10.7,4.9,3.8,11.8,0.28,38,Good,-0.8,73,7.4,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,24.2,40.1,14.7,0.5,12.9,0.45,69,Moderate,-1.1,71,7.5,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,21.5,49.2,12.0,5.4,21.7,0.59,49,Good,-0.7,54,9.5,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,24.2,33.6,6.3,6.6,18.5,0.58,75,Moderate,1.5,74,7.6,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,16.8,39.3,12.1,4.0,16.2,0.34,32,Good,1.1,77,6.5,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,37.2,71.7,20.4,11.0,18.9,0.75,116,Unhealthy for Sensitive Groups,1.7,42,9.3,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,33.6,55.9,22.2,13.5,8.7,0.97,94,Moderate,-2.2,59,8.2,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,43.3,70.4,26.6,14.6,5,0.98,128,Unhealthy for Sensitive Groups,-0.6,63,8.4,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,28.3,60.2,19.4,1.2,28.8,0.23,56,Moderate,1.9,78,4.8,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,30.9,51.0,19.7,6.7,28.1,0.77,68,Moderate,-1.6,57,11.4,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,7.7,17.3,1,2.0,22.1,0.11,36,Good,-5.9,66,1.9,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,10.4,23.2,7.3,0.6,20.0,0.18,29,Good,-2.7,63,4.8,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,20.4,34.2,17.5,4.7,5,0.38,67,Moderate,4.2,62,5.2,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,21.1,37.6,13.6,5.5,14.9,0.45,55,Moderate,7.1,67,6.1,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,15.3,36.3,7.9,7.5,10.3,0.16,33,Good,-4.2,60,9.0,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,23.6,45.7,7.9,4.2,11.0,0.5,67,Moderate,6.0,69,6.3,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,45.2,73.0,26.6,12.1,23.6,1.03,106,Unhealthy for Sensitive Groups,8.5,42,8.7,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,7.6,9.2,11.3,0.8,12.4,0.28,49,Good,0.1,62,3.9,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,10.2,24.3,6.6,2.0,14.8,0.16,31,Good,-2.4,61,5.3,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,30.9,63.8,18.1,9.3,16.8,0.64,68,Moderate,13.3,46,10.3,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,16.0,20.9,4.9,4.6,27.7,0.32,35,Good,28.5,50,3.3,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,21.6,29.0,6.0,7.4,23.8,0.45,34,Good,43.2,80,8.8,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,17.0,36.4,8.5,7.0,12.8,0.42,30,Good,23.9,67,10.5,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,10.3,19.3,13.7,2.9,12.6,0.25,23,Good,23.9,64,5.4,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,119.2,205.0,64.1,28.4,16.7,2.32,234,Very Unhealthy,5.6,49,12.4,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,87.4,136.3,50.0,20.2,11.1,1.67,189,Unhealthy,15.6,52,7.7,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,18.3,33.7,7.6,4.7,24.6,0.29,19,Good,38.8,59,4.0,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,17.5,34.6,9.5,4.0,11.6,0.42,36,Good,34.0,51,5.8,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,60.9,123.7,38.2,15.1,13.6,1.32,156,Unhealthy,12.8,91,9.4,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,32.7,72.5,18.8,5.9,8.0,0.62,54,Moderate,5.3,67,7.1,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,46.8,86.8,30.9,10.9,5,0.79,113,Unhealthy for Sensitive Groups,19.3,53,8.3,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,4.0,9.4,1.8,2.2,21.5,0.1,6,Good,27.9,66,10.4,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,5.6,4.0,4.8,1.4,19.1,0.3,15,Good,20.1,49,9.2,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,7.9,12.9,2.7,0.5,21.4,0.1,1,Good,24.8,74,11.0,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,67.8,102.0,35.3,13.8,7.2,1.16,135,Unhealthy for Sensitive Groups,4.9,73,9.5,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,106.0,217.3,71.9,25.7,11.8,2.22,231,Very Unhealthy,7.1,59,5.8,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,73.9,126.7,36.8,19.4,25.7,1.38,186,Unhealthy,-2.2,60,9.3,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,115.5,236.7,73.5,22.9,5,2.28,242,Very Unhealthy,2.2,58,6.7,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,69.9,130.7,46.2,19.6,19.1,1.26,139,Unhealthy for Sensitive Groups,10.6,70,6.0,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,44.1,71.8,28.4,11.8,7.5,0.94,110,Unhealthy for Sensitive Groups,9.2,66,3.9,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,50.5,82.8,39.0,14.1,5,1.14,130,Unhealthy for Sensitive Groups,7.8,44,5.7,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,52.0,118.9,32.3,12.1,23.0,1.08,129,Unhealthy for Sensitive Groups,1.1,53,14.0,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,64.7,103.7,37.8,17.0,5,1.22,151,Unhealthy,6.4,64,7.4,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,69.1,114.3,42.8,15.3,11.0,1.5,167,Unhealthy,10.3,59,3.9,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-01,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,49.3,92.0,27.0,12.8,5.1,0.88,129,Unhealthy for Sensitive Groups,6.0,50,10.5,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,84.4,132.9,54.0,21.6,12.2,1.69,218,Very Unhealthy,3.0,65,19.8,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,61.7,118.1,39.1,15.9,8.4,1.47,169,Unhealthy,10.8,80,18.5,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,130.9,272.2,80.6,30.5,19.0,2.61,244,Very Unhealthy,10.0,39,3.9,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,53.1,92.3,36.3,15.3,12.0,1.07,128,Unhealthy for Sensitive Groups,13.0,57,6.0,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,75.1,154.7,42.9,18.4,11.0,1.44,160,Unhealthy,6.2,61,5.0,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,26.5,53.3,13.8,4.9,18.7,0.62,82,Moderate,-0.2,64,8.2,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,35.2,72.9,23.0,8.8,21.0,0.73,82,Moderate,7.1,77,4.3,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,52.1,74.5,28.7,12.6,20.1,1.21,136,Unhealthy for Sensitive Groups,7.9,58,5.5,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,42.6,63.2,17.8,8.5,14.5,0.89,102,Unhealthy for Sensitive Groups,12.8,62,8.3,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,89.0,128.2,57.8,20.1,13.5,1.86,197,Unhealthy,6.0,64,14.4,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,121.3,189.1,74.6,28.8,17.4,2.23,241,Very Unhealthy,7.5,64,11.1,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,98.2,161.0,52.4,26.4,6.2,2.07,198,Unhealthy,6.0,71,3.0,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,128.1,249.4,75.0,35.7,5,2.67,244,Very Unhealthy,5.2,58,4.7,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,24.2,46.1,12.7,7.8,24.5,0.64,69,Moderate,18.4,70,4.9,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,27.3,43.2,21.3,6.2,10.0,0.5,62,Moderate,6.0,63,7.7,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,11.8,27.6,10.1,3.5,15.1,0.28,52,Moderate,-0.8,66,7.8,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,14.4,38.4,12.1,4.0,16.1,0.46,33,Good,-4.8,54,8.2,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,16.1,35.1,11.2,5.8,10.7,0.3,52,Moderate,0.1,66,4.9,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,29.8,58.6,21.7,8.4,5,0.55,78,Moderate,2.8,73,11.6,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,25.3,40.0,17.9,3.7,11.2,0.36,49,Good,-1.1,56,3.1,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,45.1,72.7,26.7,11.4,12.9,1.01,95,Moderate,-5.3,52,5.6,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,31.5,58.1,22.0,7.9,18.0,0.77,82,Moderate,-0.8,73,6.1,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,23.6,33.2,15.7,4.0,19.6,0.3,50,Good,-4.7,57,3.1,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,30.4,59.7,22.3,11.1,13.2,0.54,87,Moderate,5.5,57,3.6,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,7.7,7.9,6.2,1.3,19.2,0.2,41,Good,-3.8,84,6.0,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,12.8,31.1,1.2,5.2,17.4,0.28,38,Good,-2.0,64,8.3,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,13.3,21.5,15.7,1.5,18.8,0.24,65,Moderate,-3.6,64,13.1,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,13.5,28.6,6.8,3.7,27.1,0.39,38,Good,9.3,72,9.2,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,19.1,36.8,11.1,3.3,17.9,0.43,61,Moderate,-0.7,60,11.9,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,20.3,43.9,16.9,7.5,5,0.58,81,Moderate,6.1,61,3.7,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,42.1,61.7,30.7,13.4,18.1,0.94,103,Unhealthy for Sensitive Groups,15.5,74,6.6,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,17.2,32.8,13.0,3.2,12.7,0.33,47,Good,-2.7,58,5.1,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,11.3,18.4,11.8,0.5,5.7,0.21,30,Good,2.2,64,8.4,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,27.1,63.5,21.4,6.2,17.4,0.69,79,Moderate,23.1,66,20.4,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,12.6,23.2,1,3.1,19.2,0.15,49,Good,32.0,39,6.0,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,20.2,22.1,10.4,4.5,13.7,0.62,62,Moderate,35.5,73,4.9,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,16.6,38.9,3.6,4.6,20.8,0.1,32,Good,24.7,38,2.8,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,86.6,141.5,51.4,20.2,5,1.67,202,Very Unhealthy,12.4,55,4.7,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,12.7,18.1,8.5,3.9,24.3,0.41,39,Good,44.2,54,4.0,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,7.5,11.4,8.8,0.5,11.2,0.35,22,Good,35.1,54,10.1,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,66.9,90.5,36.4,16.5,6.1,1.22,147,Unhealthy for Sensitive Groups,11.7,97,9.0,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,54.6,97.3,32.5,10.5,29.2,1.05,107,Unhealthy for Sensitive Groups,8.1,84,3.2,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,43.8,71.5,21.8,14.5,9.5,0.89,94,Moderate,12.2,51,3.8,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,14.0,17.0,1,0.5,6.2,0.1,19,Good,29.1,61,8.1,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,7.0,9.7,1,3.4,13.2,0.15,5,Good,26.3,64,3.1,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,1.9,2.8,1,1.9,15.0,0.1,19,Good,25.6,70,4.6,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,65.1,106.0,35.6,14.4,24.9,1.18,149,Unhealthy for Sensitive Groups,4.5,60,6.0,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,56.9,88.5,35.3,10.2,16.2,1.08,111,Unhealthy for Sensitive Groups,2.7,56,3.7,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,74.6,140.6,48.2,20.2,19.9,1.45,156,Unhealthy,8.5,59,3.9,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,98.9,177.2,60.5,26.4,21.1,1.91,210,Very Unhealthy,2.1,53,4.1,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,57.3,98.6,31.6,14.5,9.1,1.24,133,Unhealthy for Sensitive Groups,10.1,35,8.6,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,47.6,105.2,21.4,8.9,9.7,0.89,107,Unhealthy for Sensitive Groups,14.2,50,8.5,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,66.2,113.7,44.5,13.5,23.0,1.5,150,Unhealthy for Sensitive Groups,5.9,57,4.1,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,48.7,78.8,27.5,10.2,26.6,0.96,111,Unhealthy for Sensitive Groups,7.6,47,4.3,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,75.0,124.4,51.3,18.1,22.4,1.67,172,Unhealthy,5.8,65,7.7,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-02,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,49.2,78.5,36.6,11.4,22.8,1.01,136,Unhealthy for Sensitive Groups,10.4,72,2.7,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,64.0,127.1,41.7,16.6,12.1,1.35,158,Unhealthy,-4.2,53,1.8,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,75.1,117.8,33.7,19.1,21.3,1.2,163,Unhealthy,12.0,51,12.3,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,168.4,360.3,102.3,47.0,30.0,3.33,346,Hazardous,3.5,57,5.8,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,72.1,110.9,35.9,14.8,10.2,1.52,175,Unhealthy,15.2,49,6.1,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,103.9,165.8,64.1,25.6,5,1.99,230,Very Unhealthy,13.6,61,7.2,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,19.2,39.4,7.0,7.6,27.7,0.31,62,Moderate,4.4,65,7.1,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,25.3,40.0,22.5,7.2,13.4,0.38,73,Moderate,6.7,66,2.6,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,60.1,111.7,36.6,13.7,14.0,0.98,144,Unhealthy for Sensitive Groups,9.4,63,5.8,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,62.5,128.1,34.0,18.1,17.8,1.6,167,Unhealthy,16.9,58,4.3,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,64.3,133.6,45.5,18.3,11.5,1.28,141,Unhealthy for Sensitive Groups,5.7,56,5.2,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,110.3,158.9,67.9,26.9,6.9,2.07,222,Very Unhealthy,8.8,69,7.5,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,97.7,138.6,64.1,28.6,18.0,2.07,212,Very Unhealthy,8.2,50,4.5,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,105.8,216.7,60.0,24.0,8.8,2.08,212,Very Unhealthy,8.4,71,4.3,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,25.4,43.0,20.1,12.2,12.4,0.52,71,Moderate,16.5,69,3.7,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,29.7,62.2,10.7,3.1,7.7,0.58,78,Moderate,8.4,67,7.7,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,8.5,13.8,1,0.9,12.4,0.31,33,Good,-1.8,59,5.9,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,21.5,38.9,17.4,4.9,20.6,0.35,65,Moderate,5.7,76,5.1,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,16.6,28.5,11.2,6.1,11.6,0.24,43,Good,-4.1,69,10.7,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,24.1,48.7,7.5,6.4,28.2,0.45,64,Moderate,-4.5,62,6.7,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,39.1,70.5,28.4,10.5,28.2,0.93,98,Moderate,-2.8,70,8.8,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,44.9,59.3,26.2,11.6,15.5,0.95,98,Moderate,-0.3,39,4.2,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,42.6,67.0,26.6,11.3,15.4,0.71,81,Moderate,-1.4,44,7.7,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,27.5,36.9,16.4,7.4,5.7,0.58,68,Moderate,-4.9,59,11.4,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,35.1,76.2,24.7,7.5,34.5,0.62,88,Moderate,2.5,50,2.4,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,20.7,27.4,8.2,5.5,18.6,0.32,37,Good,-4.5,35,4.1,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,15.6,31.2,7.9,2.7,5.1,0.43,53,Moderate,0.8,45,9.9,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,16.5,24.6,12.2,4.9,19.6,0.21,58,Moderate,1.5,61,5.3,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,23.5,49.5,17.5,10.1,5,0.38,65,Moderate,3.5,64,4.3,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,17.6,25.7,12.6,2.1,8.2,0.33,51,Moderate,-0.9,83,4.1,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,23.2,51.1,10.7,2.5,33.3,0.4,62,Moderate,14.1,54,3.4,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,50.2,101.1,29.6,9.4,11.6,0.8,111,Unhealthy for Sensitive Groups,3.5,52,5.4,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,6.9,9.1,9.8,2.0,11.3,0.16,28,Good,1.1,56,5.1,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,6.6,16.1,1.8,1.5,13.2,0.18,16,Good,-4.1,71,7.8,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,33.1,47.2,19.4,5.9,10.7,0.56,84,Moderate,17.0,47,6.1,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,13.5,22.7,5.0,1.6,23.9,0.22,33,Good,29.1,62,7.8,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,31.9,59.9,14.7,8.5,15.1,0.59,68,Moderate,29.9,51,4.1,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,19.4,38.9,16.5,2.4,23.8,0.43,59,Moderate,28.7,57,4.1,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,10.4,14.2,4.8,1.7,11.9,0.34,26,Good,29.7,46,3.9,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,119.3,182.4,66.0,28.4,17.9,2.3,246,Very Unhealthy,3.3,48,6.6,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,83.4,143.4,50.0,22.8,5,1.55,179,Unhealthy,14.5,50,10.7,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,16.3,32.5,12.2,3.3,5,0.23,34,Good,35.1,71,9.4,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,18.6,31.6,6.9,3.1,44.9,0.34,52,Moderate,6.2,50,1.8,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,34.1,54.4,25.0,9.7,18.4,0.72,94,Moderate,12.1,58,7.7,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,7.6,19.8,3.2,7.5,5,0.2,23,Good,29.7,54,17.4,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,5.0,3.4,5.1,0.5,5,0.2,21,Good,25.3,83,14.6,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,1.2,2,1.6,0.5,18.1,0.1,27,Good,24.9,71,6.8,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,79.1,157.9,47.7,21.0,9.0,1.83,172,Unhealthy,9.6,75,2.5,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,95.2,144.9,60.8,23.7,22.7,1.76,200,Unhealthy,8.9,74,5.9,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,99.4,209.4,59.2,25.3,18.0,1.86,232,Very Unhealthy,6.1,65,8.8,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,139.6,210.8,79.4,31.9,8.8,2.63,263,Very Unhealthy,6.8,68,19.0,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,56.6,100.9,35.6,16.2,20.7,1.32,147,Unhealthy for Sensitive Groups,10.7,52,13.1,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,41.4,74.8,19.4,13.5,21.5,0.87,86,Moderate,19.8,68,7.2,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,49.8,99.7,28.7,11.2,5,1.17,114,Unhealthy for Sensitive Groups,13.6,60,6.1,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,62.1,110.6,35.8,14.9,24.7,1.32,165,Unhealthy,3.2,58,12.1,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,47.4,100.4,31.8,11.0,19.3,0.97,126,Unhealthy for Sensitive Groups,8.8,44,7.4,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,65.7,106.8,47.3,17.1,32.3,1.41,164,Unhealthy,6.9,52,6.5,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-03,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,32.5,55.0,21.3,5.3,10.0,0.67,91,Moderate,15.1,65,4.0,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,77.2,149.3,44.4,18.4,19.3,1.46,195,Unhealthy,2.3,64,4.9,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,50.7,114.8,37.1,13.9,31.0,1.11,152,Unhealthy,7.9,60,6.5,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,90.7,186.7,63.6,23.2,9.9,1.95,176,Unhealthy,7.2,69,14.8,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,60.7,124.7,41.7,15.1,12.4,1.41,129,Unhealthy for Sensitive Groups,6.1,58,2.6,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,83.1,139.7,42.5,20.0,8.9,1.61,176,Unhealthy,10.9,76,6.6,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,16.5,37.0,12.0,3.5,19.9,0.37,54,Moderate,6.2,46,5.1,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,21.8,36.3,13.2,3.7,20.8,0.44,51,Moderate,-1.9,64,4.5,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,50.5,81.5,30.4,10.3,17.3,1.06,104,Unhealthy for Sensitive Groups,12.4,62,5.8,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,55.9,110.4,35.7,14.5,21.8,1.13,132,Unhealthy for Sensitive Groups,14.2,54,4.5,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,63.5,103.6,33.9,13.0,5.3,1.32,117,Unhealthy for Sensitive Groups,10.5,50,6.5,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,91.3,153.2,62.4,22.6,13.1,1.92,180,Unhealthy,10.1,20,7.3,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,129.6,209.3,69.8,29.2,28.0,2.56,257,Very Unhealthy,3.9,50,14.6,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,134.1,238.4,85.1,34.9,19.0,2.72,271,Very Unhealthy,12.4,60,4.5,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,19.9,18.7,8.6,6.1,5,0.6,46,Good,12.8,77,5.5,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,36.3,80.8,16.7,10.0,34.6,0.52,58,Moderate,8.9,53,6.6,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,19.5,46.8,8.3,9.2,15.1,0.45,53,Moderate,4.7,47,3.5,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,14.9,37.7,17.5,6.9,22.5,0.21,35,Good,-3.4,62,4.8,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,17.1,44.2,8.6,2.3,16.2,0.3,46,Good,-8.6,62,9.2,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,15.1,26.9,9.8,5.2,22.7,0.33,39,Good,3.3,57,7.5,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,38.6,61.6,21.5,9.4,27.4,0.63,67,Moderate,-0.1,68,8.9,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,29.5,54.2,15.5,8.3,16.6,0.56,72,Moderate,-1.1,52,5.1,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,30.6,60.8,21.8,7.6,24.8,0.63,81,Moderate,6.6,66,7.1,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,26.6,54.0,10.2,4.7,20.7,0.62,64,Moderate,-1.4,52,8.8,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,19.1,28.7,11.2,11.0,13.8,0.48,53,Moderate,-4.7,73,11.7,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,9.0,11.8,7.9,2.0,24.6,0.31,20,Good,-8.0,51,5.4,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,4.5,7.5,6.3,2.4,25.5,0.18,42,Good,-3.2,67,6.7,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,8.3,15.3,4.5,3.1,29.1,0.41,29,Good,7.6,62,4.8,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,29.1,49.2,14.7,7.1,10.2,0.39,84,Moderate,5.5,66,17.7,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,14.0,19.2,14.8,6.9,27.6,0.36,50,Good,3.6,77,8.9,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,15.4,24.6,10.4,4.8,17.3,0.26,61,Moderate,9.1,78,6.8,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,35.3,55.2,25.5,5.3,6.8,0.89,88,Moderate,9.6,52,5.6,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,15.6,29.4,8.8,3.7,30.3,0.21,68,Moderate,-1.1,51,5.1,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,3.0,9.9,7.7,0.5,5,0.1,36,Good,-3.3,54,9.2,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,29.4,66.5,12.4,7.8,5.6,0.48,59,Moderate,15.7,45,5.4,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,10.3,21.5,11.6,3.7,5,0.17,20,Good,35.5,44,9.0,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,24.7,52.7,17.0,4.4,18.8,0.28,54,Moderate,35.0,76,5.0,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,12.9,25.9,6.5,4.8,9.8,0.3,22,Good,28.0,63,8.6,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,4.3,4.4,10.0,2.2,6.8,0.1,15,Good,27.6,59,2.7,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,68.5,95.4,37.2,12.8,27.7,1.34,142,Unhealthy for Sensitive Groups,7.3,69,3.3,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,63.5,99.9,36.9,18.2,21.6,1.29,142,Unhealthy for Sensitive Groups,16.9,52,3.1,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,12.8,25.3,9.3,6.6,33.9,0.47,42,Good,41.8,76,6.6,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,17.3,26.2,9.3,6.9,15.5,0.31,38,Good,30.0,50,4.8,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,38.4,59.1,20.4,10.3,26.7,0.97,112,Unhealthy for Sensitive Groups,19.9,69,4.0,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,28.5,55.5,18.4,5.8,16.0,0.66,64,Moderate,9.4,60,7.2,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,32.5,53.9,32.2,7.8,24.4,0.73,82,Moderate,17.2,62,8.8,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,4.7,8.2,1.3,0.5,22.6,0.1,6,Good,32.7,70,3.8,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,7.8,10.6,1,3.3,23.9,0.3,20,Good,28.2,68,9.0,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,4.9,3.2,1,1.8,15.2,0.1,8,Good,26.2,61,4.5,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,60.3,119.0,37.7,14.8,24.1,1.27,137,Unhealthy for Sensitive Groups,7.1,53,4.0,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,43.5,61.0,26.2,14.0,5,0.96,94,Moderate,6.3,60,3.1,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,52.0,94.8,27.0,14.4,22.2,0.99,111,Unhealthy for Sensitive Groups,0.8,66,7.6,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,95.1,204.4,55.5,23.1,24.5,1.69,184,Unhealthy,0.7,62,7.5,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,48.3,103.3,30.8,10.7,13.5,0.9,105,Unhealthy for Sensitive Groups,13.1,44,2.5,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,31.9,64.1,16.0,3.5,25.2,0.67,60,Moderate,17.6,49,3.2,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,56.9,105.5,34.7,12.1,9.7,1.27,149,Unhealthy for Sensitive Groups,1.1,47,6.1,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,46.0,105.3,28.2,13.5,22.0,0.92,108,Unhealthy for Sensitive Groups,7.7,74,17.7,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,64.7,101.4,41.4,18.1,14.5,1.33,141,Unhealthy for Sensitive Groups,5.2,51,3.6,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-04,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,28.9,60.0,16.2,10.0,5,0.61,79,Moderate,12.1,71,2.2,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,68.5,131.4,44.1,19.3,18.9,1.42,158,Unhealthy,2.1,39,9.7,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,51.0,102.9,30.2,18.6,10.1,1.02,140,Unhealthy for Sensitive Groups,8.2,60,9.7,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,127.7,245.1,73.1,29.8,7.6,2.69,245,Very Unhealthy,9.0,73,4.4,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,58.4,84.5,32.5,12.7,27.0,1.17,132,Unhealthy for Sensitive Groups,10.4,62,15.9,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,68.6,137.6,44.5,17.8,18.7,1.29,149,Unhealthy for Sensitive Groups,8.1,58,4.5,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,22.9,51.1,10.6,4.8,15.8,0.31,46,Good,7.6,51,7.6,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,27.0,51.8,10.8,3.6,26.2,0.46,65,Moderate,5.0,55,7.6,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,44.8,60.9,20.9,12.6,9.7,1.0,118,Unhealthy for Sensitive Groups,10.5,33,11.8,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,65.3,110.2,38.2,16.3,6.1,1.19,148,Unhealthy for Sensitive Groups,15.8,69,7.4,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,48.8,92.7,24.5,12.2,13.0,1.04,111,Unhealthy for Sensitive Groups,10.6,51,5.5,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,89.1,154.5,48.9,23.4,14.9,1.69,163,Unhealthy,10.3,44,6.7,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,64.8,106.4,31.2,15.5,22.8,1.26,122,Unhealthy for Sensitive Groups,6.9,65,8.6,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,19.5,47.4,14.4,4.5,13.9,0.53,69,Moderate,17.3,48,5.1,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,14.8,17.9,13.2,3.9,25.9,0.3,45,Good,7.1,69,2.4,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,19.6,36.6,10.4,3.1,25.5,0.38,60,Moderate,1.1,43,3.1,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,18.6,25.1,10.8,2.7,12.0,0.18,41,Good,-4.7,55,8.8,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,12.2,16.6,8.5,0.7,15.8,0.4,29,Good,-3.9,55,6.2,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,6.0,7.2,8.0,3.6,25.0,0.34,39,Good,4.2,61,10.5,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,31.3,50.2,12.7,9.0,5,0.57,87,Moderate,3.7,72,4.3,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,26.5,42.0,19.6,3.2,16.7,0.34,47,Good,1.4,64,4.5,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,36.0,72.7,16.2,7.3,16.7,0.79,97,Moderate,-1.6,60,6.5,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,26.1,46.8,13.8,6.0,15.4,0.48,54,Moderate,-4.2,63,8.8,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,21.7,31.4,13.6,6.5,8.7,0.41,71,Moderate,3.6,69,4.0,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,9.3,6.9,5.9,5.5,19.4,0.12,26,Good,-6.9,60,10.1,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,7.3,18.3,7.4,3.0,30.3,0.23,23,Good,-4.7,51,12.7,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,12.5,24.0,15.3,2.0,18.8,0.2,27,Good,0.8,57,7.7,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,17.3,31.8,13.3,4.3,27.9,0.39,50,Good,5.5,48,4.7,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,17.8,39.9,3.7,3.4,7.3,0.26,37,Good,2.3,69,4.4,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,28.6,42.5,14.5,7.4,12.1,0.51,68,Moderate,7.2,61,7.4,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,48.6,89.8,31.3,10.6,5,1.0,125,Unhealthy for Sensitive Groups,7.7,52,4.6,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,12.4,28.1,3.8,1.0,22.5,0.1,38,Good,2.1,61,2.0,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,9.7,22.2,14.8,1.2,13.1,0.16,38,Good,1.0,63,11.4,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,19.8,45.1,12.0,2.9,18.6,0.48,55,Moderate,20.4,65,4.3,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,16.1,32.0,12.7,4.3,13.1,0.42,35,Good,28.3,76,6.0,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,21.9,32.9,10.4,8.5,27.1,0.33,35,Good,33.0,48,6.3,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,9.8,24.7,2.2,6.8,14.2,0.18,28,Good,27.4,58,9.9,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,11.0,24.6,4.0,0.5,19.0,0.23,22,Good,25.4,55,6.9,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,73.6,121.1,43.7,17.6,8.6,1.51,145,Unhealthy for Sensitive Groups,7.1,64,6.6,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,78.5,141.5,53.2,21.0,27.7,1.56,171,Unhealthy,21.7,59,6.4,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,9.9,16.4,5.5,3.7,7.6,0.15,21,Good,39.6,67,12.9,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,51.9,74.5,31.9,16.0,28.4,1.06,146,Unhealthy for Sensitive Groups,11.3,61,10.4,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,35.2,68.3,25.1,4.9,9.2,0.73,81,Moderate,5.3,68,4.7,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,26.7,34.0,9.4,5.1,18.6,0.65,59,Moderate,11.1,39,7.3,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,9.5,22.4,4.9,1.9,12.7,0.14,27,Good,24.5,42,4.9,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,10.2,9.4,1,0.5,24.1,0.24,18,Good,26.0,70,3.0,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,1.3,2,5.1,0.5,12.4,0.1,12,Good,26.7,68,9.5,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,91.8,125.4,57.2,23.3,16.9,1.79,198,Unhealthy,5.8,56,2.0,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,70.8,113.7,31.9,18.0,5,1.32,165,Unhealthy,5.3,50,8.8,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,76.5,145.6,47.6,21.9,19.0,1.58,165,Unhealthy,4.5,75,7.8,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,50.0,107.6,28.6,12.4,9.1,1.09,95,Moderate,19.0,65,3.0,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,33.1,50.0,19.9,9.9,7.4,0.76,87,Moderate,12.2,63,16.7,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,40.4,88.3,25.3,8.0,15.2,0.72,85,Moderate,17.1,46,4.6,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,60.2,90.2,34.4,17.9,19.6,1.03,141,Unhealthy for Sensitive Groups,5.3,62,26.4,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,59.2,116.8,32.6,15.0,38.5,1.19,131,Unhealthy for Sensitive Groups,10.3,49,2.6,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,63.0,108.1,45.0,16.7,20.8,1.21,164,Unhealthy,5.3,78,13.4,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-05,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,35.4,67.1,19.9,7.4,19.5,0.86,85,Moderate,9.8,52,10.5,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,60.6,108.2,34.4,14.7,13.1,1.19,144,Unhealthy for Sensitive Groups,3.3,54,9.0,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,42.5,74.2,26.0,11.2,23.7,0.87,108,Unhealthy for Sensitive Groups,7.9,56,5.7,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,152.0,322.7,92.3,36.7,5,3.01,288,Very Unhealthy,9.3,63,6.3,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,74.0,145.9,46.2,17.6,10.3,1.36,173,Unhealthy,12.2,55,3.8,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,109.5,178.0,77.0,26.5,23.0,2.2,226,Very Unhealthy,8.8,45,6.5,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,27.6,42.1,15.9,7.7,14.9,0.1,57,Moderate,3.4,67,7.6,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,35.5,49.1,23.5,7.3,23.9,0.74,109,Unhealthy for Sensitive Groups,6.0,64,15.3,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,46.3,94.9,28.0,12.2,5.7,1.03,126,Unhealthy for Sensitive Groups,13.3,50,9.6,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,73.7,147.3,42.2,16.1,20.7,1.51,169,Unhealthy,18.1,68,8.4,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,66.1,105.8,41.0,18.8,21.3,1.42,153,Unhealthy,13.1,65,7.9,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,89.9,133.9,49.4,22.4,19.2,1.81,172,Unhealthy,10.1,57,7.8,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,97.8,167.7,58.5,26.7,15.6,1.98,205,Very Unhealthy,9.4,53,3.9,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,165.3,360.3,92.3,43.8,17.2,3.34,322,Hazardous,7.9,60,6.3,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,18.9,28.3,10.3,2.0,10.2,0.43,52,Moderate,16.8,76,6.7,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,21.3,41.7,8.7,5.8,7.5,0.32,57,Moderate,-0.8,58,1.8,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,16.8,39.7,10.5,2.4,14.8,0.29,50,Good,-2.7,67,7.0,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,15.0,38.6,6.7,7.2,18.0,0.37,57,Moderate,1.0,50,3.4,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,15.9,32.9,19.1,5.9,12.3,0.28,48,Good,4.7,68,3.5,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,33.9,61.6,16.8,7.5,25.4,0.73,90,Moderate,-0.8,78,13.9,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,30.7,75.1,11.7,6.7,29.8,0.63,73,Moderate,0.6,45,3.8,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,33.0,58.5,22.1,6.4,8.4,0.58,98,Moderate,-4.0,59,4.3,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,39.4,94.4,23.6,8.4,16.5,0.74,99,Moderate,1.4,61,8.4,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,22.6,47.4,11.0,4.5,15.0,0.55,67,Moderate,-0.2,59,4.3,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,27.9,42.1,19.2,8.2,8.2,0.45,77,Moderate,6.7,63,5.2,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,11.3,12.4,10.1,4.4,25.7,0.25,36,Good,-7.4,61,14.9,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,12.5,16.1,11.7,0.5,14.7,0.16,40,Good,0.3,37,7.1,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,22.1,35.2,17.1,1.8,19.8,0.4,62,Moderate,3.4,72,4.1,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,32.0,46.1,16.6,7.2,17.8,0.57,93,Moderate,0.9,55,8.0,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,17.7,32.1,4.4,3.3,33.3,0.47,58,Moderate,3.7,72,8.2,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,26.1,50.6,13.1,5.2,23.4,0.43,71,Moderate,3.2,65,4.9,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,38.0,72.5,21.9,9.3,5,0.89,93,Moderate,8.1,37,6.9,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,14.1,19.1,7.0,1.9,16.3,0.13,33,Good,1.2,59,5.4,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,12.0,20.6,3.8,1.2,15.8,0.39,42,Good,-3.9,72,6.7,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,33.5,73.6,12.3,4.6,17.4,0.69,67,Moderate,13.9,74,4.5,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,11.5,23.0,14.3,4.8,5,0.12,52,Moderate,32.0,61,12.0,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,22.9,44.5,16.9,4.7,20.9,0.54,70,Moderate,38.7,57,5.0,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,20.7,23.5,13.9,7.2,33.0,0.43,44,Good,28.5,53,5.4,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,95.6,139.0,59.8,21.9,14.6,1.94,215,Very Unhealthy,4.1,78,5.0,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,81.9,124.3,49.5,18.6,9.4,1.65,182,Unhealthy,15.2,64,7.7,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,12.9,26.5,12.1,3.2,12.7,0.39,38,Good,42.8,71,9.8,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,18.0,32.5,3.4,6.5,13.9,0.21,33,Good,33.7,38,5.8,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,48.6,81.2,24.6,13.7,11.9,0.92,103,Unhealthy for Sensitive Groups,17.7,39,5.8,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,34.8,68.0,19.3,11.5,25.0,0.71,73,Moderate,1.9,45,6.3,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,22.4,33.3,21.0,3.2,8.5,0.33,63,Moderate,12.8,57,7.0,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,5.6,2,1,3.5,34.0,0.15,18,Good,30.0,43,4.9,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,1,2.1,3.9,2.3,19.7,0.1,21,Good,24.7,56,7.6,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,10.2,22.4,1.7,1.1,16.6,0.17,11,Good,28.6,65,4.7,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,76.0,161.2,44.9,19.0,8.4,1.53,178,Unhealthy,5.6,67,7.9,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,115.6,183.6,70.9,30.1,18.4,2.52,246,Very Unhealthy,5.4,60,7.5,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,68.7,99.7,42.1,15.9,18.4,1.47,169,Unhealthy,-0.9,50,3.8,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,79.0,145.8,41.8,15.2,17.5,1.56,161,Unhealthy,13.7,56,9.5,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,71.1,143.7,41.2,14.9,5.4,1.37,164,Unhealthy,11.3,73,5.7,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,30.5,61.8,17.1,9.7,9.9,0.52,52,Moderate,20.4,63,7.0,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,48.6,71.3,38.0,13.6,16.4,1.07,128,Unhealthy for Sensitive Groups,14.5,68,8.6,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,64.8,110.9,43.4,18.7,14.2,1.09,170,Unhealthy,6.5,52,5.3,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,53.2,108.9,31.4,11.1,20.1,0.99,111,Unhealthy for Sensitive Groups,6.4,57,8.5,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,90.8,154.2,45.0,22.3,14.0,1.93,208,Very Unhealthy,9.3,56,5.0,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-06,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,35.6,70.5,14.1,8.7,22.9,0.62,76,Moderate,5.2,55,5.7,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,79.1,164.9,41.0,22.4,12.7,1.56,183,Unhealthy,3.6,54,23.1,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,68.9,98.9,45.0,15.0,5,1.42,184,Unhealthy,10.3,49,5.0,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,117.0,173.2,68.2,26.6,19.6,2.43,213,Very Unhealthy,8.6,69,3.1,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,85.3,158.4,55.1,22.0,13.5,1.54,176,Unhealthy,9.7,52,6.9,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,71.4,145.9,36.6,22.3,16.6,1.43,140,Unhealthy for Sensitive Groups,3.1,49,4.1,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,21.1,40.6,12.5,2.1,19.6,0.39,60,Moderate,7.1,61,2.5,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,33.3,63.2,17.2,9.2,28.2,0.55,79,Moderate,7.0,63,4.2,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,56.1,81.4,32.5,16.7,26.0,1.07,133,Unhealthy for Sensitive Groups,10.4,40,3.0,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,64.2,144.5,41.9,17.6,19.8,1.42,154,Unhealthy,11.0,48,3.0,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,83.8,133.9,46.3,23.1,5,1.64,161,Unhealthy,12.9,57,17.6,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,108.2,185.3,59.4,22.5,23.1,2.19,222,Very Unhealthy,11.0,47,6.0,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,94.1,166.1,53.1,24.3,11.1,1.91,185,Unhealthy,-0.1,71,6.7,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,27.8,56.0,17.8,7.4,20.2,0.54,80,Moderate,14.7,72,6.3,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,31.1,58.2,7.8,6.1,17.0,0.57,71,Moderate,7.0,52,5.6,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,21.3,49.5,18.3,4.0,16.6,0.53,55,Moderate,-4.3,54,2.7,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,20.8,44.7,8.9,5.3,25.1,0.18,56,Moderate,3.2,77,5.7,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,6.6,15.7,12.0,4.2,17.8,0.32,28,Good,-1.2,67,14.0,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,16.4,37.0,9.2,5.8,9.0,0.48,50,Good,3.6,52,12.8,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,14.5,31.0,14.7,10.0,16.9,0.46,49,Good,1.9,56,6.4,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,30.7,64.8,18.6,8.5,14.9,0.56,83,Moderate,3.2,65,3.4,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,44.4,93.2,23.4,11.4,8.8,0.74,109,Unhealthy for Sensitive Groups,-1.6,56,10.0,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,45.8,86.4,16.4,13.2,24.3,0.77,90,Moderate,6.4,54,4.5,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,25.1,53.3,26.1,6.5,20.1,0.28,69,Moderate,-10.4,46,2.3,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,33.4,58.4,18.8,4.8,17.1,0.69,81,Moderate,1.8,47,3.8,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,5.5,12.3,4.5,6.8,24.5,0.18,57,Moderate,-3.3,64,8.5,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,10.5,20.3,6.8,1.8,23.3,0.19,32,Good,5.2,66,7.5,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,18.2,38.6,5.2,3.3,20.2,0.31,44,Good,2.0,70,3.3,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,27.2,53.7,16.3,6.3,5.1,0.63,94,Moderate,7.4,61,3.9,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,21.8,32.2,16.3,6.2,22.0,0.51,60,Moderate,0.1,59,5.7,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,24.0,43.1,15.2,11.4,8.5,0.44,71,Moderate,0.6,50,5.2,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,55.8,84.1,36.2,12.4,17.4,1.19,132,Unhealthy for Sensitive Groups,8.9,55,10.2,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,12.1,14.5,6.2,1.5,26.2,0.42,28,Good,-0.0,63,9.8,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,14.8,37.9,8.3,0.5,24.8,0.19,22,Good,1.5,34,3.2,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,37.7,77.0,13.3,13.8,24.4,0.73,87,Moderate,11.1,71,5.1,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,16.7,27.1,8.8,5.6,5,0.26,48,Good,31.4,59,5.7,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,17.9,31.5,12.8,5.1,16.1,0.35,30,Good,31.2,51,7.5,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,15.4,32.9,10.6,2.2,31.1,0.35,41,Good,27.7,69,10.5,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,12.3,25.7,9.8,3.5,6.2,0.4,26,Good,26.6,51,10.1,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,108.5,192.9,68.6,24.9,31.1,2.22,227,Very Unhealthy,6.9,65,14.6,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,70.5,145.5,45.7,21.1,23.1,1.53,149,Unhealthy for Sensitive Groups,14.9,67,8.6,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,21.7,36.0,10.7,5.3,20.3,0.44,52,Moderate,39.1,42,6.1,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,19.1,40.5,1.6,5.5,32.8,0.38,50,Good,35.9,69,5.2,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,58.3,85.5,32.3,13.9,21.3,1.05,146,Unhealthy for Sensitive Groups,8.4,52,3.9,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,35.6,65.4,18.9,7.0,22.4,0.67,81,Moderate,11.7,77,9.0,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,45.7,80.7,36.6,8.6,19.7,0.83,118,Unhealthy for Sensitive Groups,15.4,62,10.6,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,7.6,4.5,6.8,2.9,18.5,0.1,31,Good,33.4,72,11.2,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,11.1,20.6,10.5,0.5,13.1,0.18,12,Good,23.6,65,7.0,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,2.5,2,2.5,1.6,19.0,0.11,14,Good,23.3,35,4.4,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,78.4,157.9,39.6,20.3,27.5,1.48,170,Unhealthy,5.1,75,14.1,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,104.7,169.0,66.9,29.1,18.3,2.18,215,Very Unhealthy,7.7,47,2.0,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,68.8,128.9,41.6,19.6,8.7,1.36,170,Unhealthy,8.3,56,5.2,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,90.5,132.2,49.6,23.1,20.5,1.67,185,Unhealthy,4.0,52,8.3,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,60.4,83.0,38.6,16.1,8.4,1.22,131,Unhealthy for Sensitive Groups,12.9,46,11.8,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,40.1,74.8,28.9,10.5,9.0,0.76,92,Moderate,14.1,63,11.3,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,60.2,128.1,39.6,16.2,20.3,1.34,147,Unhealthy for Sensitive Groups,4.3,60,12.5,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,48.4,69.8,31.4,8.5,20.2,0.95,119,Unhealthy for Sensitive Groups,7.6,40,6.6,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,45.5,76.6,21.9,8.7,20.4,0.8,97,Moderate,5.2,63,2.3,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-07,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,40.8,60.7,25.3,10.2,5.9,0.71,100,Moderate,8.3,61,4.3,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,61.9,121.6,38.4,16.8,21.0,1.31,138,Unhealthy for Sensitive Groups,5.3,76,13.1,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,73.3,157.6,40.4,15.9,25.2,1.63,185,Unhealthy,5.9,53,13.2,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,140.4,296.1,86.8,35.9,9.7,2.74,264,Very Unhealthy,7.1,51,5.6,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,73.1,132.0,43.6,19.7,14.1,1.31,168,Unhealthy,17.0,54,10.9,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,132.0,252.8,73.6,35.6,11.9,2.64,275,Very Unhealthy,7.1,55,11.2,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,19.8,38.1,12.4,7.6,15.5,0.64,81,Moderate,4.5,65,15.4,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,44.9,97.7,24.5,7.6,24.3,0.83,97,Moderate,6.0,41,8.5,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,54.5,97.7,35.6,13.0,7.6,1.19,143,Unhealthy for Sensitive Groups,9.7,66,5.1,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,85.0,175.2,46.7,22.0,9.6,1.56,208,Very Unhealthy,15.8,73,3.9,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,93.7,158.7,54.6,22.3,7.4,2.14,206,Very Unhealthy,11.7,73,3.8,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,130.0,286.4,81.4,28.0,23.5,2.43,260,Very Unhealthy,12.6,69,8.5,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,110.6,241.3,74.2,26.7,20.4,2.33,240,Very Unhealthy,8.3,72,10.5,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,131.1,214.8,72.9,32.0,5,2.61,249,Very Unhealthy,6.8,60,5.0,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,30.2,56.7,18.6,8.2,27.5,0.63,99,Moderate,12.6,77,6.8,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,35.3,50.6,27.2,10.1,19.5,0.81,96,Moderate,12.5,45,9.1,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,16.2,35.8,8.4,6.2,7.0,0.37,54,Moderate,-0.7,64,3.5,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,26.9,33.7,21.2,4.5,17.2,0.66,63,Moderate,-0.0,61,8.9,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,23.0,31.4,4.7,1.6,14.7,0.3,48,Good,-1.9,43,9.8,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,22.3,42.2,18.1,4.8,8.9,0.61,66,Moderate,10.4,59,3.5,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,21.1,27.6,10.4,6.2,17.4,0.53,56,Moderate,0.3,62,2.9,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,28.5,55.5,22.6,9.1,25.1,0.63,60,Moderate,-5.8,60,5.8,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,36.8,63.0,24.9,8.9,23.8,0.84,111,Unhealthy for Sensitive Groups,-0.3,68,7.6,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,44.3,74.8,33.9,12.9,8.2,0.92,113,Unhealthy for Sensitive Groups,3.0,60,3.4,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,23.2,42.4,16.8,8.3,24.1,0.51,67,Moderate,-4.7,61,9.6,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,23.0,47.0,14.3,7.2,21.1,0.53,56,Moderate,4.4,55,6.2,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,9.0,25.5,3.8,0.5,17.3,0.26,25,Good,-7.2,45,5.3,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,23.4,50.7,19.1,4.4,9.4,0.33,65,Moderate,3.2,66,5.7,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,31.3,58.2,17.9,5.7,13.6,0.38,78,Moderate,5.3,59,8.9,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,14.5,25.3,15.6,2.0,17.3,0.26,48,Good,3.3,48,8.9,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,30.3,46.8,17.5,8.7,13.6,0.55,82,Moderate,6.2,65,5.1,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,45.5,92.9,23.5,9.7,28.5,1.02,98,Moderate,8.6,44,21.5,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,17.7,36.5,9.6,2.5,14.1,0.1,54,Moderate,0.4,65,10.1,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,10.6,9.1,9.0,3.8,20.3,0.22,46,Good,-1.7,61,9.4,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,25.8,55.5,13.8,2.8,20.4,0.56,67,Moderate,12.7,47,14.3,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,16.9,30.2,6.4,2.3,10.6,0.4,46,Good,29.1,62,8.2,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,21.3,36.3,9.0,4.8,12.4,0.43,41,Good,37.4,76,5.3,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,17.6,25.5,12.6,6.7,5,0.48,52,Moderate,29.9,58,8.9,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,6.4,8.2,5.5,0.5,23.3,0.12,24,Good,27.3,36,8.2,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,117.1,233.3,63.0,31.0,7.3,2.21,237,Very Unhealthy,6.3,61,3.6,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,98.2,139.0,57.4,24.6,11.6,2.14,214,Very Unhealthy,14.1,54,14.3,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,19.6,36.3,12.1,4.0,13.0,0.32,57,Moderate,32.7,67,10.3,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,11.1,19.8,1.4,1.7,5.2,0.18,31,Good,29.1,70,9.3,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,54.4,83.2,30.4,12.1,18.9,0.98,130,Unhealthy for Sensitive Groups,13.4,57,4.0,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,42.2,93.2,24.2,13.1,25.4,0.98,110,Unhealthy for Sensitive Groups,6.1,54,3.8,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,35.7,65.0,19.3,7.0,15.4,0.66,77,Moderate,17.5,58,5.7,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,10.4,23.9,12.3,1.1,16.6,0.1,40,Good,24.5,65,10.7,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,1.6,2,3.3,0.5,19.1,0.17,14,Good,27.7,44,5.5,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,3.5,2,1,0.6,6.3,0.15,5,Good,25.3,56,6.4,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,89.0,127.5,54.0,25.4,29.2,1.76,193,Unhealthy,9.0,51,4.7,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,123.0,169.7,74.4,31.5,11.0,2.43,255,Very Unhealthy,10.2,62,4.0,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,75.7,142.7,45.6,20.5,19.2,1.45,176,Unhealthy,3.0,67,8.3,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,84.1,166.5,52.9,23.6,19.7,1.62,183,Unhealthy,3.5,62,9.5,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,64.7,129.5,40.4,17.7,22.1,1.29,162,Unhealthy,8.2,79,10.2,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,40.2,73.2,21.2,10.1,16.3,0.91,90,Moderate,12.7,47,5.2,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,44.9,85.5,25.7,10.4,18.9,0.98,113,Unhealthy for Sensitive Groups,12.2,69,3.7,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,61.6,102.9,38.5,13.6,19.1,1.45,157,Unhealthy,6.2,58,4.9,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,64.2,120.5,38.6,16.3,13.8,1.53,171,Unhealthy,7.2,45,3.1,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,79.6,161.4,45.2,20.7,13.0,1.5,179,Unhealthy,5.0,80,5.3,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-08,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,37.4,64.5,26.2,12.5,9.3,0.81,104,Unhealthy for Sensitive Groups,10.9,49,12.6,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,63.2,121.3,39.3,17.1,18.6,1.32,167,Unhealthy,3.2,70,8.2,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,53.3,80.3,32.4,16.8,12.1,1.17,138,Unhealthy for Sensitive Groups,9.1,54,8.1,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,136.9,217.3,85.1,35.9,16.7,2.88,267,Very Unhealthy,12.1,61,12.3,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,88.5,172.9,54.4,22.5,6.5,1.66,189,Unhealthy,11.0,63,4.3,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,96.7,189.2,57.6,24.1,9.0,2.1,224,Very Unhealthy,12.2,60,5.6,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,15.1,23.1,12.3,4.6,10.7,0.25,49,Good,7.3,59,7.1,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,30.1,52.1,20.9,10.6,22.3,0.63,86,Moderate,2.1,52,4.7,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,53.7,76.9,36.8,13.7,9.6,1.22,128,Unhealthy for Sensitive Groups,14.7,65,4.9,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,65.0,122.4,32.7,15.3,19.0,1.38,175,Unhealthy,16.8,49,9.7,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,70.5,149.1,37.4,17.9,24.0,1.35,150,Unhealthy for Sensitive Groups,10.3,59,4.4,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,103.1,171.5,63.6,30.1,38.7,2.18,223,Very Unhealthy,10.6,59,4.8,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,104.9,168.2,70.2,25.8,9.4,2.03,215,Very Unhealthy,14.4,61,7.7,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,134.6,217.0,75.9,39.0,8.6,2.92,263,Very Unhealthy,6.8,55,8.3,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,11.3,24.7,11.3,5.0,25.7,0.35,38,Good,23.2,64,4.6,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,35.9,68.2,16.9,6.4,16.6,0.65,93,Moderate,7.0,43,6.0,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,15.2,26.9,17.0,2.5,20.7,0.41,43,Good,0.7,54,6.4,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,21.0,33.4,7.8,2.4,18.2,0.39,43,Good,-2.3,62,3.2,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,16.3,33.8,2.6,5.4,18.3,0.45,55,Moderate,-1.4,66,2.4,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,6.0,13.3,3.1,4.3,16.0,0.27,60,Moderate,3.1,48,5.0,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,17.7,24.0,12.6,4.5,7.4,0.19,47,Good,2.1,42,5.2,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,30.1,41.1,22.4,6.8,23.9,0.86,97,Moderate,5.9,59,9.3,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,32.6,59.2,18.6,8.4,5,0.73,88,Moderate,-4.3,70,7.6,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,45.0,83.1,27.1,8.6,12.8,0.88,99,Moderate,5.3,66,6.0,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,28.5,56.5,16.4,5.4,15.9,0.59,62,Moderate,-2.8,62,6.4,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,30.0,39.8,21.3,5.1,18.2,0.75,74,Moderate,-1.0,58,3.9,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,9.8,17.9,4.0,4.6,10.5,0.19,26,Good,-6.3,71,8.4,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,9.9,23.7,12.7,0.5,28.5,0.28,56,Moderate,-0.9,72,11.2,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,19.1,44.0,12.4,5.0,9.4,0.31,66,Moderate,-0.9,57,8.6,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,24.1,39.8,12.5,5.9,7.3,0.59,77,Moderate,5.4,82,8.6,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,21.5,44.3,13.9,4.0,12.4,0.31,58,Moderate,6.3,61,2.7,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,14.6,27.6,13.2,4.8,16.8,0.39,41,Good,9.4,54,4.7,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,46.5,91.9,35.0,12.3,5,0.93,113,Unhealthy for Sensitive Groups,9.7,60,4.3,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,7.0,11.5,9.0,3.2,23.7,0.14,36,Good,0.1,59,13.1,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,13.5,27.7,6.4,0.5,11.0,0.26,35,Good,2.9,54,7.8,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,34.9,58.8,22.5,5.7,12.5,0.55,69,Moderate,9.2,42,3.3,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,9.0,21.6,9.9,3.2,20.9,0.29,37,Good,35.5,52,4.9,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,12.4,23.5,8.9,4.4,10.6,0.28,41,Good,40.3,50,3.0,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,19.4,44.1,10.9,5.6,18.7,0.32,39,Good,28.4,62,9.7,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,16.5,26.5,5.6,4.2,21.9,0.26,46,Good,26.0,52,7.9,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,119.3,214.4,63.2,30.6,5,2.43,241,Very Unhealthy,9.7,45,14.8,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,90.3,154.4,56.0,22.7,18.4,1.68,188,Unhealthy,16.2,59,6.1,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,19.4,25.8,13.8,3.8,12.2,0.67,58,Moderate,37.9,66,3.8,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,10.4,15.7,2.6,0.8,5,0.27,29,Good,36.2,62,8.6,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,56.6,109.9,37.4,17.0,11.9,1.24,128,Unhealthy for Sensitive Groups,12.3,40,4.9,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,42.9,88.5,27.4,12.9,14.1,0.74,97,Moderate,0.0,69,7.5,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,39.9,84.3,21.4,7.5,38.5,0.77,90,Moderate,19.3,64,6.4,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,8.8,18.8,12.1,0.5,21.0,0.12,20,Good,29.9,73,4.9,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,8.4,13.5,7.3,0.5,11.8,0.1,18,Good,30.9,64,6.2,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,1,2,6.0,0.5,28.7,0.26,13,Good,30.8,53,5.4,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,86.0,166.8,42.2,22.8,24.8,1.74,179,Unhealthy,6.8,40,4.5,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,87.6,200.6,50.0,23.5,17.3,1.91,183,Unhealthy,7.3,68,7.0,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,58.7,135.7,32.7,16.6,9.2,1.09,130,Unhealthy for Sensitive Groups,6.7,67,9.3,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,102.4,188.8,60.4,27.3,24.1,2.21,224,Very Unhealthy,5.5,65,11.5,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,57.8,130.9,31.8,15.2,22.6,0.98,141,Unhealthy for Sensitive Groups,15.5,62,6.7,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,45.2,85.2,26.7,10.3,25.4,1.0,109,Unhealthy for Sensitive Groups,15.0,48,4.6,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,39.2,81.8,30.3,14.6,5,0.92,108,Unhealthy for Sensitive Groups,16.3,63,4.7,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,51.1,75.7,34.0,11.8,17.6,1.21,118,Unhealthy for Sensitive Groups,3.1,58,6.7,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,49.4,83.9,31.8,16.5,16.3,0.88,135,Unhealthy for Sensitive Groups,4.7,58,2.6,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,68.9,101.4,42.1,16.3,17.1,1.61,172,Unhealthy,11.8,33,6.4,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-09,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,37.8,67.3,30.5,11.5,31.3,0.77,104,Unhealthy for Sensitive Groups,9.7,45,8.4,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,68.8,105.9,49.2,17.8,15.6,1.4,158,Unhealthy,-1.1,31,4.1,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,66.0,102.4,39.1,12.2,5,1.26,156,Unhealthy,8.4,59,5.9,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,110.5,220.3,58.5,28.7,7.9,2.12,215,Very Unhealthy,6.3,61,3.0,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,97.2,179.4,64.5,24.5,11.8,1.79,218,Very Unhealthy,7.5,63,7.1,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,72.7,153.7,49.8,22.9,13.0,1.56,171,Unhealthy,11.3,69,8.1,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,25.6,66.9,15.8,3.7,16.4,0.35,65,Moderate,4.5,58,6.5,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,24.7,49.5,15.8,5.4,15.3,0.69,78,Moderate,3.9,64,2.2,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,58.3,86.2,32.2,13.8,24.5,1.19,134,Unhealthy for Sensitive Groups,15.2,61,4.9,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,54.1,107.6,41.9,13.9,5,1.19,148,Unhealthy for Sensitive Groups,21.6,83,5.7,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,79.0,151.8,49.1,18.3,22.1,1.53,193,Unhealthy,10.4,59,5.4,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,110.1,220.4,67.9,26.9,5,2.12,222,Very Unhealthy,10.7,54,11.3,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,118.7,226.0,68.0,30.1,17.4,2.33,246,Very Unhealthy,10.8,65,7.5,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,115.6,217.3,68.2,33.0,15.4,2.27,229,Very Unhealthy,-0.3,68,1.9,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,24.9,34.9,4.6,6.3,19.0,0.47,56,Moderate,12.1,58,12.0,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,24.8,60.4,10.6,3.8,22.9,0.63,54,Moderate,7.7,42,8.0,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,12.9,18.2,7.6,7.5,14.0,0.46,52,Moderate,-1.7,61,11.0,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,20.1,33.2,9.3,1.2,13.3,0.42,55,Moderate,-1.4,64,9.7,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,19.2,45.0,13.6,3.5,10.4,0.33,67,Moderate,-3.6,66,4.0,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,23.6,40.1,16.3,7.1,26.4,0.45,70,Moderate,1.6,68,3.3,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,24.5,43.6,11.2,5.7,18.8,0.31,67,Moderate,3.4,54,3.7,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,29.9,60.0,13.4,7.4,5,0.34,67,Moderate,2.2,49,6.0,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,36.2,68.2,18.9,3.9,17.8,0.59,76,Moderate,-4.4,57,8.5,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,34.9,60.6,22.7,8.6,12.3,0.78,94,Moderate,9.2,56,5.1,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,25.5,49.1,18.0,3.7,17.9,0.43,57,Moderate,-3.9,66,4.9,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,11.4,22.2,7.1,5.3,34.5,0.21,45,Good,0.2,59,8.3,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,17.5,26.9,12.3,3.9,24.3,0.31,42,Good,2.4,53,14.1,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,15.4,18.1,12.1,4.6,5,0.49,79,Moderate,7.0,59,6.4,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,20.8,36.5,17.2,7.0,15.1,0.3,85,Moderate,1.3,58,8.0,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,45.8,85.2,33.8,16.2,5,1.09,133,Unhealthy for Sensitive Groups,7.1,69,5.4,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,18.7,40.7,4.2,2.9,7.2,0.26,50,Good,0.3,45,10.0,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,16.4,34.6,6.5,1.2,11.9,0.35,44,Good,-5.6,53,4.9,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,32.4,54.1,22.0,11.8,14.9,0.92,91,Moderate,17.1,53,8.5,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,9.7,20.6,10.6,0.5,9.5,0.25,27,Good,32.4,74,1.9,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,31.0,40.0,15.7,6.1,15.3,0.54,63,Moderate,33.3,66,6.6,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,19.5,40.8,5.7,6.2,18.3,0.43,48,Good,27.6,56,3.8,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,8.7,11.9,8.0,5.4,20.9,0.16,24,Good,28.1,53,4.2,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,110.6,197.0,71.2,28.4,32.9,2.06,240,Very Unhealthy,7.4,53,4.4,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,79.6,128.9,41.6,21.2,10.0,1.58,173,Unhealthy,12.5,49,2.5,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,16.8,29.7,1.5,5.1,5,0.32,38,Good,42.3,55,7.4,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,11.5,5.5,4.2,3.6,20.1,0.36,37,Good,28.8,63,4.9,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,51.3,98.8,32.2,9.2,16.8,0.75,108,Unhealthy for Sensitive Groups,13.5,66,5.2,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,34.5,49.3,21.9,4.4,9.4,0.76,84,Moderate,1.9,73,4.9,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,43.2,91.6,27.3,14.1,13.7,0.87,105,Unhealthy for Sensitive Groups,18.0,55,10.1,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,6.1,12.1,4.8,0.5,10.5,0.17,25,Good,27.5,41,7.7,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,1.6,8.4,10.5,4.8,19.3,0.11,20,Good,28.4,44,12.5,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,2.9,12.5,10.8,0.5,13.7,0.11,14,Good,25.0,53,2.1,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,76.2,119.9,41.7,21.7,29.1,1.55,169,Unhealthy,9.6,60,10.8,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,89.1,167.5,50.2,19.6,13.0,1.87,186,Unhealthy,12.7,56,7.9,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,82.3,137.7,53.4,21.7,29.2,1.61,164,Unhealthy,4.1,53,4.4,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,116.2,189.8,63.8,28.0,21.1,2.06,237,Very Unhealthy,9.4,66,10.7,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,45.6,91.7,26.1,11.9,9.6,0.8,120,Unhealthy for Sensitive Groups,8.7,66,8.9,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,44.4,75.4,26.3,13.4,29.3,0.62,96,Moderate,17.8,53,3.6,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,48.7,75.4,33.8,11.4,25.7,0.91,124,Unhealthy for Sensitive Groups,11.9,53,2.9,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,52.6,115.5,32.3,15.1,5,0.88,126,Unhealthy for Sensitive Groups,4.2,57,16.7,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,54.0,120.9,34.2,13.8,21.2,1.09,143,Unhealthy for Sensitive Groups,6.9,65,3.1,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-10,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,63.5,135.9,33.5,16.0,11.4,1.22,155,Unhealthy,10.0,57,8.4,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,50.6,90.4,30.9,9.0,29.6,0.93,124,Unhealthy for Sensitive Groups,1.9,58,7.5,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,60.0,95.9,27.4,11.7,15.0,1.16,159,Unhealthy,11.7,69,3.5,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,94.4,188.3,60.9,21.3,26.5,1.84,176,Unhealthy,8.2,44,7.0,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,63.2,107.7,44.4,19.4,29.6,1.56,167,Unhealthy,8.1,64,8.4,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,88.4,187.5,54.7,22.8,23.5,1.6,203,Very Unhealthy,13.6,55,6.1,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,15.5,20.2,7.5,3.8,12.9,0.34,52,Moderate,6.3,69,6.4,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,26.4,58.9,11.7,10.0,16.4,0.62,73,Moderate,1.5,50,6.0,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,38.7,53.9,26.5,9.7,25.5,0.7,97,Moderate,11.8,58,4.0,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,65.8,101.8,47.4,16.1,32.0,1.34,150,Unhealthy for Sensitive Groups,16.7,79,5.6,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,65.1,115.9,50.8,19.0,16.5,1.47,159,Unhealthy,6.9,42,11.2,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,106.2,220.2,63.4,29.5,25.2,1.99,213,Very Unhealthy,10.5,38,7.0,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,88.9,150.9,48.7,25.0,19.0,1.79,180,Unhealthy,5.2,68,3.4,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,111.7,179.3,62.5,27.0,5,2.13,193,Unhealthy,5.1,80,8.2,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,17.6,24.0,18.3,6.1,22.0,0.21,58,Moderate,15.6,65,7.8,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,24.3,37.0,20.3,6.1,15.6,0.84,61,Moderate,4.7,59,6.3,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,14.6,17.8,8.2,4.1,13.9,0.3,51,Moderate,-0.9,73,10.1,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,18.4,29.9,4.5,1.8,16.2,0.33,47,Good,-3.2,38,4.4,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,18.3,29.3,8.7,0.5,22.9,0.32,27,Good,-4.7,51,6.6,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,17.1,27.4,8.1,5.4,6.6,0.42,45,Good,4.5,58,2.9,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,16.6,36.7,13.8,6.5,17.3,0.21,54,Moderate,5.2,50,4.7,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,31.7,68.0,15.4,8.5,11.6,0.56,59,Moderate,-0.2,63,10.2,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,35.5,54.1,24.0,7.9,28.0,0.87,64,Moderate,0.0,53,9.9,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,42.7,69.6,29.0,10.1,10.5,0.83,92,Moderate,-0.0,54,7.1,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,21.8,27.8,20.8,7.7,17.3,0.61,73,Moderate,-5.5,71,5.7,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,24.4,62.7,8.6,4.7,30.8,0.58,62,Moderate,6.0,61,10.1,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,12.7,24.5,1,6.5,5,0.11,36,Good,-2.3,66,7.4,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,9.2,14.2,8.4,0.5,11.0,0.14,23,Good,0.2,61,8.5,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,9.7,20.5,3.5,1.8,18.1,0.1,38,Good,3.1,67,6.4,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,24.2,49.0,11.4,7.9,7.5,0.45,84,Moderate,5.5,59,7.8,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,19.9,24.3,10.9,6.1,18.9,0.48,61,Moderate,1.7,47,4.5,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,15.5,22.5,1.2,4.0,19.4,0.39,48,Good,8.2,59,3.3,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,50.9,106.7,31.5,12.4,9.6,0.93,127,Unhealthy for Sensitive Groups,10.9,53,6.1,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,11.3,21.6,8.6,4.0,14.2,0.36,41,Good,0.4,63,4.9,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,1.7,2,3.9,4.4,26.2,0.1,12,Good,1.0,47,4.3,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,25.0,53.5,16.8,5.2,17.5,0.66,71,Moderate,15.4,37,14.2,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,11.5,29.6,2.7,4.5,24.1,0.25,43,Good,34.6,56,7.8,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,23.8,50.6,12.5,8.7,14.3,0.49,70,Moderate,38.7,51,5.1,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,12.5,30.7,7.3,2.4,37.3,0.14,35,Good,26.2,58,7.4,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,10.5,15.7,5.5,1.9,24.8,0.21,27,Good,27.4,67,1.6,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,96.1,158.7,56.9,23.1,15.1,1.92,205,Very Unhealthy,3.5,72,7.4,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,76.4,119.0,42.0,17.3,26.3,1.45,154,Unhealthy,18.7,67,5.0,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,11.1,20.8,8.0,1.4,19.3,0.38,24,Good,37.6,59,5.4,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,13.2,23.3,6.2,3.6,26.4,0.37,42,Good,28.5,54,8.7,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,33.5,57.2,24.1,7.9,11.0,0.79,87,Moderate,2.7,58,10.7,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,43.5,79.4,29.7,10.9,11.4,0.68,115,Unhealthy for Sensitive Groups,18.7,58,7.3,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,6.7,2,4.7,0.8,17.7,0.19,24,Good,33.2,55,11.5,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,2.4,2.1,1.4,2.6,6.2,0.19,30,Good,22.8,54,3.5,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,1,6.0,4.4,0.5,17.7,0.1,13,Good,29.0,58,19.4,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,92.7,181.0,67.2,20.9,29.1,1.78,193,Unhealthy,8.1,48,3.8,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,68.4,135.9,46.2,20.2,11.0,1.33,165,Unhealthy,2.4,46,6.2,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,79.1,145.7,47.6,19.4,19.8,1.7,168,Unhealthy,0.5,60,7.9,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,58.6,108.1,39.2,18.4,27.0,1.39,150,Unhealthy for Sensitive Groups,10.0,45,10.3,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,40.9,63.7,29.0,10.0,22.0,0.92,108,Unhealthy for Sensitive Groups,18.3,51,7.3,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,38.9,60.4,29.6,12.4,19.0,0.87,88,Moderate,10.8,48,11.7,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,44.7,72.3,30.1,11.3,19.0,1.1,120,Unhealthy for Sensitive Groups,6.1,62,3.4,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,60.9,97.0,36.6,19.5,5,1.38,163,Unhealthy,13.8,39,6.1,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,67.0,142.9,39.9,15.4,22.1,1.21,165,Unhealthy,9.0,67,19.1,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-11,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,42.9,84.3,25.9,16.1,14.5,0.79,106,Unhealthy for Sensitive Groups,13.1,63,10.2,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,44.2,80.4,19.4,12.4,17.3,0.96,100,Moderate,0.6,53,11.0,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,106.9,184.0,67.8,23.9,23.5,2.32,210,Very Unhealthy,8.6,67,3.7,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,62.2,112.6,36.0,20.3,18.2,1.38,151,Unhealthy,12.6,61,3.3,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,79.9,143.9,46.7,19.0,27.0,1.36,163,Unhealthy,5.7,74,2.6,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,20.4,36.3,15.9,3.4,16.9,0.45,41,Good,2.9,51,4.5,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,26.5,46.1,15.1,10.2,15.3,0.51,67,Moderate,6.5,65,3.5,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,51.9,88.0,30.6,12.2,18.6,1.03,132,Unhealthy for Sensitive Groups,12.5,58,4.2,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,75.6,163.2,42.9,20.0,9.7,1.65,174,Unhealthy,6.1,64,7.5,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,89.1,191.1,54.4,21.1,12.4,1.81,187,Unhealthy,5.7,68,3.8,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,75.0,146.4,39.0,18.4,14.4,1.46,156,Unhealthy,8.8,63,5.7,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,74.3,128.0,47.6,17.9,27.8,1.46,146,Unhealthy for Sensitive Groups,8.4,72,2.5,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,22.6,28.4,6.0,5.0,15.8,0.43,59,Moderate,17.8,49,3.2,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,20.2,38.7,16.6,4.6,16.6,0.44,67,Moderate,10.3,48,16.1,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,11.6,16.8,4.8,6.3,15.1,0.3,47,Good,4.3,48,10.4,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,13.8,22.3,8.2,3.5,9.2,0.34,42,Good,5.5,68,3.8,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,14.1,27.7,6.8,0.5,18.7,0.16,35,Good,-0.8,50,4.5,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,13.6,20.8,13.8,4.4,11.8,0.17,43,Good,6.5,49,7.1,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,20.0,37.4,8.8,4.4,14.8,0.42,64,Moderate,1.6,61,7.2,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,28.8,42.6,22.6,10.3,11.4,0.6,72,Moderate,-3.5,63,10.4,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,30.1,69.1,15.7,3.1,5,0.79,80,Moderate,-4.0,66,5.2,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,31.9,50.5,10.1,8.7,15.7,0.74,69,Moderate,-0.5,67,5.0,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,23.9,35.7,19.0,8.2,10.6,0.55,56,Moderate,-4.6,65,4.4,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,27.7,44.1,14.2,8.3,20.8,0.62,74,Moderate,-2.1,65,4.1,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,13.2,19.9,5.5,6.8,17.6,0.31,39,Good,-1.2,52,9.2,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,16.5,29.3,9.6,3.1,32.9,0.43,40,Good,2.0,63,8.1,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,9.4,17.8,3.9,4.9,13.1,0.4,34,Good,0.2,74,18.7,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,22.4,45.1,11.3,5.5,21.5,0.51,56,Moderate,4.8,63,6.4,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,18.8,31.4,6.0,3.3,12.8,0.29,53,Moderate,1.2,68,9.2,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,20.3,42.9,8.4,6.6,15.6,0.36,55,Moderate,4.4,59,13.1,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,34.2,52.8,25.0,11.2,8.1,0.84,88,Moderate,10.9,66,5.1,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,16.0,28.5,3.6,0.6,22.6,0.26,40,Good,-3.7,40,7.0,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,28.0,62.3,14.0,4.6,13.2,0.49,72,Moderate,17.6,62,7.5,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,12.1,17.8,1,3.8,17.3,0.31,33,Good,28.9,64,4.0,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,21.8,34.2,5.9,7.1,26.6,0.38,48,Good,40.6,64,8.9,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,14.4,29.5,6.7,2.5,12.7,0.26,46,Good,30.2,58,4.3,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,11.1,18.8,4.1,4.5,11.6,0.2,28,Good,24.3,57,4.8,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,105.0,162.1,67.0,25.2,11.4,2.21,197,Unhealthy,8.4,60,11.2,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,62.9,121.1,37.9,16.5,10.9,1.27,147,Unhealthy for Sensitive Groups,17.8,64,6.6,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,8.6,13.0,13.7,2.1,28.3,0.1,32,Good,41.9,57,3.9,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,15.9,39.7,8.9,5.0,29.6,0.1,34,Good,27.8,54,4.4,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,38.9,68.6,29.5,12.1,24.5,0.88,111,Unhealthy for Sensitive Groups,15.8,45,4.1,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,24.6,27.8,17.1,9.7,17.5,0.63,73,Moderate,8.0,56,2.5,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,41.1,58.9,28.0,10.4,28.1,0.87,90,Moderate,17.9,39,6.7,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,9.2,20.3,4.4,1.2,10.5,0.11,21,Good,28.7,44,8.5,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,10.1,18.4,1,2.9,29.2,0.14,16,Good,26.6,52,1.4,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,4.3,4.6,1.6,0.5,14.1,0.1,15,Good,25.1,68,7.6,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,78.1,157.2,43.7,16.5,17.9,1.55,165,Unhealthy,6.2,61,3.2,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,77.1,154.3,47.4,18.9,20.4,1.58,163,Unhealthy,5.6,61,3.5,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,66.2,105.8,40.2,16.2,11.2,1.15,135,Unhealthy for Sensitive Groups,7.3,39,7.6,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,80.7,125.9,53.2,23.4,27.7,1.76,175,Unhealthy,0.5,66,3.1,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,53.4,110.6,30.3,16.1,13.7,1.21,127,Unhealthy for Sensitive Groups,16.9,44,6.1,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,35.8,68.5,26.2,8.6,16.4,0.66,86,Moderate,15.5,68,8.9,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,51.0,68.1,23.4,12.5,5,0.99,121,Unhealthy for Sensitive Groups,17.3,65,1.6,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,64.8,105.0,38.1,15.5,20.9,1.17,149,Unhealthy for Sensitive Groups,9.0,76,4.1,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,38.9,61.9,19.8,7.1,5.9,0.96,100,Moderate,6.8,65,2.6,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,57.1,102.5,35.2,15.0,13.6,1.19,133,Unhealthy for Sensitive Groups,5.9,57,2.3,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-12,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,28.7,47.7,17.5,6.7,6.2,0.61,75,Moderate,7.5,61,7.0,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,67.6,97.8,36.2,14.9,13.2,1.19,168,Unhealthy,3.0,66,3.9,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,68.3,139.6,42.9,18.7,5,1.42,177,Unhealthy,-0.3,55,3.8,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,121.1,244.3,70.4,30.2,17.2,2.39,216,Very Unhealthy,9.5,60,4.6,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,85.2,148.7,56.3,20.7,5.7,1.88,191,Unhealthy,13.6,43,7.8,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,114.6,246.2,60.6,25.9,20.8,2.32,241,Very Unhealthy,9.7,43,3.3,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,21.9,41.5,1.5,3.6,13.7,0.37,57,Moderate,2.2,60,7.6,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,33.6,70.2,21.7,7.0,5,0.65,90,Moderate,3.4,52,3.3,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,46.0,92.7,31.0,10.8,23.0,0.81,104,Unhealthy for Sensitive Groups,14.5,46,4.9,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,59.7,125.6,32.7,13.4,13.1,0.99,150,Unhealthy for Sensitive Groups,14.8,53,16.2,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,131.6,228.7,73.6,32.3,24.4,2.53,272,Very Unhealthy,7.6,55,5.3,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,87.9,125.4,50.7,23.1,18.9,1.77,174,Unhealthy,6.8,60,1.7,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,101.0,145.6,62.5,28.2,15.5,2.1,192,Unhealthy,7.5,56,5.7,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,14.9,28.6,12.8,5.6,23.0,0.36,65,Moderate,19.8,51,9.1,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,24.8,48.9,19.6,2.2,6.4,0.42,51,Moderate,8.5,58,5.6,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,17.9,32.6,11.4,6.1,19.7,0.32,43,Good,-5.3,49,4.8,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,18.6,32.8,6.8,3.0,5.8,0.32,46,Good,2.7,36,7.8,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,21.3,31.8,18.5,8.2,19.2,0.48,68,Moderate,-6.2,70,6.7,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,30.7,66.7,18.2,9.5,16.6,0.58,78,Moderate,3.0,41,5.2,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,28.6,56.5,23.2,10.8,13.8,0.55,81,Moderate,-3.9,69,6.0,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,40.1,61.0,23.8,9.0,18.2,0.9,95,Moderate,-6.6,34,4.9,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,16.6,29.9,4.9,5.3,22.6,0.38,54,Moderate,5.0,62,8.1,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,31.5,71.5,25.8,8.8,13.8,0.52,92,Moderate,-2.5,67,3.5,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,34.3,47.5,18.7,9.7,14.9,0.45,92,Moderate,4.6,57,18.9,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,13.7,21.5,5.4,3.6,5.8,0.22,38,Good,-9.5,58,4.5,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,15.0,24.0,3.4,3.6,20.3,0.21,49,Good,0.0,52,3.7,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,14.7,20.5,8.8,6.0,11.6,0.34,62,Moderate,1.8,67,13.7,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,22.7,37.9,18.5,5.0,22.2,0.54,73,Moderate,3.1,48,5.6,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,22.3,37.3,11.5,5.5,23.7,0.34,58,Moderate,1.3,40,12.4,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,22.0,43.9,15.9,6.7,10.2,0.47,70,Moderate,9.9,76,5.0,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,44.2,81.4,33.1,16.1,8.1,1.09,107,Unhealthy for Sensitive Groups,12.0,45,4.5,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,16.5,18.1,7.4,3.5,5,0.33,47,Good,-0.6,53,2.7,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,15.5,34.0,7.9,1.9,16.0,0.29,52,Moderate,5.2,65,6.2,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,27.2,50.6,13.8,6.3,13.2,0.61,74,Moderate,18.3,68,3.8,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,13.9,29.9,6.4,4.7,6.8,0.3,38,Good,31.7,43,6.0,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,24.7,51.7,18.5,4.8,14.6,0.25,66,Moderate,39.5,53,5.9,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,23.7,37.6,6.6,5.7,29.8,0.35,36,Good,25.1,56,6.2,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,10.0,16.2,1,4.3,8.4,0.35,45,Good,31.6,55,18.6,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,77.6,130.3,48.8,17.1,27.7,1.43,161,Unhealthy,4.5,63,8.8,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,92.3,193.6,60.7,25.8,29.4,1.97,223,Very Unhealthy,14.1,72,4.3,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,11.3,17.0,10.4,0.5,18.8,0.1,31,Good,44.8,61,6.0,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,19.3,23.5,16.7,5.0,19.9,0.34,35,Good,31.1,46,4.3,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,60.3,112.4,32.4,13.2,15.9,1.35,142,Unhealthy for Sensitive Groups,21.5,64,7.9,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,28.8,39.1,16.9,5.2,27.6,0.51,56,Moderate,5.5,54,3.5,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,48.7,102.8,28.5,11.4,17.9,0.77,111,Unhealthy for Sensitive Groups,16.2,45,7.2,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,7.3,16.2,1,5.9,26.6,0.1,10,Good,27.6,39,5.6,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,1.4,2,1,0.5,15.0,0.16,12,Good,29.8,58,5.6,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,6.5,13.4,1,0.5,30.2,0.11,9,Good,26.6,50,10.6,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,83.0,137.6,53.0,20.3,25.1,1.64,201,Very Unhealthy,9.4,66,4.4,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,88.7,146.4,57.5,23.9,24.7,1.89,191,Unhealthy,12.1,76,7.5,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,64.8,128.3,41.1,19.7,15.8,1.24,150,Unhealthy for Sensitive Groups,7.2,64,3.3,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,106.9,215.8,81.1,29.9,23.0,2.11,232,Very Unhealthy,7.9,54,7.3,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,55.7,82.1,27.4,17.4,22.5,1.23,123,Unhealthy for Sensitive Groups,12.5,64,4.2,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,34.5,55.1,22.6,11.2,25.1,0.75,104,Unhealthy for Sensitive Groups,19.7,52,3.0,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,62.6,138.1,37.9,13.3,11.5,1.24,145,Unhealthy for Sensitive Groups,14.2,54,1.7,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,76.6,144.1,48.3,19.3,14.7,1.42,170,Unhealthy,3.1,46,5.6,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,59.1,127.6,36.2,16.1,21.7,1.19,141,Unhealthy for Sensitive Groups,10.0,63,7.4,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,53.8,113.5,30.5,11.0,22.7,0.88,119,Unhealthy for Sensitive Groups,13.1,61,5.5,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-13,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,42.1,88.0,27.9,8.3,13.1,0.75,113,Unhealthy for Sensitive Groups,11.6,45,5.7,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,82.5,170.2,46.9,21.4,13.5,1.66,183,Unhealthy,-1.1,52,7.5,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,55.3,122.6,33.3,12.1,18.4,0.96,125,Unhealthy for Sensitive Groups,8.4,50,6.1,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,146.1,238.6,85.1,33.5,25.9,2.93,280,Very Unhealthy,2.3,53,5.2,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,78.0,114.9,42.1,21.1,6.2,1.68,189,Unhealthy,6.8,44,10.5,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,104.9,158.4,64.2,26.7,27.5,2.05,246,Very Unhealthy,4.3,40,3.2,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,15.3,33.5,19.5,4.0,11.0,0.48,76,Moderate,11.7,67,5.2,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,53.9,95.3,32.6,12.8,21.3,1.05,123,Unhealthy for Sensitive Groups,21.1,68,10.3,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,56.1,77.1,32.2,15.1,8.7,1.08,111,Unhealthy for Sensitive Groups,16.8,61,6.9,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,82.5,136.9,47.3,21.7,29.9,1.77,208,Very Unhealthy,7.5,56,8.6,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,109.5,220.1,61.4,28.7,10.7,1.99,219,Very Unhealthy,6.5,65,8.8,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,123.8,204.0,64.6,28.3,21.1,2.4,241,Very Unhealthy,10.5,37,6.9,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,95.8,191.8,60.6,29.7,20.2,2.17,204,Very Unhealthy,8.0,41,9.0,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,26.6,52.0,17.5,8.3,17.0,0.56,70,Moderate,19.0,44,4.7,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,29.7,43.4,16.4,9.4,12.4,0.71,83,Moderate,8.3,42,4.4,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,20.5,38.1,1.5,4.1,5,0.3,54,Moderate,-7.3,45,8.9,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,19.3,35.8,12.8,5.6,11.6,0.32,59,Moderate,-3.5,54,9.7,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,20.4,22.1,10.5,4.8,26.6,0.55,37,Good,-1.9,63,7.1,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,23.3,42.8,16.3,3.8,13.9,0.53,56,Moderate,-1.5,41,8.6,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,26.2,46.8,15.8,10.5,5,0.55,83,Moderate,8.1,77,9.9,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,32.4,62.6,16.1,3.6,9.6,0.6,89,Moderate,4.8,61,6.0,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,29.6,37.0,25.2,9.6,27.0,0.77,81,Moderate,-8.4,46,12.0,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,54.0,79.0,35.8,13.5,10.9,0.96,130,Unhealthy for Sensitive Groups,4.2,54,6.7,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,26.0,45.7,16.4,4.0,14.9,0.57,66,Moderate,-0.2,46,4.3,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,12.2,15.4,2.4,1.3,22.6,0.21,31,Good,-5.4,60,4.0,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,17.1,34.1,8.1,1.8,28.6,0.27,43,Good,-6.6,39,3.3,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,15.9,37.8,11.1,0.5,11.2,0.38,52,Moderate,1.4,52,4.2,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,18.1,35.5,4.3,5.6,21.4,0.42,61,Moderate,9.0,59,8.9,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,23.6,43.2,12.3,9.6,17.0,0.62,54,Moderate,-0.6,53,5.8,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,21.7,46.5,15.8,2.2,31.2,0.56,53,Moderate,11.1,48,6.4,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,37.8,61.6,22.9,8.9,25.2,0.87,114,Unhealthy for Sensitive Groups,8.4,61,2.8,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,16.7,31.7,5.5,8.9,22.3,0.29,64,Moderate,4.6,49,9.6,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,45.9,70.8,16.0,9.5,7.6,0.82,103,Unhealthy for Sensitive Groups,15.1,35,3.8,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,19.8,26.8,3.0,6.3,17.5,0.46,34,Good,40.4,53,9.4,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,24.1,45.0,14.2,6.7,8.8,0.45,63,Moderate,27.4,48,8.0,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,11.1,14.2,5.3,1.1,24.9,0.15,42,Good,27.9,70,6.0,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,111.5,234.1,67.2,26.2,27.5,2.18,223,Very Unhealthy,9.8,38,14.4,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,102.5,153.7,69.0,27.0,29.8,2.08,215,Very Unhealthy,14.0,49,2.8,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,14.5,20.1,14.6,5.8,15.0,0.54,34,Good,39.3,62,7.4,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,16.3,22.4,5.7,4.4,15.1,0.31,49,Good,28.9,54,7.9,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,69.2,118.8,39.3,16.0,25.1,1.09,144,Unhealthy for Sensitive Groups,17.0,51,3.2,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,25.1,51.5,15.7,6.0,11.5,0.61,58,Moderate,3.5,50,13.0,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,34.3,50.0,19.1,16.1,11.2,0.77,76,Moderate,20.8,59,3.4,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,9.7,12.9,11.6,0.5,21.3,0.12,13,Good,25.3,62,4.7,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,7.9,17.4,1,0.5,5.7,0.1,16,Good,22.3,64,4.5,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,8.9,16.8,1.2,1.4,27.2,0.13,18,Good,24.4,56,5.2,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,76.5,144.4,46.3,18.2,12.1,1.34,161,Unhealthy,10.0,52,10.4,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,85.7,166.8,53.4,26.9,18.2,2.02,195,Unhealthy,6.7,76,4.5,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,68.6,130.7,34.2,15.4,11.0,1.38,149,Unhealthy for Sensitive Groups,6.2,53,5.2,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,84.0,179.7,43.0,24.2,15.6,1.77,183,Unhealthy,5.8,51,5.1,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,40.0,79.1,35.5,16.3,13.7,0.74,101,Unhealthy for Sensitive Groups,24.1,55,4.6,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,45.6,95.5,35.7,13.3,16.3,0.86,108,Unhealthy for Sensitive Groups,19.5,58,5.6,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,66.1,130.1,38.1,17.0,19.2,1.21,158,Unhealthy,6.0,57,14.8,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,51.9,107.5,26.9,15.1,18.3,1.13,127,Unhealthy for Sensitive Groups,14.2,60,7.8,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,66.7,119.1,39.6,15.2,14.3,1.37,182,Unhealthy,7.9,54,7.5,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-14,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,39.6,63.1,28.5,13.2,29.2,0.93,96,Moderate,10.5,56,6.8,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,53.8,111.2,32.6,12.7,12.4,1.04,120,Unhealthy for Sensitive Groups,9.4,69,3.6,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,78.0,148.6,44.8,15.6,5,1.45,172,Unhealthy,8.5,56,4.5,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,114.5,168.9,74.6,30.9,17.3,2.29,217,Very Unhealthy,4.8,49,4.4,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,62.8,136.5,44.9,16.6,18.6,1.18,154,Unhealthy,7.5,43,7.6,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,84.2,167.1,49.7,21.3,10.1,1.61,164,Unhealthy,5.0,56,3.2,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,17.7,45.5,1.4,0.5,21.4,0.29,52,Moderate,4.9,45,7.3,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,30.5,58.1,20.9,7.1,20.4,0.63,85,Moderate,2.1,61,14.4,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,49.4,113.7,40.4,17.9,25.0,1.13,134,Unhealthy for Sensitive Groups,11.2,57,9.5,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,78.8,151.1,46.0,19.9,22.2,1.48,166,Unhealthy,18.6,49,5.6,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,82.6,147.9,40.5,19.7,7.6,1.45,171,Unhealthy,11.3,61,4.0,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,103.0,206.1,62.8,28.4,18.7,2.22,216,Very Unhealthy,8.7,53,5.9,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,102.8,208.9,56.6,27.3,29.7,2.06,208,Very Unhealthy,7.4,49,10.4,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,106.8,192.1,57.7,21.7,5,1.94,190,Unhealthy,6.0,40,2.5,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,27.3,48.5,17.2,6.8,14.3,0.33,79,Moderate,21.1,67,6.8,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,31.6,59.2,18.2,10.7,32.0,0.73,84,Moderate,6.4,53,3.4,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,12.3,21.1,7.9,3.2,27.6,0.11,40,Good,3.0,61,8.4,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,22.5,39.0,9.1,3.4,14.8,0.4,58,Moderate,2.7,71,9.9,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,19.6,36.0,10.0,5.1,12.7,0.42,50,Good,-1.7,62,11.4,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,18.1,29.0,11.5,3.8,8.0,0.5,56,Moderate,4.0,69,6.8,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,29.0,61.7,12.0,4.1,14.2,0.54,72,Moderate,0.3,50,5.0,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,41.3,74.3,24.0,10.4,19.7,0.87,85,Moderate,2.3,51,7.7,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,42.1,77.7,29.3,7.6,10.7,0.91,121,Unhealthy for Sensitive Groups,-2.5,62,4.0,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,36.0,61.9,14.5,7.1,18.8,0.83,83,Moderate,3.9,54,3.5,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,23.9,36.4,13.3,7.7,18.4,0.61,77,Moderate,4.6,44,4.3,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,35.9,50.8,18.6,7.3,22.2,0.81,90,Moderate,2.2,57,7.7,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,11.4,28.4,1,5.4,20.3,0.32,29,Good,-6.1,39,12.4,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,15.1,20.2,12.7,2.4,7.6,0.16,43,Good,-3.1,63,7.9,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,12.3,30.0,10.6,6.7,31.4,0.23,43,Good,-1.5,52,10.1,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,28.5,54.0,8.0,1.7,7.7,0.58,66,Moderate,1.1,67,6.5,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,10.2,16.8,1,1.3,18.0,0.3,31,Good,5.7,51,8.6,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,20.2,29.5,15.1,6.4,14.3,0.61,65,Moderate,5.8,56,10.1,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,43.8,91.1,26.6,12.0,21.0,0.89,104,Unhealthy for Sensitive Groups,11.2,80,5.5,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,15.7,18.6,10.0,0.5,19.0,0.37,44,Good,4.2,58,10.0,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,6.1,16.0,5.1,3.0,17.9,0.1,36,Good,-4.3,58,5.2,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,38.6,80.2,20.6,9.3,18.1,0.9,106,Unhealthy for Sensitive Groups,18.6,33,5.5,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,15.0,35.2,7.9,1.9,8.7,0.28,23,Good,32.8,63,5.1,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,27.3,39.8,7.2,8.8,9.8,0.54,56,Moderate,33.7,69,8.9,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,19.9,29.3,2.7,3.2,14.2,0.31,59,Moderate,31.2,57,9.5,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,15.1,29.8,8.0,4.6,15.1,0.1,41,Good,32.2,45,4.1,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,59.9,101.6,35.4,14.5,12.5,1.02,122,Unhealthy for Sensitive Groups,7.3,61,2.1,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,87.9,169.3,53.3,23.1,14.5,1.96,185,Unhealthy,17.2,50,5.8,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,11.4,24.9,10.2,0.5,16.5,0.39,38,Good,44.3,55,2.5,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,16.9,15.3,12.1,3.7,15.6,0.18,20,Good,27.3,65,2.6,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,41.7,60.3,25.5,11.7,9.1,0.95,109,Unhealthy for Sensitive Groups,22.3,67,2.6,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,29.0,59.8,21.3,6.1,23.6,0.67,61,Moderate,1.1,69,10.3,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,33.0,63.5,24.3,7.7,25.6,0.67,80,Moderate,15.3,64,4.2,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,5.4,5.8,11.5,0.5,16.6,0.14,33,Good,24.6,41,8.4,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,4.4,6.3,1.9,0.6,5,0.1,13,Good,27.2,38,2.8,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,3.7,4.1,1.5,0.5,13.7,0.25,8,Good,26.4,56,11.9,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,75.6,122.9,44.4,20.6,16.3,1.34,158,Unhealthy,10.4,60,3.3,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,95.2,156.1,45.9,22.3,12.5,1.93,183,Unhealthy,12.0,56,7.0,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,66.7,98.5,39.1,18.8,25.8,1.36,161,Unhealthy,6.8,38,3.1,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,90.4,143.8,59.4,25.5,12.8,1.92,205,Very Unhealthy,6.8,62,3.9,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,51.7,82.9,33.0,12.9,9.1,1.06,117,Unhealthy for Sensitive Groups,12.6,49,6.4,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,38.8,57.4,25.4,12.0,8.2,0.74,108,Unhealthy for Sensitive Groups,14.2,47,3.7,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,44.1,72.8,31.1,10.3,17.8,0.92,98,Moderate,12.2,45,9.2,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,49.5,108.5,31.2,12.6,25.1,1.1,118,Unhealthy for Sensitive Groups,9.8,73,8.3,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,64.4,138.7,43.6,18.8,24.3,1.33,163,Unhealthy,12.9,51,1.7,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,71.2,129.6,42.9,19.9,21.3,1.43,143,Unhealthy for Sensitive Groups,8.6,54,12.3,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-15,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,40.1,81.1,25.9,11.0,12.9,0.92,111,Unhealthy for Sensitive Groups,10.5,40,6.1,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,77.3,124.6,51.8,20.5,8.7,1.52,187,Unhealthy,3.9,60,3.3,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,60.6,109.5,30.6,13.2,23.8,1.11,153,Unhealthy,13.7,50,4.4,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,124.8,209.5,77.0,32.6,12.6,2.49,239,Very Unhealthy,6.6,69,5.4,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,82.2,141.9,47.3,22.8,7.1,1.63,172,Unhealthy,10.9,63,5.5,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,103.9,191.5,66.8,30.2,6.8,2.11,230,Very Unhealthy,7.3,58,7.6,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,16.5,39.3,6.7,3.4,21.9,0.39,48,Good,6.6,55,7.8,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,32.6,57.8,15.3,7.0,13.2,0.77,88,Moderate,6.5,63,5.8,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,48.8,82.3,29.7,11.0,25.9,0.9,136,Unhealthy for Sensitive Groups,13.5,61,5.1,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,73.3,127.9,48.0,19.9,25.9,1.47,195,Unhealthy,17.9,56,9.2,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,45.1,94.5,26.1,6.7,22.0,0.66,84,Moderate,15.3,35,3.8,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,106.3,188.9,54.8,23.0,11.2,2.11,192,Unhealthy,9.9,74,5.6,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,145.8,202.6,84.5,36.7,32.6,2.77,299,Very Unhealthy,10.7,80,5.8,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,105.7,182.4,62.6,26.7,25.5,2.07,197,Unhealthy,4.1,75,4.5,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,34.1,51.9,27.8,3.1,18.7,0.57,87,Moderate,20.1,49,6.8,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,29.2,43.0,16.5,4.8,15.4,0.79,83,Moderate,10.8,42,4.4,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,9.2,14.2,8.1,5.0,13.2,0.42,48,Good,2.8,54,8.5,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,21.6,35.9,9.8,6.2,12.0,0.56,65,Moderate,-0.6,70,7.3,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,23.8,42.9,6.7,4.1,25.1,0.41,75,Moderate,-6.2,66,4.7,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,20.6,40.3,13.0,3.8,19.1,0.54,62,Moderate,1.6,43,8.4,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,27.3,54.2,16.1,6.6,18.1,0.61,81,Moderate,3.2,57,9.1,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,28.4,54.7,20.5,5.3,36.2,0.54,78,Moderate,4.4,49,5.3,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,39.5,84.9,22.2,9.9,9.5,0.84,88,Moderate,-2.9,38,5.6,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,39.9,73.2,21.5,13.9,5,0.62,79,Moderate,-3.9,65,9.7,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,19.2,25.0,15.8,2.6,7.6,0.21,56,Moderate,2.9,46,6.8,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,26.9,55.2,16.4,7.8,14.2,0.51,75,Moderate,11.2,62,5.6,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,8.9,13.3,5.5,0.5,17.5,0.26,24,Good,-5.9,68,2.9,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,23.1,39.7,12.9,4.5,29.3,0.41,48,Good,0.8,55,3.3,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,16.4,34.6,15.9,3.5,27.0,0.32,58,Moderate,9.0,53,2.2,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,25.7,51.4,20.3,6.9,8.9,0.63,88,Moderate,5.4,60,8.9,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,21.6,36.4,6.7,6.4,5,0.51,76,Moderate,-2.1,53,8.5,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,20.3,38.0,10.4,6.5,28.3,0.46,52,Moderate,15.9,68,3.1,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,45.2,87.0,30.0,11.9,17.9,0.78,136,Unhealthy for Sensitive Groups,15.4,50,3.9,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,19.8,34.8,9.4,5.7,24.7,0.5,54,Moderate,-0.5,67,4.8,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,10.4,19.7,6.2,2.7,25.5,0.28,45,Good,-1.5,58,6.2,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,49.1,79.2,20.9,14.4,13.2,1.01,113,Unhealthy for Sensitive Groups,19.3,60,1.7,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,12.7,24.0,4.6,0.5,13.6,0.34,28,Good,27.3,48,4.1,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,21.9,40.3,16.5,5.6,20.3,0.68,60,Moderate,34.8,53,5.8,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,23.1,43.3,9.9,6.2,27.8,0.2,39,Good,27.1,54,2.6,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,10.4,28.9,8.0,2.7,31.8,0.27,30,Good,26.0,54,2.9,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Cairo,Egypt,Africa,AQ-EGY-CAI-001,30.0,31.2,101.3,193.2,57.5,24.7,33.5,2.05,210,Very Unhealthy,5.1,46,12.1,21.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,94.9,186.9,60.2,23.8,19.4,2.04,201,Very Unhealthy,16.1,40,4.0,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,10.1,23.2,8.6,3.8,22.0,0.25,20,Good,42.1,49,4.8,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,19.3,24.1,15.6,5.7,8.5,0.1,39,Good,28.2,58,5.7,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Accra,Ghana,Africa,AQ-GHA-ACC-001,5.6,-0.2,50.2,81.6,34.4,13.2,22.6,1.09,119,Unhealthy for Sensitive Groups,17.1,52,5.7,4.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,40.6,87.4,31.5,10.2,19.3,0.93,93,Moderate,-0.8,75,6.8,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,39.0,61.6,18.7,8.6,25.3,0.98,95,Moderate,20.6,69,4.6,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,4.2,15.2,1.7,2.0,17.6,0.23,21,Good,25.8,44,4.5,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,11.3,16.0,1,4.0,15.2,0.1,26,Good,21.2,41,2.1,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,2.5,2,1,4.2,28.0,0.1,27,Good,27.0,65,5.7,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,82.6,163.4,55.4,17.7,5,1.66,175,Unhealthy,12.8,49,3.8,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,103.4,183.6,64.9,26.2,5,2.19,212,Very Unhealthy,14.7,55,6.1,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,122.5,230.2,80.4,33.7,16.4,2.46,253,Very Unhealthy,6.9,49,8.6,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,50.0,70.0,22.9,9.9,27.7,0.99,99,Moderate,10.7,62,8.5,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Kuala Lumpur,Malaysia,Asia,AQ-MAL-KUA-001,3.1,101.7,44.6,90.7,27.3,11.5,20.3,0.79,107,Unhealthy for Sensitive Groups,17.4,50,11.5,8.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,52.6,110.3,31.1,10.1,22.1,0.98,122,Unhealthy for Sensitive Groups,14.1,66,5.6,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,64.9,98.6,48.8,16.7,18.5,1.25,161,Unhealthy,7.7,58,9.4,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,49.7,98.6,27.0,13.5,32.5,0.96,112,Unhealthy for Sensitive Groups,15.6,62,6.3,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,62.9,92.3,35.6,18.0,20.2,1.29,145,Unhealthy for Sensitive Groups,8.1,41,5.6,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-16,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,37.6,77.7,24.4,10.5,18.0,0.96,104,Unhealthy for Sensitive Groups,15.6,58,3.3,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,69.6,110.2,41.6,18.1,8.2,1.28,176,Unhealthy,3.3,42,3.7,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,61.3,90.9,34.7,13.5,9.2,1.15,153,Unhealthy,7.0,49,8.9,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,94.4,133.8,56.0,23.3,23.9,1.82,217,Very Unhealthy,9.4,64,6.3,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,103.0,159.8,66.0,22.8,29.0,2.04,209,Very Unhealthy,14.9,59,6.8,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,19.6,37.3,12.9,3.6,9.9,0.66,61,Moderate,5.5,59,4.9,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,33.7,61.7,21.0,7.7,13.5,0.74,87,Moderate,7.6,51,13.0,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,50.9,83.2,31.9,11.9,7.4,1.0,132,Unhealthy for Sensitive Groups,9.8,49,8.4,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,55.7,93.4,27.2,13.7,24.6,1.08,125,Unhealthy for Sensitive Groups,20.7,42,5.2,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,75.8,131.6,51.8,17.5,28.1,1.46,193,Unhealthy,11.5,54,3.4,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,112.8,220.3,65.1,27.7,5.1,2.09,226,Very Unhealthy,7.9,55,11.2,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,103.0,208.3,63.8,29.6,23.4,2.09,232,Very Unhealthy,10.7,72,2.9,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,113.9,181.1,71.5,31.4,24.0,2.18,225,Very Unhealthy,7.6,43,6.8,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,27.1,45.1,17.6,9.2,7.3,0.46,50,Good,22.4,48,6.2,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,25.4,34.4,12.2,6.4,17.2,0.57,75,Moderate,10.1,55,18.2,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,13.3,18.5,18.4,5.5,26.7,0.24,40,Good,-2.8,50,3.5,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,20.9,22.8,10.8,4.4,27.6,0.41,63,Moderate,-5.9,58,8.2,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,9.4,15.8,9.8,2.4,20.1,0.29,47,Good,2.6,49,9.3,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,13.2,25.9,7.7,2.7,18.3,0.21,59,Moderate,7.6,60,4.0,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,24.4,32.9,15.9,6.2,14.2,0.53,71,Moderate,4.8,50,10.5,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Milan,Italy,Europe,AQ-ITA-MIL-001,45.5,9.2,24.5,32.6,11.1,1.8,5,0.52,52,Moderate,2.6,54,4.1,1.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Warsaw,Poland,Europe,AQ-POL-WAR-001,52.2,21.0,36.1,64.6,16.6,9.5,8.1,0.72,97,Moderate,-4.1,44,4.2,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Istanbul,Turkey,Europe,AQ-TUR-IST-001,41.0,29.0,20.9,42.8,14.1,1.2,9.5,0.4,43,Good,2.7,73,4.9,15.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Moscow,Russia,Europe,AQ-RUS-MOS-001,55.8,37.6,24.0,54.1,8.9,6.9,7.9,0.45,44,Good,-5.3,40,6.2,12.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Athens,Greece,Europe,AQ-GRE-ATH-001,37.9,23.7,23.0,31.1,14.2,7.1,5,0.36,59,Moderate,8.8,36,2.0,3.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Stockholm,Sweden,Europe,AQ-SWE-STO-001,59.3,18.1,4.0,5.0,3.6,0.7,16.2,0.1,15,Good,-9.9,66,7.0,1.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Zurich,Switzerland,Europe,AQ-SWI-ZUR-001,47.4,8.5,14.9,24.7,14.2,6.2,11.6,0.4,39,Good,-1.8,44,4.8,0.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,New York,United States,North America,AQ-UNI-NEW-001,40.7,-74.0,16.5,37.7,12.6,5.1,9.9,0.39,53,Moderate,5.7,67,2.8,8.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Los Angeles,United States,North America,AQ-UNI-LOS-001,34.1,-118.2,13.7,13.1,8.4,7.7,26.6,0.5,48,Good,6.6,47,9.0,4.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Chicago,United States,North America,AQ-UNI-CHI-001,41.9,-87.6,13.9,30.4,7.2,5.5,13.7,0.39,59,Moderate,0.8,45,15.3,2.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Houston,United States,North America,AQ-UNI-HOU-001,29.8,-95.4,33.9,58.6,18.6,8.0,28.2,0.65,72,Moderate,14.5,59,5.4,2.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Mexico City,Mexico,North America,AQ-MEX-MEX-001,19.4,-99.1,44.5,93.4,28.6,12.6,28.0,0.95,120,Unhealthy for Sensitive Groups,8.7,59,2.0,9.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Toronto,Canada,North America,AQ-CAN-TOR-001,43.7,-79.4,16.2,27.8,11.8,3.5,9.4,0.38,57,Moderate,4.8,44,6.9,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Vancouver,Canada,North America,AQ-CAN-VAN-001,49.3,-123.1,9.1,28.8,3.3,5.7,16.7,0.29,43,Good,-0.3,53,3.8,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Bogota,Colombia,South America,AQ-COL-BOG-001,4.7,-74.1,36.9,82.4,31.4,7.7,23.1,0.86,90,Moderate,20.2,87,5.3,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Sao Paulo,Brazil,South America,AQ-BRA-SAO-001,-23.6,-46.6,15.8,14.9,6.6,3.1,21.6,0.12,46,Good,28.8,53,8.1,12.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Lima,Peru,South America,AQ-PER-LIM-001,-12.0,-77.0,31.1,59.7,19.5,5.8,20.6,0.69,70,Moderate,33.6,38,5.0,10.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Santiago,Chile,South America,AQ-CHI-SAN-001,-33.4,-70.7,15.8,30.3,10.8,6.3,8.0,0.54,35,Good,22.6,45,4.0,5.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Buenos Aires,Argentina,South America,AQ-ARG-BUE-001,-34.6,-58.4,16.1,23.9,8.0,2.0,14.3,0.1,41,Good,29.5,46,2.5,3.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Lagos,Nigeria,Africa,AQ-NIG-LAG-001,6.5,3.4,80.2,115.2,47.5,21.5,9.6,1.62,166,Unhealthy,12.3,60,1.6,16.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Nairobi,Kenya,Africa,AQ-KEN-NAI-001,-1.3,36.8,14.9,30.1,10.1,3.3,17.1,0.36,35,Good,38.4,49,9.5,4.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Johannesburg,South Africa,Africa,AQ-SOU-JOH-001,-26.2,28.0,18.8,34.3,12.9,7.4,23.0,0.42,47,Good,27.8,51,5.1,6.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Casablanca,Morocco,Africa,AQ-MOR-CAS-001,33.6,-7.6,36.1,59.8,21.0,9.3,17.5,0.88,103,Unhealthy for Sensitive Groups,8.5,57,10.8,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Addis Ababa,Ethiopia,Africa,AQ-ETH-ADD-001,9.0,38.7,30.2,53.9,21.8,9.6,13.0,0.65,67,Moderate,12.7,45,4.3,5.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Sydney,Australia,Oceania,AQ-AUS-SYD-001,-33.9,151.2,1.1,2,5.7,3.7,33.2,0.1,28,Good,28.9,71,6.9,5.4,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Melbourne,Australia,Oceania,AQ-AUS-MEL-001,-37.8,144.9,1,2,1,0.5,18.2,0.1,24,Good,20.9,40,6.2,5.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Auckland,New Zealand,Oceania,AQ-NEW-AUC-001,-36.8,174.8,7.1,12.7,1,0.5,15.5,0.22,12,Good,23.8,39,4.2,1.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Dubai,United Arab Emirates,Asia,AQ-UNI-DUB-001,25.3,55.3,83.1,141.7,48.5,21.2,18.5,1.71,185,Unhealthy,10.7,52,4.7,3.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Riyadh,Saudi Arabia,Asia,AQ-SAU-RIY-001,24.7,46.7,89.4,181.8,51.4,22.2,37.6,1.7,171,Unhealthy,12.5,41,8.7,7.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Tehran,Iran,Asia,AQ-IRA-TEH-001,35.7,51.4,91.6,132.6,58.1,21.7,5,1.94,224,Very Unhealthy,3.8,32,2.8,9.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Baghdad,Iraq,Asia,AQ-IRA-BAG-001,33.3,44.4,97.2,205.2,58.4,24.2,10.5,2.11,205,Very Unhealthy,-1.5,52,14.5,8.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Ho Chi Minh City,Vietnam,Asia,AQ-VIE-HO -001,10.8,106.6,47.4,98.2,30.8,11.1,15.0,0.89,101,Unhealthy for Sensitive Groups,8.9,45,3.2,9.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Manila,Philippines,Asia,AQ-PHI-MAN-001,14.6,120.9,40.8,75.2,28.6,11.6,24.5,0.84,112,Unhealthy for Sensitive Groups,12.2,63,2.2,1.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Chengdu,China,Asia,AQ-CHI-CHE-001,30.6,104.1,68.5,100.2,46.4,22.7,23.7,1.41,187,Unhealthy,5.7,42,4.8,16.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Guangzhou,China,Asia,AQ-CHI-GUA-001,23.1,113.3,67.7,127.9,41.3,17.8,24.6,1.29,166,Unhealthy,12.1,45,9.7,18.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Wuhan,China,Asia,AQ-CHI-WUH-001,30.6,114.3,63.3,128.0,35.7,13.1,30.2,0.99,138,Unhealthy for Sensitive Groups,4.0,59,4.9,11.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-17,Shenzhen,China,Asia,AQ-CHI-SHE-001,22.5,114.1,39.5,72.0,20.2,4.4,7.0,0.73,82,Moderate,9.4,42,4.4,17.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Beijing,China,Asia,AQ-CHI-BEI-001,39.9,116.4,78.9,136.1,49.9,22.5,5,1.77,193,Unhealthy,1.9,60,7.1,21.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Shanghai,China,Asia,AQ-CHI-SHA-001,31.2,121.5,58.8,124.3,30.2,16.0,18.5,1.25,156,Unhealthy,8.1,68,6.4,27.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Delhi,India,Asia,AQ-IND-DEL-001,28.6,77.2,117.9,187.2,65.7,27.9,18.7,2.6,209,Very Unhealthy,8.5,66,7.5,32.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Mumbai,India,Asia,AQ-IND-MUM-001,19.1,72.9,69.8,110.0,41.1,18.3,24.8,1.45,176,Unhealthy,6.4,52,3.3,21.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Kolkata,India,Asia,AQ-IND-KOL-001,22.6,88.4,82.9,135.3,55.1,22.2,18.4,1.72,180,Unhealthy,11.7,55,4.5,15.1,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Tokyo,Japan,Asia,AQ-JAP-TOK-001,35.7,139.7,16.8,19.8,10.8,6.0,22.7,0.38,33,Good,2.5,56,8.4,14.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Seoul,South Korea,Asia,AQ-SOU-SEO-001,37.6,127.0,26.6,54.1,18.4,2.2,17.2,0.4,51,Moderate,7.5,47,8.4,9.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Bangkok,Thailand,Asia,AQ-THA-BAN-001,13.8,100.5,43.2,83.7,27.9,11.8,31.4,0.82,89,Moderate,9.5,33,5.1,10.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Jakarta,Indonesia,Asia,AQ-IND-JAK-001,6.2,106.8,43.5,99.4,26.2,12.6,7.0,0.81,106,Unhealthy for Sensitive Groups,17.3,67,4.6,10.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Hanoi,Vietnam,Asia,AQ-VIE-HAN-001,21.0,105.9,67.5,144.7,43.0,15.1,25.9,1.13,145,Unhealthy for Sensitive Groups,10.5,34,1.7,8.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Dhaka,Bangladesh,Asia,AQ-BAN-DHA-001,23.8,90.4,86.2,141.4,45.9,19.3,9.8,1.79,182,Unhealthy,12.6,37,5.7,22.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Karachi,Pakistan,Asia,AQ-PAK-KAR-001,24.9,67.0,95.9,197.4,58.1,22.8,18.2,1.69,198,Unhealthy,7.6,66,10.9,16.8,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Lahore,Pakistan,Asia,AQ-PAK-LAH-001,31.6,74.3,108.5,161.8,64.0,29.3,5,2.2,218,Very Unhealthy,8.5,50,6.8,13.5,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Singapore,Singapore,Asia,AQ-SIN-SIN-001,1.4,103.8,16.6,28.8,12.4,4.1,5.6,0.26,54,Moderate,20.6,68,5.5,5.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Taipei,Taiwan,Asia,AQ-TAI-TAI-001,25.0,121.5,31.6,48.6,22.4,10.5,12.7,0.71,65,Moderate,8.1,53,4.2,2.6,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,London,United Kingdom,Europe,AQ-UNI-LON-001,51.5,-0.1,13.6,13.0,5.2,3.2,7.6,0.27,46,Good,-2.3,66,9.9,9.0,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Paris,France,Europe,AQ-FRA-PAR-001,48.9,2.3,17.6,27.1,10.9,3.6,16.1,0.4,48,Good,1.5,57,4.2,2.2,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Berlin,Germany,Europe,AQ-GER-BER-001,52.5,13.4,11.0,18.6,7.4,0.9,9.9,0.32,41,Good,-2.9,58,4.4,3.7,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Madrid,Spain,Europe,AQ-SPA-MAD-001,40.4,-3.7,11.1,24.5,1,4.8,28.7,0.31,42,Good,0.4,50,4.5,3.3,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00
+2020-01-18,Rome,Italy,Europe,AQ-ITA-ROM-001,41.9,12.5,20.9,49.0,18.9,6.0,21.7,0.46,80,Moderate,0.9,42,3.8,2.9,databazaar:7ca3e269-fb6d-4f3e-8fea-c4d0a5add01e,2026-05-04T19:27:11+00:00

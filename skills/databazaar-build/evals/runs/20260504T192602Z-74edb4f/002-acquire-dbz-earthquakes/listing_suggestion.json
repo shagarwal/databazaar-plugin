@@ -1,0 +1,27 @@
+{
+  "title": "Seismic Events Database \u2014 94,767 Earthquakes (2020\u20132025)",
+  "description": "Wide-coverage catalog of 94,767 seismic events (magnitude 4.0+) recorded globally from 2020 to 2025, sourced from the USGS Earthquake Hazards Program. Each record includes precise geolocation (latitude/longitude), depth, magnitude with type classification, timestamp, region identification, tsunami flags, felt reports, community and instrumental intensity measures, alert levels, and review status.\n\nKey features:\n- **94,767 unique events** spanning 6 years (2020\u20132025)\n- **Global coverage**: 180+ countries and regions, with major representation from Indonesia, Japan, Philippines, Chile, and the Pacific Ring of Fire\n- **Enriched classifications**: depth class (shallow/intermediate/deep), magnitude class (light/moderate/strong/major/great)\n- **Multi-source validation**: Events cross-referenced across USGS contributing networks\n- **28 columns** including technical parameters (RMS error, azimuthal gap, station count) for advanced seismological analysis\n\nIdeal for: seismic risk modeling, geospatial analysis, climate/disaster research, machine learning (earthquake prediction), insurance risk assessment, and educational use.\n\nData sourced from the USGS Earthquake Hazards Program (earthquake.usgs.gov), a globally authoritative public seismological data source.",
+  "category": "scientific",
+  "tags": [
+    "earthquakes",
+    "seismology",
+    "geospatial",
+    "natural-disasters",
+    "usgs",
+    "global",
+    "time-series"
+  ],
+  "suggested_price_usd": 2.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 2.99,
+      "label": "heuristic"
+    }
+  ]
+}

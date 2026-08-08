@@ -1,0 +1,10 @@
+mode: aggregate
+kind: refusal
+inputs:
+  - evals/fixtures/clean-companies.csv
+  - evals/fixtures/clean-products.json
+on: id
+tags: aggregate,not-implemented
+expects:
+  stderr_contains: not yet implemented
+notes: "Aggregate mode is a known v0.4 target. Case will need to flip to kind=standard once implemented."

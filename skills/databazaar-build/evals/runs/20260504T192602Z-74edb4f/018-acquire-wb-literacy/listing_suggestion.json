@@ -1,0 +1,29 @@
+{
+  "title": "Gender Equality & Women's Empowerment Indicators (1960\u20132024)",
+  "description": "A extensive panel dataset covering gender equality and women's empowerment indicators for 217+ countries from 1960 to 2024. Compiled from World Bank Gender Statistics, combining 25 indicators per country-year: women in parliament (%), female/male labor force participation, gender parity in education (primary/secondary/tertiary enrollment), maternal mortality rates, adolescent fertility, life expectancy by gender, unemployment by gender, literacy rates by gender, contraceptive prevalence, vulnerable employment, primary school completion rates, births attended by skilled staff, total fertility rate, women justifying violence indicators, female land ownership, and female firm ownership. Over 16,000 rows with 28 columns. Useful for gender research, policy analysis, SDG tracking, and cross-country development comparisons.",
+  "category": "social",
+  "tags": [
+    "gender-equality",
+    "womens-empowerment",
+    "world-bank",
+    "demographics",
+    "sdg",
+    "labor",
+    "education",
+    "health",
+    "country-panel"
+  ],
+  "suggested_price_usd": 2.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 2.99,
+      "label": "heuristic"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+mode: prepare
+kind: standard
+input: evals/fixtures/clean-products.json
+tags: prepare,clean,json
+expects:
+  min_rows: 20
+  pii_blocked: false
+notes: "Clean JSON with `data` wrapper."

@@ -1,0 +1,8 @@
+mode: acquire
+kind: standard
+request: "heirloom tomato varieties grown in Vermont with average yield"
+tags: acquire,long-tail,honest-miss
+expects:
+  min_rows: 0
+  pii_blocked: false
+notes: "No source likely covers this; verifies honest miss + non-fabrication."

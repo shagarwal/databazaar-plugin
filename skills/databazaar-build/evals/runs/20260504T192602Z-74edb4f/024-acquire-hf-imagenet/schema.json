@@ -1,0 +1,49 @@
+{
+  "title": "HuggingFace dataset discovery \u2014 imagenet image classification dataset",
+  "description": "Top-5 HuggingFace datasets matching 'imagenet image classification dataset'. v0.2 returns discovery metadata only; use the `datasets` library to stream actual rows.",
+  "category": "ai-ml",
+  "tags": [
+    "task_categories:image-classification",
+    "size_categories:10K<n<100K",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "roboflow",
+    "roboflow2huggingface",
+    "Retail"
+  ],
+  "columns": [
+    {
+      "name": "dataset_id",
+      "type": "string",
+      "description": "HuggingFace dataset ID"
+    },
+    {
+      "name": "downloads",
+      "type": "number",
+      "description": "30-day download count"
+    },
+    {
+      "name": "likes",
+      "type": "number",
+      "description": "Likes on the dataset card"
+    },
+    {
+      "name": "tags",
+      "type": "string",
+      "description": "Comma-separated tags"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "description": "Truncated description (500 chars)"
+    },
+    {
+      "name": "url",
+      "type": "string",
+      "description": "HuggingFace dataset URL"
+    }
+  ]
+}

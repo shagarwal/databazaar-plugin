@@ -1,0 +1,117 @@
+{
+  "title": "Open-Access Museum Artwork Metadata \u2014 10,000+ Works (1000\u20132025)",
+  "description": "A consolidated metadata catalog of 10,000+ artworks from the worlds leading open-access museum collections. Each record includes artwork title, artist, creation date, medium, dimensions, department, culture/origin, classification, and direct image URLs. Sourced from the Metropolitan Museum of Art, Art Institute of Chicago, Cleveland Museum of Art, and Rijksmuseum open-access APIs. Ideal for training image classification models, art historical analysis, cultural heritage research, and recommendation systems. All records are normalized to a common schema with consistent field naming and formatting.",
+  "category": "images",
+  "tags": [
+    "art",
+    "museum",
+    "cultural-heritage",
+    "open-access",
+    "image-metadata",
+    "artwork",
+    "paintings",
+    "sculptures"
+  ],
+  "columns": [
+    {
+      "name": "source_museum",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "object_id",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "title",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "artist_name",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "artist_nationality",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "artist_birth_year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "artist_death_year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "creation_date",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "creation_year_start",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "creation_year_end",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "medium",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dimensions",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "department",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "classification",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "culture",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "period",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "image_url",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "is_public_domain",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "credit_line",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "country_of_origin",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

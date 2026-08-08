@@ -1,0 +1,8 @@
+mode: acquire
+kind: standard
+request: "international flight routes airport connectivity"
+tags: acquire,databazaar,transportation
+expects:
+  min_rows: 100
+  pii_blocked: false
+notes: "Flight routes listing exists."

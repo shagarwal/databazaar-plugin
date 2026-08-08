@@ -1,0 +1,22 @@
+{
+  "name": "databazaar",
+  "version": "0.1.0",
+  "description": "Build, normalize, and publish agent-ready datasets — and search, buy, and sell data on the DataBazaar marketplace via MCP.",
+  "author": {
+    "name": "DataBazaar",
+    "url": "https://databazaar.io"
+  },
+  "homepage": "https://databazaar.io",
+  "repository": "https://github.com/shagarwal/databazaar-plugin",
+  "license": "MIT",
+  "keywords": [
+    "data",
+    "datasets",
+    "data-marketplace",
+    "mcp",
+    "etl",
+    "data-engineering",
+    "ai-agents",
+    "data-acquisition"
+  ]
+}

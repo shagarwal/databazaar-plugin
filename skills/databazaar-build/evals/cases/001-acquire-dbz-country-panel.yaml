@@ -1,0 +1,8 @@
+mode: acquire
+kind: standard
+request: "World Bank development indicators by country"
+tags: acquire,databazaar,country-panel
+expects:
+  min_rows: 50
+  pii_blocked: false
+notes: "Country panel — largest cluster in databazaar catalog."

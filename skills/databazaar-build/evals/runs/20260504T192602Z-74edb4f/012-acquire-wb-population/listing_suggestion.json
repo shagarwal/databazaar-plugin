@@ -1,0 +1,29 @@
+{
+  "title": "International Tourism, Travel & Transport Statistics (1960\u20132023)",
+  "description": "Multi-source panel dataset covering international tourism, air transport, surface transport, trade in services, and international migration for 218 countries from 1960 to 2023. Contains 13,952 observations across 31 variables including tourism arrivals/departures, receipts/expenditures, air passenger volumes, railway traffic, container port throughput, and derived indicators like tourism intensity per capita and tourism balance.\n\n**Sources:** World Bank Open Data API \u2014 25 indicator series compiled from World Development Indicators (WDI), International Tourism statistics (UNWTO via World Bank), ICAO air transport data, and UN Population Division migration estimates.\n\n**Key Features:**\n- 218 countries and territories\n- 64-year time span (1960\u20132023)\n- 8 core tourism indicators (arrivals, departures, receipts, expenditures)\n- 3 air transport indicators (passengers, departures, freight)\n- 2 surface transport indicators (railways passengers, freight)\n- 5 trade & services indicators\n- 3 migration indicators\n- 4 derived analytical indicators (tourism intensity, receipts % GDP, tourism balance, air passengers per capita)\n- GDP, GDP per capita, and population for contextual analysis\n\n**Format:** Wide panel \u2014 one row per country-year, all indicators as columns. Missing values left blank (not all indicators available for all country-years).\n\n**Use Cases:** Tourism economics research, travel industry analysis, transport infrastructure comparisons, international mobility trends, COVID-19 impact studies on global tourism, development economics.",
+  "category": "social",
+  "tags": [
+    "tourism",
+    "travel",
+    "transport",
+    "air-transport",
+    "migration",
+    "world-bank",
+    "panel-data",
+    "international",
+    "economics"
+  ],
+  "suggested_price_usd": 2.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 2.99,
+      "label": "heuristic"
+    }
+  ]
+}

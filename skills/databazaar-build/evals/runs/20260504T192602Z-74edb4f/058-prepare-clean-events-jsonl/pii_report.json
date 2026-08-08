@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-05-04T19:28:26+00:00",
+  "row_count": 30,
+  "detections": [
+    {
+      "column": "value_cents",
+      "pattern": "phone",
+      "tier": 1,
+      "match_count": 4,
+      "action": "redacted"
+    }
+  ],
+  "blocked": false,
+  "blockers": []
+}

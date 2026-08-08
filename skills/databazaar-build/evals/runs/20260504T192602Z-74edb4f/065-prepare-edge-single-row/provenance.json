@@ -1,0 +1,20 @@
+{
+  "skill_version": "0.2.0",
+  "generated_at": "2026-05-04T19:28:28+00:00",
+  "row_count": 1,
+  "sources": [
+    {
+      "name": "User-supplied file: single-row.csv",
+      "url": "file:///home/hermes/agentdatamarketplace/skills/databazaar/evals/fixtures/single-row.csv",
+      "license": "user-supplied",
+      "retrieved_at": "2026-05-04T19:28:28+00:00"
+    }
+  ],
+  "rows": [
+    {
+      "row_index": 0,
+      "source": "user-supplied",
+      "retrieved_at": "2026-05-04T19:28:28+00:00"
+    }
+  ]
+}

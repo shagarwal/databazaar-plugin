@@ -1,0 +1,16 @@
+dataset_id,downloads,likes,tags,description,url,_source,_retrieved_at
+gaia-benchmark/GAIA,33827,654,"language:en, size_categories:n<1K, format:parquet, modality:audio, modality:document, modality:image, modality:text, library:datasets, library:pandas, library:polars, library:mlcroissant, arxiv:2311.12983, region:us","
+	
+		
+		GAIA dataset
+	
+
+GAIA is a benchmark which aims at evaluating next-generation LLMs (LLMs with augmented capabilities due to added tooling, efficient prompting, access to search, etc).
+We added gating to prevent bots from scraping the dataset. Please do not reshare the validation or test set in a crawlable format.
+
+	
+		
+		Data and leaderboard
+	
+
+GAIA is made of more than 450 non-trivial question with an unambiguous answer, requiring different levels of tooling and autonomy to solve. It… Se",https://huggingface.co/datasets/gaia-benchmark/GAIA,huggingface:gaia-benchmark/GAIA,2026-05-04T19:28:09+00:00

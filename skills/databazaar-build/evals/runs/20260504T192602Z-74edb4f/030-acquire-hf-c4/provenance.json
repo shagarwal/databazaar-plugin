@@ -1,0 +1,20 @@
+{
+  "skill_version": "0.2.0",
+  "generated_at": "2026-05-04T19:28:16+00:00",
+  "row_count": 1,
+  "sources": [
+    {
+      "name": "HuggingFace dataset oscar-corpus/colossal-oscar-1.0",
+      "url": "https://huggingface.co/datasets/oscar-corpus/colossal-oscar-1.0",
+      "license": "see card",
+      "retrieved_at": "2026-05-04T19:28:16+00:00"
+    }
+  ],
+  "rows": [
+    {
+      "row_index": 0,
+      "source": "huggingface:oscar-corpus/colossal-oscar-1.0",
+      "retrieved_at": "2026-05-04T19:28:16+00:00"
+    }
+  ]
+}

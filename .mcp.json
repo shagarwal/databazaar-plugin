@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "databazaar": {
+      "command": "npx",
+      "args": ["-y", "databazaar-mcp"]
+    }
+  }
+}

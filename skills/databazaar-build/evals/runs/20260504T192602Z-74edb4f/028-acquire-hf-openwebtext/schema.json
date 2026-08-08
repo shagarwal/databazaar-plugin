@@ -1,0 +1,49 @@
+{
+  "title": "HuggingFace dataset discovery \u2014 openwebtext language model training",
+  "description": "Top-5 HuggingFace datasets matching 'openwebtext language model training'. v0.2 returns discovery metadata only; use the `datasets` library to stream actual rows.",
+  "category": "ai-ml",
+  "tags": [
+    "task_categories:text-generation",
+    "task_categories:fill-mask",
+    "task_ids:language-modeling",
+    "task_ids:masked-language-modeling",
+    "annotations_creators:no-annotation",
+    "language_creators:found",
+    "multilinguality:monolingual",
+    "source_datasets:original",
+    "language:en",
+    "license:cc0-1.0"
+  ],
+  "columns": [
+    {
+      "name": "dataset_id",
+      "type": "string",
+      "description": "HuggingFace dataset ID"
+    },
+    {
+      "name": "downloads",
+      "type": "number",
+      "description": "30-day download count"
+    },
+    {
+      "name": "likes",
+      "type": "number",
+      "description": "Likes on the dataset card"
+    },
+    {
+      "name": "tags",
+      "type": "string",
+      "description": "Comma-separated tags"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "description": "Truncated description (500 chars)"
+    },
+    {
+      "name": "url",
+      "type": "string",
+      "description": "HuggingFace dataset URL"
+    }
+  ]
+}

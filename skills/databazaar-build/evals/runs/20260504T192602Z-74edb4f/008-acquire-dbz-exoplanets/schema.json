@@ -1,0 +1,161 @@
+{
+  "title": "NASA Exoplanet & Planetary Candidate Catalog \u2014 20,933 Objects from NASA, Kepler & TESS (1992\u20132025)",
+  "description": "Harmonized catalog of 20,933 exoplanetary objects combining three authoritative NASA sources: the NASA Exoplanet Archive (6,153 confirmed exoplanets), the Kepler Cumulative KOI Table (6,867 unique Kepler Objects of Interest), and the TESS Objects of Interest catalog (7,913 TOIs). Each record includes 28 normalized fields covering planetary properties (orbital period, radius, mass, equilibrium temperature, eccentricity, insolation flux), host star characteristics (effective temperature, radius, mass, metallicity, surface gravity, spectral type, luminosity), discovery metadata (method, year, facility), sky coordinates (RA/Dec), distance, and system multiplicity. Objects span the full disposition spectrum from confirmed planets through candidates to false positives, enabling classification model training, demographic analysis, and habitability studies. Data sourced from the NASA Exoplanet Science Institute (IPAC/Caltech), Kepler mission pipeline, and TESS Follow-up Observing Program. Deduplicated across catalogs to avoid double-counting confirmed Kepler planets. Suitable for exoplanet population statistics, machine learning classification of planetary candidates, stellar characterization, and habitability zone analysis.",
+  "category": "scientific",
+  "tags": [
+    "exoplanets",
+    "NASA",
+    "Kepler",
+    "TESS",
+    "astronomy",
+    "astrophysics",
+    "planetary-science",
+    "stellar-properties",
+    "habitability",
+    "space",
+    "transit-photometry",
+    "radial-velocity"
+  ],
+  "columns": [
+    {
+      "name": "object_name",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "host_star",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "source_catalog",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "status",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "discovery_method",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "discovery_year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "discovery_facility",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "orbital_period_days",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "orbital_semi_major_axis_au",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "planet_radius_earth",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "planet_mass_earth",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "equilibrium_temp_k",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "orbital_eccentricity",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "insolation_flux_earth",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "stellar_effective_temp_k",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "stellar_radius_solar",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "stellar_mass_solar",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "stellar_metallicity_dex",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "stellar_surface_gravity_log",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "stellar_spectral_type",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "stellar_luminosity_log_solar",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "distance_pc",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "visual_magnitude",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "ra_deg",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "dec_deg",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "num_stars_in_system",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "num_planets_in_system",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "transit_duration_hours",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

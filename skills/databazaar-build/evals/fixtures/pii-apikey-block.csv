@@ -1,0 +1,3 @@
+service,key,owner
+openai,sk-abc123def456ghi789jkl012mno,team-a
+aws,AKIAIOSFODNN7EXAMPLE,team-b

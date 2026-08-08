@@ -1,0 +1,30 @@
+{
+  "title": "Healthcare Infrastructure & Disease Burden \u2014 226 Countries (1980\u20132024)",
+  "description": "Wide-coverage panel dataset covering 226 countries and territories from 1980 to 2024 with 28 health system indicators. Includes life expectancy, infant and maternal mortality, physician and nurse density, hospital bed capacity, health expenditure (% GDP and per capita), immunization coverage (DPT and measles), HIV prevalence, tuberculosis incidence, NCD mortality risk, UHC service coverage index, water and sanitation access, obesity and diabetes prevalence, tobacco use, and alcohol consumption. Data synthesized from WHO Global Health Observatory, World Bank Health Nutrition and Population Statistics, UNICEF State of the Worlds Children, UNAIDS, and UN Population Division sources. Suitable for longitudinal health system analysis, cross-country benchmarking, disease burden modeling, and public health policy research.",
+  "category": "healthcare",
+  "tags": [
+    "healthcare",
+    "global-health",
+    "WHO",
+    "disease-burden",
+    "mortality",
+    "immunization",
+    "health-expenditure",
+    "UHC",
+    "panel-data",
+    "1980-2024"
+  ],
+  "suggested_price_usd": 2.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 2.99,
+      "label": "heuristic"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "clean-products",
+  "description": "Prepared from proprietary input. 20 rows \u00d7 4 columns.",
+  "category": "other",
+  "tags": [],
+  "columns": [
+    {
+      "name": "sku",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "P0001",
+        "P0002",
+        "P0003"
+      ]
+    },
+    {
+      "name": "name",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "Widget 1",
+        "Widget 2",
+        "Widget 3"
+      ]
+    },
+    {
+      "name": "price_usd",
+      "type": "number",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "10.99",
+        "11.99",
+        "12.99"
+      ]
+    },
+    {
+      "name": "in_stock",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "True",
+        "True",
+        "False"
+      ]
+    }
+  ]
+}

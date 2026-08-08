@@ -1,0 +1,40 @@
+{
+  "title": "HuggingFace dataset discovery \u2014 squad question answering dataset",
+  "description": "Top-5 HuggingFace datasets matching 'squad question answering dataset'. v0.2 returns discovery metadata only; use the `datasets` library to stream actual rows.",
+  "category": "ai-ml",
+  "tags": [
+    "region:us"
+  ],
+  "columns": [
+    {
+      "name": "dataset_id",
+      "type": "string",
+      "description": "HuggingFace dataset ID"
+    },
+    {
+      "name": "downloads",
+      "type": "number",
+      "description": "30-day download count"
+    },
+    {
+      "name": "likes",
+      "type": "number",
+      "description": "Likes on the dataset card"
+    },
+    {
+      "name": "tags",
+      "type": "string",
+      "description": "Comma-separated tags"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "description": "Truncated description (500 chars)"
+    },
+    {
+      "name": "url",
+      "type": "string",
+      "description": "HuggingFace dataset URL"
+    }
+  ]
+}

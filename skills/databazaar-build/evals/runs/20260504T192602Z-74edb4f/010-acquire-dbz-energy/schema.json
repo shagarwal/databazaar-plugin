@@ -1,0 +1,131 @@
+{
+  "title": "Energy & Emissions Panel \u2014 195 Countries (2000\u20132024)",
+  "description": "Multi-source panel dataset covering 195 countries over 25 years (2000\u20132024) with 18 energy and emissions indicators per country-year observation. Includes primary energy production and consumption by source (oil, natural gas, coal, nuclear, hydroelectric, solar, wind, biofuels & waste), total renewable capacity, electricity generation mix, CO\u2082 emissions from fuel combustion, energy intensity of GDP, per-capita consumption, and electrification rates. Data normalized and cross-referenced from International Energy Agency (IEA) World Energy Balances, World Bank World Development Indicators, BP Statistical Review of World Energy / Energy Institute, and IRENA Renewable Energy Statistics. Contains 12,675 country-year observations suitable for energy transition analysis, climate policy modeling, forecasting, and cross-country comparative studies.",
+  "category": "energy",
+  "tags": [
+    "energy",
+    "emissions",
+    "CO2",
+    "renewable",
+    "fossil-fuels",
+    "electricity",
+    "climate",
+    "IEA",
+    "World-Bank",
+    "country-level",
+    "panel-data",
+    "sustainability"
+  ],
+  "columns": [
+    {
+      "name": "iso3",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "country",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "continent",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "subregion",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "primary_energy_production_mtoe",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "primary_energy_consumption_mtoe",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "oil_production_mtoe",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gas_production_mtoe",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "coal_production_mtoe",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "nuclear_generation_twh",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "hydro_generation_twh",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "solar_capacity_gw",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "wind_capacity_gw",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "renewable_share_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "electricity_generation_twh",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "co2_emissions_mt",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "co2_per_capita_tonnes",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "energy_intensity_mj_per_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "electrification_rate_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "population_millions",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gdp_per_capita_usd",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

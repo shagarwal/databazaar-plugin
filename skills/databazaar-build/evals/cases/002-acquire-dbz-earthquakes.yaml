@@ -1,0 +1,8 @@
+mode: acquire
+kind: standard
+request: "USGS earthquakes catalog"
+tags: acquire,databazaar,scientific
+expects:
+  min_rows: 40
+  pii_blocked: false
+notes: "USGS earthquake listings exist in catalog."

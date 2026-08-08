@@ -1,0 +1,12 @@
+dataset_id,downloads,likes,tags,description,url,_source,_retrieved_at
+keremberke/indoor-scene-classification,319,6,"task_categories:image-classification, size_categories:10K<n<100K, modality:image, modality:text, library:datasets, library:mlcroissant, region:us, roboflow, roboflow2huggingface, Retail, Pest Control, Benchmark","
+  
+
+
+
+	
+		
+		Dataset Labels
+	
+
+['meeting_room', 'cloister', 'stairscase', 'restaurant', 'hairsalon', 'children_room', 'dining_room', 'lobby', 'museum', 'laundromat', 'computerroom', 'grocerystore', 'hospitalroom', 'buffet', 'office', 'warehouse', 'garage', 'bookstore', 'florist', 'locker_room', 'inside_bus', 'subway', 'fastfood_restaurant', 'auditorium', 'studiomusic', 'airport_inside', 'pantry', 'restaurant_kitchen', 'casino', 'movietheater', 'kitchen', 'waitingroom', 'artstudio', 'toystore'… ",https://huggingface.co/datasets/keremberke/indoor-scene-classification,huggingface:keremberke/indoor-scene-classification,2026-05-04T19:28:08+00:00

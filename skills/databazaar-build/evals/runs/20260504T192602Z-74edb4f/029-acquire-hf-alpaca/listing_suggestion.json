@@ -1,0 +1,30 @@
+{
+  "title": "HuggingFace dataset discovery \u2014 alpaca instruction tuning dataset",
+  "description": "Top-5 HuggingFace datasets matching 'alpaca instruction tuning dataset'. v0.2 returns discovery metadata only; use the `datasets` library to stream actual rows.",
+  "category": "ai-ml",
+  "tags": [
+    "task_categories:question-answering",
+    "task_categories:text-generation",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "suggested_price_usd": 0.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 0.99,
+      "label": "heuristic"
+    }
+  ]
+}

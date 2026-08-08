@@ -1,0 +1,8 @@
+mode: prepare
+kind: standard
+input: evals/fixtures/pii-phones-only.csv
+tags: prepare,pii,redact
+expects:
+  min_rows: 5
+  pii_blocked: false
+notes: "Phones redacted."

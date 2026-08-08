@@ -1,0 +1,30 @@
+{
+  "title": "HuggingFace dataset discovery \u2014 c4 colossal clean crawled corpus",
+  "description": "Top-5 HuggingFace datasets matching 'c4 colossal clean crawled corpus'. v0.2 returns discovery metadata only; use the `datasets` library to stream actual rows.",
+  "category": "ai-ml",
+  "tags": [
+    "task_categories:fill-mask",
+    "task_categories:text-generation",
+    "task_ids:language-modeling",
+    "multilinguality:multilingual",
+    "source_datasets:original",
+    "license:cc0-1.0",
+    "size_categories:n>1T",
+    "arxiv:2212.10440",
+    "arxiv:2010.14571",
+    "region:us"
+  ],
+  "suggested_price_usd": 0.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 0.99,
+      "label": "heuristic"
+    }
+  ]
+}

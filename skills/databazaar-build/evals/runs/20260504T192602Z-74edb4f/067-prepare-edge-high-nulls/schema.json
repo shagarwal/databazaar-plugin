@@ -1,0 +1,38 @@
+{
+  "title": "high-nulls",
+  "description": "Prepared from proprietary input. 8 rows \u00d7 3 columns.",
+  "category": "other",
+  "tags": [],
+  "columns": [
+    {
+      "name": "a",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "name": "b",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.875,
+      "sample_values": [
+        "y"
+      ]
+    },
+    {
+      "name": "c",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.75,
+      "sample_values": [
+        "x",
+        "z"
+      ]
+    }
+  ]
+}

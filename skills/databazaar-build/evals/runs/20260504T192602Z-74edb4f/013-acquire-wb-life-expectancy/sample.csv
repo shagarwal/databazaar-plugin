@@ -1,0 +1,1001 @@
+country_code,country_name,indicator_code,indicator_name,year,value,_source,_retrieved_at
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,65.3499304660954,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,65.1462279163724,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,64.4871517904367,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,62.9799991857494,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,63.7664840026943,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,63.8572612837043,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,63.3306913582336,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,62.5912750961501,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,62.1679813169199,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,61.713030523495,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,61.2514360156709,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,60.895739752772,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,60.2495123598467,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,59.2000040300701,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,58.827279206282,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,58.0955271436463,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,57.2401063228798,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,56.4843531784534,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,55.6935152578453,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,54.8076807136336,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,54.1929278660434,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,53.6783047685822,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,53.2067443343026,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,52.8755360536287,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,52.5573418626777,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,51.8070772449868,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,51.3179554721368,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,51.5708865171429,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,51.3531898360738,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,51.4820566813357,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,50.9665887956465,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,51.0737619133776,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,50.7159460478921,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,50.8732436063946,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,51.0963264543047,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,51.2658735140762,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,50.8766070614946,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,51.0689429320971,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,50.0097614989116,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,49.3929024640878,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,48.9979586702536,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,48.9040956565703,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,50.2908293797205,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,50.0204932967522,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,49.816713138052,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,49.4169883847351,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,48.9839167133521,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,48.8607248856663,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,48.568138198282,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,47.9685480547675,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,47.7443277639797,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,47.7466079240168,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,47.1667922827106,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,47.4640156591505,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,47.2480056807395,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,46.977475702472,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,46.7386317469603,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,46.4407454164319,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,45.7657253575752,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,45.7707229233552,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,45.5356954673738,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,45.160582805883,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,44.8778899276436,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,44.4688383362574,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZH,Africa Eastern and Southern,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,44.169658253166,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,59.0498110874559,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,58.8557398136649,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,57.9878499444678,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,57.3627361321845,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,57.364735967395,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,57.149956341607,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,57.0371042874016,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,56.6266215613676,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,56.3925982370859,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,56.0385189224052,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,55.6956299417246,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,55.5551097655387,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,55.2929453627,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,54.9641949401188,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,54.603593426599,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,53.8524858337372,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,53.9164834232944,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,53.4826715613815,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,52.9789311865575,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,52.5560300194313,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,52.1063422570697,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,51.5783635279193,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,51.1082469203541,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,50.6779957001276,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,50.2981700134604,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,49.8239128664926,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,49.4525897449996,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,49.2189700928863,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,49.1117803041981,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,49.0273009925381,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,48.8597174160713,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,48.8550511026739,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,48.6887261162059,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,48.5312288941282,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,48.4594671848464,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,48.4961546933903,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,48.3715248375284,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,48.1395668224393,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,48.0381632354847,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,47.944482041976,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,47.7976455140063,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,47.6195587760542,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,47.3739420165367,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,47.0752192986973,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,46.6962289703039,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,46.3285066416568,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,45.8762783649255,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,45.3622641589988,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,44.7525700464106,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,43.9670793793715,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,43.4371553343667,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,42.868104410377,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,42.3561322199373,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,41.7301022111752,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,41.2779385070111,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,40.5678141333761,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,40.2588895462561,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,39.5293590242118,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,39.7192652766948,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,39.4797844952672,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,39.1945798827297,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,38.9369177714205,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,38.6817923842751,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,38.0589725788266,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+ZI,Africa Western and Central,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,37.779636388716,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,72.721805028968,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,72.4446783578531,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,71.8760955992222,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,70.4041144889903,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,70.7265588103862,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.8398932674972,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.4312997859137,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.1128560080646,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.8964881164428,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.6580123695192,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,70.5350666310281,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,70.1921058451273,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,69.842316602094,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,69.3633376859826,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,69.8073221012027,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,69.7069035410593,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,69.2581327561764,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,68.8792264386993,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,68.4912652387812,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,68.0405024136348,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,67.7331029040443,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,67.6503349498777,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,67.5806302791343,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,67.2406170439926,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,66.8906998949344,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,66.5499343902957,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,66.1935792889826,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,65.8529924943129,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,65.5268890989846,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,65.2025060952802,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,64.8500832261274,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,64.6012801061363,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,63.5755762828725,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,62.8275066232407,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,62.7559727299802,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,62.298247176217,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,61.6715328559911,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,61.6208093313694,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,60.9186844945402,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,59.9894611140008,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,59.3295817498183,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,58.6376067378553,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,57.8702345782784,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,57.5691664444265,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,57.0063532889679,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,56.4797481519221,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,55.757128481753,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,55.0819222407783,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,53.8506489883016,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,53.4203511944222,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,52.9255502155293,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,52.3019604795893,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,51.8937104276574,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,51.318318885342,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,50.6928710622557,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,50.1488565803658,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,49.6577868587798,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,49.0924336025973,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,48.6254239825646,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,48.117159090464,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,47.5700340647645,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,46.9793381533999,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,45.9937691698037,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,45.5453710396097,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+1A,Arab World,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,44.7940556740454,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,73.3126671321816,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,73.1716450013098,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,72.8322921090607,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,69.9228107471769,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,71.9394359303317,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.1292604830284,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.2210854022703,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.1731041595093,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.0516361154512,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.8641021665476,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,71.7739411761824,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,71.5692506084296,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,71.4019143290264,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,71.266093287793,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,71.0114366987074,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,70.797737511813,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,70.5499974705246,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,70.2937333399205,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,69.9344232165599,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,69.6320513314341,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,69.3609701933726,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,69.0876488979237,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,68.8997139018751,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,68.6619722928042,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,68.3976758324657,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,68.2095641265771,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,67.9849230739004,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,67.7365433173653,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,67.6264024288203,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,67.5555715464801,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,67.5216611384859,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,67.4755646816358,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,67.353289397098,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,67.2193770605245,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,67.0451505140017,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,66.9248001727378,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,66.740440354245,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,66.5709445359728,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,66.4113027349313,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,66.3020597761835,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,66.1398702250845,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,65.84727013816,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,65.7783229185472,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,65.663476004232,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,65.5015818836058,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,65.3472416749228,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,65.124540894628,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,64.9726079530578,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,64.756251015802,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,64.4830054154269,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,64.2632555178344,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,64.0524260879545,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,63.8575897472923,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,63.6421609824809,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,63.4911250565343,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,63.33755991721,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,63.1479760026189,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,62.9192125043111,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,62.6884918476317,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,62.4278990121485,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,62.1169378577451,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,61.7172822835503,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,61.3667549797074,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,60.6711127417416,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+S3,Caribbean small states,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,60.296075668361,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,77.918095146168,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,77.7580384683685,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,76.6522987292583,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,74.7232827859077,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.0162701269145,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.2659141936307,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.9764380835075,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.929788715597,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.9703062304413,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.5755119772504,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,76.6887696437325,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,76.3747350098375,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,76.0033944660035,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,75.8884748834282,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,75.2939657786314,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,74.9303639266576,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,74.5759526780779,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,74.2506487210769,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,74.0926027308098,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,73.8449951359211,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,73.7304349327381,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,73.3822527825258,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,73.2424154880921,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,73.0961481937343,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,72.719724722779,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,72.1845610740875,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,71.8982376759956,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,71.5172580696822,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,71.3360580189951,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,71.0254214282891,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,70.8695439447473,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,70.8459866151448,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,70.7328371314157,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,70.5752213034774,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,70.6563313372586,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,70.7319722597485,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,70.861708225052,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,70.6117633312342,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,70.5651360397443,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,70.3128834663237,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,70.3491148561342,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,70.3897851694296,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,70.4554733187317,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,70.3720501777774,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,69.8934096584914,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,70.2514817046331,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,70.1498874030423,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,70.2476936568407,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,70.3264076252347,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,70.18088847064,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,70.3685700384029,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,70.1095983721633,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,69.9711712459088,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,69.511244153351,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,69.3453237706739,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,69.0666027378968,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,69.5735361344225,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,69.3553792979135,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,69.8569852425836,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,69.3501739071743,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,69.1954166717968,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,68.701000287311,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,67.723736049384,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,68.2449510005137,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+B8,Central Europe and the Baltics,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,67.9434733023062,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,72.0080314992616,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,71.7962449795855,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,71.4304552508694,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,68.1790994839634,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.8801308490982,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.8424064605001,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.5486659921504,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.2729949393554,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.9484837084835,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.6305484421664,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,69.3249758824304,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,68.962837783411,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,68.6094630284121,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,68.2600380693651,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,67.8244434669729,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,67.496408245139,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,67.0218187568003,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,66.7605467353128,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,66.3919300050345,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,65.9797864104925,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,65.5132392756465,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,65.2791550496845,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,64.9680746751559,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,64.55670545203,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,64.2196098284934,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,63.7793798044262,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,63.43696659762,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,63.0987415789804,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,62.7427843008096,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,62.4045286349908,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,61.9773008421088,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,61.7375698841275,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,61.3966854252467,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,60.9285000051494,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,60.6383261325043,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,60.3479926774692,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,59.9083479091239,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,59.5262782264047,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,58.9311533667492,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,58.4763972056237,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,57.9894302688143,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,57.4510681138408,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,57.0197488498526,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,56.5244719931505,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,56.0689071700147,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,55.521187561392,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,54.8255944030019,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,54.3131938907928,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,53.7430270036141,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,53.2230312637084,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,52.8062312551309,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,52.3605692852105,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,51.9456584454006,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,50.1319645082879,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,50.7562265845122,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,50.8367203829322,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,50.4370799998856,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,49.4353473393953,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,48.7556114037242,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,47.7516142402706,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,48.7359855859096,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,48.2540310248326,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,47.8504747085533,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,47.4049371428945,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+V2,Early-demographic dividend,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,46.9134137524997,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,76.7378948827551,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,76.6572021082574,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,76.6767167147452,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,76.152941315904,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,76.5433946923267,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.5862412994962,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.3914229383171,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.0789923585537,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.9870166732102,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.7926010192992,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,75.5644270391791,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,75.3347729864006,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,75.1059726864745,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,74.8252830592191,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,74.6299790050688,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,74.3683471715786,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,73.8481629943997,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,73.8948513504332,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,73.5640440034614,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,73.2984345512681,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,72.812660596894,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,72.7346908938812,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,72.3571058107458,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,72.0413059988772,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,71.7028323240299,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,71.367553266776,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,71.0996369774154,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,70.790128954889,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,70.4333037747705,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,70.0243977782735,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,69.7609957361386,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,69.4645680383496,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,69.0651062725422,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,68.6751933934946,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,68.2825492584448,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,68.0497123523572,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,67.7134517924495,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,67.4117708179475,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,67.0393832784245,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,66.6870005932968,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,66.3052538575868,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,65.8821127030231,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,65.4523671492189,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,64.9915195437221,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,64.5196525642241,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,64.0552181360129,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,63.4162170600045,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,62.8630319979597,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,61.8888637176415,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,61.5247084281974,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,60.8146155439201,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,60.2382480997819,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,59.4339117165802,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,58.8951346655867,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,58.1074187606119,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,57.4977516700386,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,56.7807399684129,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,56.3184553539095,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,55.3828850035083,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,54.3828119308802,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,54.5116155619844,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,53.9106157683897,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,53.3100671112346,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,46.3219218941066,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z4,East Asia & Pacific,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,41.7077571998044,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,75.9593161676786,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,75.8806830895266,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,75.9325409436903,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,75.2781418410849,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.6976393295064,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.7689690321509,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.57828618156,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.2396714880306,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.1559117663434,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.9511243848739,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,74.7194528121745,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,74.4859323786011,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,74.2597872053228,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,73.9857453156401,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,73.7616390609633,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,73.4677878146597,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,72.9241376220933,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,72.9937536648265,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,72.6518704363172,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,72.3983266445825,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,71.8588009229193,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,71.80399562865,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,71.3967499620569,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,71.0740923872156,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,70.7357071585237,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,70.4226591214606,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,70.1277624206179,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,69.7948438007995,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,69.4257385136911,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,69.0308782434899,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,68.7211784784976,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,68.4232238260309,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,68.000610788992,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,67.5660002700394,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,67.1505842545801,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,66.9037713059909,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,66.5626810949702,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,66.2183226855877,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,65.8380343385992,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,65.4852242844023,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,65.0863045216249,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,64.6556776282209,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,64.1753657541559,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,63.6998592239519,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,63.211273103632,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,62.6851715160871,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,62.0075440158344,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,61.4151431159235,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,60.3573474938735,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,59.9868509926584,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,59.2392889521427,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,58.6228455805158,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,57.7156512884068,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,57.1303709633156,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,56.3203931281955,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,55.6285450052639,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,54.8324592953438,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,54.2892150551887,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,53.3933594845253,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,52.2581979727025,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,52.4171588133588,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,51.7681450573472,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,51.1681121036194,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,43.0718590813637,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+4E,East Asia & Pacific (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,37.8466800040122,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,75.9869566179365,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,75.9085643603807,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,75.9610347461336,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,75.3009806060199,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.7338497054699,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.8042877234534,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.6101241544348,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.2671640185859,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.1832269955477,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.9777768374826,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,74.7479822020749,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,74.5190033698096,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,74.2971126258118,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,74.0266932049917,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,73.8065980873171,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,73.5161019563417,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,72.9707321912267,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,73.0450331089394,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,72.6983447331159,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,72.440234089532,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,71.8921244592524,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,71.8352733706059,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,71.534352902059,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,71.2077369930428,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,70.8650826611102,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,70.5482866109716,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,70.2501544733824,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,69.9134519791432,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,69.5404594603161,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,69.1413699380372,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,68.6976175849428,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,68.3913925018719,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,67.9602940182907,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,67.5238103908208,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,67.1059418173639,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,66.8586401713104,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,66.5157942555389,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,66.1705125087584,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,65.7880180578551,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,65.4345332481052,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,65.0348840568245,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,64.6034816651287,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,64.1221435033479,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,63.6459429118303,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,63.1567595252831,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,62.6296880332687,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,61.9489305698585,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,61.3548956813247,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,60.2891742701396,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,59.9202862367276,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,59.1691881450862,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,58.5512779580457,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,57.6393408909489,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,57.0542179232734,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,56.2414919355644,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,55.5489147723591,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,54.7509307707098,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,54.2096539770639,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,53.31083747888,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,52.1687874308125,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,52.3384197593711,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,51.6887104308907,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,51.0883378832305,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,42.8910858220991,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,37.6087627658498,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,82.365841857498,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,82.2555207096815,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,81.6229719062905,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,81.5839330415712,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,81.4873571657503,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.2804211551829,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.0027602577719,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.8838037060629,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.907455420636,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.5192696796633,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,81.8930611162439,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,81.4679843013022,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,81.1827315779388,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,81.1826341807676,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,80.6989426195589,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,80.4554611719191,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,80.2510876108346,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,80.0477786971357,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,79.8077212879617,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,79.3748507782536,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,79.2321623652194,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,78.6557621579425,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,78.6341349112633,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,78.5435434936,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,78.1997793340467,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,77.9456362720954,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,77.7189067294806,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,77.5088681140576,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,77.1483236763399,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,76.8823133359499,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,76.7241794048485,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,76.4132090987759,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,76.3077212128388,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,75.967680459718,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,75.8176710447045,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,75.7431084684158,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,75.5576776058842,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,75.3657424947315,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,75.0531207580425,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,74.759320301957,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,74.6197485732588,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,74.2225186589235,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,74.1516224797819,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,73.8077254152999,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,73.5324597139644,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,73.3842963657177,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,73.0452597271306,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,72.8923283984804,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,72.4556008875793,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,72.1282548964727,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,72.059143247283,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,71.7217999495399,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,71.6101459215864,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,71.2583987012538,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,71.1076329543518,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,70.6887116120244,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,70.7719681967319,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,70.8622318109633,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,70.6804275228543,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,70.4292993671416,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,70.3459672680766,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,69.7972724163529,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,69.6367436948097,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,69.6611114367746,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XC,Euro area,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,69.2643837390806,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,78.5986851063787,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,78.3911328035275,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,77.834452247983,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,76.72864297207,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,77.1754906029407,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,78.3038716113385,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,78.0318405978087,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.8990151719065,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.6812816553928,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.330938408387,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,77.353578845956,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,77.0324394716909,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,76.6804966674157,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,76.4793686081824,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,75.9953558348547,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,75.6891993831489,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,75.3023142874929,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,75.0086537519123,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,74.6397717965131,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,74.1536447949151,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,73.9880374819429,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,73.5627467942119,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,73.4464115251961,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,73.3558243150228,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,73.1137123890211,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,72.8389666506017,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,72.9146929766169,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,72.6453011952902,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,72.2499242620434,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,71.830263572355,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,71.6871244068541,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,71.5316171824395,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,71.8543270329612,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,72.1536904147041,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,72.1943876503731,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,72.2249939225424,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,72.105705570373,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,72.0267255265761,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,71.8116782443172,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,71.3025072856373,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,71.0629959165545,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,70.9227626462274,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,70.8722587878314,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,70.5651599900075,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,70.2816883304413,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,70.2055155362787,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,70.0704792740795,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,69.9933484309869,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,69.7716657665012,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,69.6471268391087,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,69.7092587055853,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,69.4951524884982,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,69.3852254169036,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,69.1541549538501,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,68.9792127591272,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,68.6805439074408,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,68.8261571131827,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,68.8639036660679,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,68.8080130632046,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,68.5938024181629,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,68.5255322940532,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,68.0406325312612,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,67.6933235402832,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,67.7350311394087,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+Z7,Europe & Central Asia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,67.4196024070789,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,75.142498028192,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,74.7901887741185,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,74.5731684190474,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,72.8823762052943,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.5536868675669,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.8158340567546,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.5927989243036,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.4033539029016,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.0313769065099,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.755408258866,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,73.4195161256746,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,73.1258294397593,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,72.6735984954506,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,72.1509502224104,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,71.9125911481178,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,71.442292156273,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,70.9743175160426,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,70.5579786921334,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,70.2178659389806,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,69.9595147646973,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,69.7911486482047,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,69.5879019097604,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,69.3187306210866,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,69.0902777061194,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,68.8570531906331,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,68.2027797821178,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,68.3390752647748,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,68.0432457554526,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,67.7208847902853,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,67.4447367389633,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,67.3074919162119,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,67.0592633886878,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,67.2516325508895,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,68.0578562708201,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,68.2078850416034,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,68.2628351276386,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,67.8511428551546,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,67.9520523171406,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,67.6608539797877,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,67.2379087353848,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,66.7627536380464,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,66.535623802953,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,66.3012529579396,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,66.0024250888525,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,65.7563343089742,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,65.4905513472139,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,65.3066675224162,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,65.1099540524141,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,64.8859950841245,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,64.7418564922526,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,64.6259763609963,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,64.4484851248829,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,64.2488185398089,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,63.9691523798768,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,63.7510745026398,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,63.5736193358617,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,63.4247437131601,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,63.3021643067264,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,63.0645763264705,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,62.823862622442,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,62.5379116854871,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,62.1653285654095,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,61.7733246615368,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,61.4288162894425,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+7E,Europe & Central Asia (excluding high income),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,60.8940384030688,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,74.9659819707702,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,74.6977585417017,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,74.1883654842503,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,72.1506406826172,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.1492512511888,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.590946255432,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.2976622013592,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.1318681774556,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.6902109808946,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.3408132950813,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,73.0389491798356,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,72.7942035795041,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,72.3336150257883,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,71.9266644042886,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,71.4358973425353,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,71.0832338433596,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,70.5451641405676,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,70.1803431982885,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,69.6987479861711,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,69.1399718973032,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,69.0029078332647,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,68.6968166323048,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,68.5629095629382,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,68.5080250387666,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,68.3665797468115,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,68.1082557500204,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,68.476548332671,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,68.1346709972974,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,67.6689839886607,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,67.1259517928607,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,66.967721554268,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,66.9975364612732,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,67.7190874221605,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,68.6301496300886,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,68.8738472388555,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,69.0030726912282,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,68.923100412588,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,68.9178630002717,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,68.7805592937024,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,68.0176523371558,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,67.5868614422314,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,67.6618334689232,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,67.6068905801956,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,67.27329993876,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,66.967567870426,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,66.9470924162491,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,66.9472196065496,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,66.8715086361121,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,66.8457492582921,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,66.8440383028179,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,67.0679069545252,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,66.9142375065298,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,66.7942177106636,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,66.6062001744813,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,66.4026110987183,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,66.1722087153772,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,66.3857171322382,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,66.2930666091623,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,66.4002638960943,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,66.1746444030676,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,66.0672103981541,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,65.6588240243603,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,65.0634161039035,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,65.0438036251281,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,64.6948240295585,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,81.5608466061313,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,81.4249329538218,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,80.7133260356871,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,80.3071964400875,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,80.4414754678551,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.3194524901835,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.0317510064821,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,80.9301511681956,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.9529785979391,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.5707965259,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,80.8760173893061,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,80.4734324600181,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,80.1657773209271,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,80.1439505204152,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,79.6354307923887,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,79.362438680677,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,79.1296281887548,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,78.9060450955774,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,78.6721282949285,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,78.2751410316852,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,78.1178281794517,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,77.5923748441053,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,77.5340746440768,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,77.4256390326754,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,77.0782450771112,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,76.7479622793438,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,76.5133291555952,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,76.2445492728609,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,75.92681219796,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,75.674162689793,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,75.529313881825,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,75.2586919339716,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,75.1320469492226,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,74.8156196057326,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,74.7025399644901,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,74.6599702422021,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,74.5308842150422,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,74.3236926397558,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,74.076710462605,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,73.819846761556,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,73.7432948733931,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,73.4512324564333,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,73.4060845301011,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,73.1262054825649,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,72.7921827190341,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,72.7686028234293,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,72.4874680045248,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,72.3957408451131,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,72.0726505674169,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,71.8015512727738,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,71.7828836602127,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,71.4688868369684,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,71.3489565159984,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,70.9648430220726,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,70.8238607805578,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,70.4245972154549,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,70.5992917183003,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,70.5976966281429,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,70.5914564639663,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,70.2771902460445,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,70.1647343396653,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,69.6489882848285,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,69.2909076137991,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,69.4392695905887,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+EU,European Union,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,69.0671020895382,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,63.6048412656707,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,63.3499447771075,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,62.702271566254,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,61.6086810439385,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,62.0663682854031,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,62.1379545505037,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,61.7825083062786,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,61.2296826870125,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,60.9861836667017,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.7449931085508,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,60.5536917998503,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,60.4548394321653,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,60.1008402450513,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,59.6276355887061,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,59.3431607628088,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,58.9379605951645,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,58.1871780629647,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,58.1095746645354,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,57.5943113995222,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,57.1472781506796,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,56.7557447226361,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,56.4469254565792,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,56.1508566104113,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,55.7212693010549,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,55.4884249847297,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,54.9034036316228,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,54.4707221253789,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,54.5178236598757,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,54.2371535526448,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,54.2256794115287,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,54.2326346695846,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,53.9816308429429,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,53.5495557550048,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,53.3709786670396,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,53.3993677081629,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,53.3741748234438,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,52.9941022492616,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,53.0855088442143,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,52.3003237604013,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,51.7447758943044,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,51.4963706420188,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,51.5779417460675,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,52.1082505792941,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,52.1641006467005,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,52.0615277219064,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,51.8156269174873,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,51.540999912495,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,51.4583013644294,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,50.9802203215419,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,50.512358369767,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,50.3642456511816,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,50.2681419878457,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,49.8659823168845,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,49.83948675888,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,49.4718892029713,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,49.0394896154532,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,48.806159912897,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,48.390547761643,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,48.0833224619014,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,47.9590636215108,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,47.6765311715615,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,47.3091401201584,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,46.9989517665139,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,46.506375141356,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+F1,Fragile and conflict affected situations,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,46.1151937443795,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,64.9180597332429,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,64.7159155608789,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,63.8404661926623,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,62.5314653172853,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,63.0728058249774,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,63.089861994107,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,62.7986163404611,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,62.3152990434581,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,62.0038914309195,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,61.5618981364159,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,61.0403853415258,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,60.6283430374212,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,60.0856015886966,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,59.2302011045875,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,58.7325941662949,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,58.2393408027777,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,57.8556881228296,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,57.2460673496322,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,56.5739489103325,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,55.7775388343257,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,55.1514390444311,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,54.6077380074253,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,54.0578953113424,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,53.535003321086,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00
+XE,Heavily indebted poor countries (HIPC),SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,53.0027773997971,worldbank:SP.DYN.LE00.IN,2026-05-04T19:27:29+00:00

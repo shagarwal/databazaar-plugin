@@ -1,0 +1,20 @@
+{
+  "skill_version": "0.2.0",
+  "generated_at": "2026-05-04T19:28:14+00:00",
+  "row_count": 1,
+  "sources": [
+    {
+      "name": "HuggingFace dataset iamtarun/python_code_instructions_18k_alpaca",
+      "url": "https://huggingface.co/datasets/iamtarun/python_code_instructions_18k_alpaca",
+      "license": "see card",
+      "retrieved_at": "2026-05-04T19:28:14+00:00"
+    }
+  ],
+  "rows": [
+    {
+      "row_index": 0,
+      "source": "huggingface:iamtarun/python_code_instructions_18k_alpaca",
+      "retrieved_at": "2026-05-04T19:28:14+00:00"
+    }
+  ]
+}

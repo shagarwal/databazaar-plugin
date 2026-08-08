@@ -1,0 +1,30 @@
+dataset_id,downloads,likes,tags,description,url,_source,_retrieved_at
+luozhouyang/question-answering-datasets,52,1,region:us,"
+	
+		
+		question-answering-datasets
+	
+
+Datasets for Question Answering task!
+annotations_creators:
+- found
+language_creators:
+- found
+languages:
+- zh-CN
+licenses:
+- unknown
+multilinguality:
+- monolingual
+pretty_name: question-answering-datasets
+size_categories:
+- unknown
+source_datasets:
+- original
+task_categories:
+- question-answering
+task_ids:
+- open-domain-qa
+- extractive-qa
+
+",https://huggingface.co/datasets/luozhouyang/question-answering-datasets,huggingface:luozhouyang/question-answering-datasets,2026-05-04T19:28:06+00:00

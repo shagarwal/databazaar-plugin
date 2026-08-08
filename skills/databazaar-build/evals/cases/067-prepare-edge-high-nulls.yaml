@@ -1,0 +1,8 @@
+mode: prepare
+kind: standard
+input: evals/fixtures/high-nulls.csv
+tags: prepare,edge,nulls
+expects:
+  min_rows: 8
+  pii_blocked: false
+notes: "High null-rate columns. Schema should flag in null_rate."

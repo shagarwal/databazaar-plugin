@@ -1,0 +1,19 @@
+{
+  "title": "clean-companies",
+  "description": "Prepared from proprietary input. 5 rows \u00d7 4 columns.",
+  "category": "other",
+  "tags": [],
+  "suggested_price_usd": 0.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 0.99,
+      "label": "heuristic"
+    }
+  ]
+}

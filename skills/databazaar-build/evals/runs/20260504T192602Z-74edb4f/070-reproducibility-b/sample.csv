@@ -1,0 +1,1001 @@
+country_code,country_name,indicator_code,indicator_name,year,value,_source,_retrieved_at
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1615.39635562849,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1571.44918918981,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,1679.32762166466,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,1562.41617477738,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1351.59166910879,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,1507.08559963484,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,1552.07372194919,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1528.10422421284,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1334.47050032928,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,1498.8752400759,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,1690.16679245944,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,1706.02274412621,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,1732.03802145335,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,1761.98926096159,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,1628.90524793139,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,1408.75346659428,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,1447.54575437552,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,1381.5525968929,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,1235.26660811771,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,1126.2973233912,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,989.015463629244,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,815.432296267735,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,630.512327648462,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,625.82781544115,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,706.727260967009,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,670.42421254121,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,697.079415310028,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,767.39941150858,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,746.787334695357,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,766.522931015445,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,700.77212550809,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,709.323533711481,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,732.910915212266,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,864.174086040692,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,822.402998906312,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,728.243318574474,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,704.142065764844,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,664.791812942192,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,578.317451651663,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,554.22129591426,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,650.346841439623,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,732.345461087143,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,725.547511093596,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,777.627959568645,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,773.301205346988,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,634.448116130272,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,571.617317230819,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,518.358684720575,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,468.774521811487,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,479.078797946455,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,463.46877513605,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,389.729024099656,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,311.465053421846,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,294.814162052789,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,276.732924213049,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,281.578893708839,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,257.143823139725,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,243.773592909361,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,240.911793947474,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,226.836134615767,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,208.962717137873,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,225.400079422489,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,197.367547013038,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,186.90905320299,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZH,Africa Eastern and Southern,NY.GDP.PCAP.CD,GDP per capita (current US$),1960,186.089204223988,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1411.33702938476,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1841.85506354867,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,2138.47315259913,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,2112.79407637079,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,2030.86165860293,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,2216.38505520833,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,1720.14009242722,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1574.23056437855,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1630.03943895258,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,1860.72768628324,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,2221.35033761012,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,2131.60609132899,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,1941.11824321812,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,1844.05436728177,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,1662.63365844147,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,1453.4952836253,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,1666.52048270501,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,1405.88018847409,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,1234.64185574403,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,999.770023047319,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,838.213391665852,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,697.481256337088,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,619.337335030759,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,532.972787221754,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,518.969226054683,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,523.797280235566,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,1141.48665070696,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,1091.83152927104,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,1069.59024047614,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,866.731606283751,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,580.008123493952,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,574.472938901996,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,567.153365168022,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,607.84041379997,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,593.024667183284,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,512.4777353649,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,563.117147218986,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,583.317520182878,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,582.885075620736,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,754.905547330188,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,738.545691276266,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,873.979406766518,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,1164.18848757408,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,1328.79368820509,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,763.011987564749,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,624.870706504666,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,523.781318335365,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,490.839576834053,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,480.447260139767,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,413.36616996255,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,368.294725144754,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,280.643967375144,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,230.068904176407,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,195.859987259659,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,218.672140995183,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,161.917968321991,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,146.186183137742,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,144.94080398911,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,162.107340296637,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,155.561896577631,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,148.545883334804,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,139.004980086033,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,133.823783489337,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,127.451039943698,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+ZI,Africa Western and Central,NY.GDP.PCAP.CD,GDP per capita (current US$),1960,121.936832429715,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,7583.81170078144,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,7513.89907880749,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,7950.35581975672,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,6697.41498492196,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5739.41283580539,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,6674.34224402621,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,6699.18058175457,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,6096.72395041636,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,6042.19675439672,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,6290.55879501691,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,7338.35092727915,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,7376.02829575498,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,7384.10682814613,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,6915.82768123695,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,5944.95217290432,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,5134.45006055159,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,6091.93206445673,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,4940.7022651172,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,4355.05756933724,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,3750.69825886818,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,3133.70187873975,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,2696.67212547749,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,2483.11187485029,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,2536.69232600737,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,2664.12520122649,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,2378.91283321485,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,2192.5892782815,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,2305.60995032747,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,2193.85960692838,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,2080.99829425308,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,2018.66801750108,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,1987.75290921938,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,1996.2882370158,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,2048.70631001887,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,2875.13083637641,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,2117.69374656993,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,2041.96156254739,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,2108.46610373939,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,2042.4786028706,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,2247.904844675,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,2357.29657111126,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,2417.3540635347,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,2640.69651258477,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,2911.11299721778,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,2954.24923103987,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,2251.65848258375,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,1728.32273624459,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,1630.47022408811,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,1458.24274468217,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,1205.55544629845,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,1125.04299484851,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,602.507544309351,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,470.227432505886,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,402.822310389485,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,357.718966442961,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,329.453730138283,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,307.557625918434,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,276.951727070344,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,263.968712840055,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,256.197488255539,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,243.913947637965,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,225.815920363838,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,210.81968957279,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+1A,Arab World,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,212.904079284244,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,19903.8112311908,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,17596.5404249612,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,17456.3084845676,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,13995.2694921728,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,11957.223222537,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,13995.8548364074,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,13896.7409040963,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,13671.1377634132,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,13376.8057759012,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,14497.5393236017,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,14947.9426963116,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,14577.1689272446,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,14290.6349320103,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,13526.9467562,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,12711.087492863,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,11554.0589194758,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,13890.1303094208,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,12134.9066978741,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,10883.0475520742,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,9439.33720644986,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,8233.61082543875,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,7551.08983381761,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,6903.07418576198,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,6647.62547849072,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,6477.26482123395,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,5959.88473285312,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,5558.82422899326,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,5198.5063262239,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,4424.43957767727,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,4144.50619583341,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,3929.16090487784,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,3698.86380689567,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,3842.68138532176,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,3792.22074880023,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,3713.69534828331,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,3468.58939836147,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,3530.0768972102,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,3439.60046333553,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,3307.33904696522,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,3907.19546019831,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,3908.46277598906,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,3793.64092639991,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,3851.96097447913,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,3496.70815196286,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,3199.78302389516,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,2491.90112105547,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,2023.78593701824,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,1786.9463308162,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,1497.92274413475,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,1474.07313726819,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,1295.57997042313,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,987.049904340167,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,858.37605232848,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,780.664219545997,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,730.704086817937,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,704.371934968721,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,659.557119858247,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,654.511741813167,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,609.204934699445,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,584.032636917524,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,555.235936722189,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,530.733580669034,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,507.847334102197,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,486.571129974936,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+S3,Caribbean small states,NY.GDP.PCAP.CD,GDP per capita (current US$),1960,455.490441600162,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,24604.8068595604,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,22690.3736174216,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,19530.1553232172,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,19223.9274030651,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,16581.3526115028,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,16534.9264870407,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,16227.2484719489,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,14339.8243059389,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,12874.699956166,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,12596.8862547468,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,14208.4090786575,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,13712.6744030811,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,13104.066588243,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,13997.3000771488,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,12635.7541209869,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,12302.0391574104,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,14573.6892707792,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,11997.2743828359,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,9466.68526162197,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,8352.50713208299,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,7180.27037029658,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,5948.84961048537,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,4941.34251407648,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,4360.9626352209,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,3959.62494896645,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,3998.01799002332,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,4117.99990144172,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,3757.40740977212,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,3808.56146312262,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,3593.18352287584,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,2805.59448321985,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,2457.01488544822,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,2316.71496981098,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,2233.29251960509,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+B8,Central Europe and the Baltics,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,2457.17454927702,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,4450.18711937385,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,4252.59733415786,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,4043.82776331568,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,3698.98363187847,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,3187.03781234801,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,3483.31545469615,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,3463.50882263374,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,3457.64943157186,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,3223.9805446069,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,3174.36962020929,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,3347.32555792556,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,3328.41752232259,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,3359.13086538369,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,3262.90999134968,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,2938.79859415379,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,2457.28657966372,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,2594.55632797993,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,2342.68810678142,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,2011.10903452871,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,1788.28350980842,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,1563.10591131168,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,1368.47911219559,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,1251.30296598532,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,1311.18270829395,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,1346.2395395696,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,1255.06572658008,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,1209.079710361,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,1278.98377914407,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,1221.88459499685,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,1150.91452190581,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,1122.66616303659,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,1090.31033442221,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,1032.31298955358,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,971.321737310107,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,936.989879630286,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,819.312297121629,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,824.760473918878,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,800.414142936597,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,807.395724412825,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,823.462882791906,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,846.73364680674,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,856.430768502953,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,870.647608944326,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,937.459873358865,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,868.426587879801,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,716.299464233645,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,623.757201750048,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,559.650363228133,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,512.907760931777,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,481.179666235853,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,460.725913425285,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,336.896059973761,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,269.859969061757,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,250.494530710009,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,238.291608642772,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,229.483856084866,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,210.496332209591,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,197.941783589278,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,192.18673394374,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,198.818331762015,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,187.912844563027,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,168.142193367347,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,156.289671717434,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,158.516274774967,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+V2,Early-demographic dividend,NY.GDP.PCAP.CD,GDP per capita (current US$),1960,149.365548876014,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,13405.735673015,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,13176.1786055635,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,13139.2109813612,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,13336.4841670883,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,11639.4853357389,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,11622.8915284736,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,11438.8584591418,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,10566.2828244863,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,9965.00400107685,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,9691.70576095154,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,9793.53363771993,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,9553.8618750751,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,9507.12974075371,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,8955.74869819951,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,7784.344658223,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,6713.65045131004,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,6569.11576512158,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,5739.38750773872,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,5170.318905428,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,4910.91472643792,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,4634.6623943391,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,4162.83398166818,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,3813.81685560294,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,3783.30921974687,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,4103.33628080966,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,3827.75756789564,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,3459.91050076763,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,3909.67282575326,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,4138.00861008622,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,4345.04839008217,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,3872.66469966509,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,3505.51573409277,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,3174.20680565294,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,2942.86527561313,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,2642.45766205625,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,2569.5527191665,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,2505.86716715602,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,2118.31901292557,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,1833.48735926913,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,1425.07387579006,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,1371.62394802451,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,1301.62167510648,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,1242.66164799436,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,1289.27732595594,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,1188.17847086814,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,1114.65161511771,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,1042.00800228179,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,837.484908158211,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,713.637986891867,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,659.612813010633,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,613.865677463369,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,543.111178001157,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,421.264763056711,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,346.8715569732,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,320.403969139419,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,285.408436398002,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,253.935783109729,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,235.576978819233,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,222.051460731588,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,203.577743219365,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,187.212848491953,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,166.907093854542,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,153.204628797351,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,151.759431810602,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z4,East Asia & Pacific,NY.GDP.PCAP.CD,GDP per capita (current US$),1960,150.859457445814,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2024,10396.7957405051,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2023,10125.9095208645,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2022,10106.9935977814,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2021,9974.57829690175,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8391.27634645494,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2019,8286.3981179292,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2018,8045.94630458507,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2017,7241.92533864361,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2016,6683.18386700353,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2015,6589.77076427462,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2014,6373.64846984799,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2013,5952.7689297214,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2012,5434.82527120289,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2011,4913.89394942906,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2010,4057.86521472833,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2009,3359.51721584875,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2008,3117.83131105355,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2007,2481.38704492063,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2006,1976.63130651455,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2005,1653.67913605181,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2004,1439.93214543391,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2003,1251.27771535816,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2002,1113.99915249896,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2001,1014.52467003618,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2000,961.301422369963,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1999,881.635750156456,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1998,809.00758049348,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1997,895.628860781462,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1996,876.038021478494,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1995,772.304602057405,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1994,634.195222952685,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1993,533.886061731311,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1992,493.060883694191,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1991,445.804753221262,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1990,416.938782261111,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1989,395.426029999221,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1988,371.9254393204,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1987,340.936766529025,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1986,351.028816056445,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1985,357.905467448196,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1984,332.153258401474,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1983,311.47279439249,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1982,302.516685584374,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1981,292.964871355699,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1980,278.675551801578,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1979,245.267886708048,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1978,215.184312618709,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1977,225.243013756806,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1976,198.554467967616,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1975,198.672510294299,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1974,180.40828103172,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1973,162.64572508994,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1972,132.336284588938,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1971,119.112482493189,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1970,113.922517317224,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1969,105.108977265853,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1968,96.0395573107908,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1967,97.5038099685848,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1966,103.042905274641,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1965,96.7854396235053,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1964,85.118184629145,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1963,75.5131219647953,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1962,71.6155290537605,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1961,79.558508230374,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+4E,East Asia & Pacific (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1960,90.2785018672539,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2024,10513.9529323033,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2023,10239.8162178816,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2022,10220.4774431567,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2021,10086.4176067356,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8485.32855185979,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2019,8379.36503263574,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2018,8136.37041895137,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2017,7323.51364847919,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2016,6758.74365728701,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2015,6664.48834577557,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2014,6446.1361235924,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2013,6020.72398510662,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2012,5497.15517271917,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2011,4970.50535493565,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2010,4104.80262362259,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2009,3398.52989667846,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2008,3154.16872851062,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2007,2510.42261993326,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2006,1999.86070779606,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2005,1673.19096529507,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2004,1456.96694694124,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2003,1266.10778867241,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2002,1127.25093374819,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2001,1026.6492096959,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2000,972.833173916046,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1999,892.251747150347,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1998,818.793324750917,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1997,906.493021330197,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1996,886.701839756277,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1995,781.740273011855,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1994,641.960437587345,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1993,540.427508690314,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1992,499.112755101956,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1991,451.285275077955,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1990,422.071410076561,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1989,400.299436208748,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1988,376.514745475974,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1987,345.154435745665,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1986,355.377868708383,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1985,362.345629981071,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1984,336.28597041083,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1983,315.356013514066,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1982,306.301092040175,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1981,296.638660486771,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1980,282.172716876686,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1979,248.354130559149,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1978,217.901256348867,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1977,228.08829233148,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1976,201.071871936437,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1975,201.194079350329,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1974,182.701577930808,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1973,164.713132861925,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1972,134.020481612004,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1971,120.627148449905,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1970,115.371975482504,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1969,106.446178947349,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1968,97.260581890162,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1967,98.7397966811935,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1966,104.345470535028,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1965,98.0103081184699,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1964,86.1944413412984,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1963,76.4669229998065,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1962,72.5209927013901,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1961,80.5543140095914,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1960,91.3802571544005,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,46945.4188234427,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,45330.1093015768,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,41608.7123275598,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,42984.5697414154,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,38236.5543048506,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,39220.5136743355,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,40107.5362854643,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,37243.5651015997,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,35228.4854539428,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,34471.1747135027,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,39979.3009314013,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,39097.5925470426,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,37481.4502473034,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,40569.5862836129,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,37491.6114073082,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,38464.1586390033,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,42172.9388150163,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,38544.2258256115,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,33646.2303491169,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,31781.6618833533,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,30803.286099919,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,27010.5876151819,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,22047.2795660791,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,20289.6505275093,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,20039.4002655128,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,22011.2608875031,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,22144.6949274767,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,21582.2300714774,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,23652.3522705446,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,23430.2422057728,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,20344.7655226337,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,19310.813004459,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,21178.5256358016,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,19305.465017279,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,18683.5116155586,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,14916.0812074781,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,14667.4326412971,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,13379.9532049657,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,10846.4728922026,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,7742.59506377773,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,7550.82986545877,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,7882.88747508699,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,8096.36447538062,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,8385.37448823064,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,9689.63756123281,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,8690.83859337917,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,7203.60562888095,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,5907.56870876833,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,5212.65412729294,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,5017.25574498842,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,4349.02059640083,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,3856.3439795314,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,2989.99899277962,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,2492.73227264391,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,2211.87403940428,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,1963.38799796288,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,1769.5279673443,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,1657.11135633377,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,1570.59049039747,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,1463.59251069044,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,1350.39539561431,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,1229.3647745555,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,1126.9207216647,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,1027.9119555993,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XC,Euro area,NY.GDP.PCAP.CD,GDP per capita (current US$),1960,931.404759430371,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,31555.5207890657,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,29988.9022903108,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,27913.5882331645,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,27664.8914080918,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,24167.3551199699,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,25020.8648271756,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,25408.6379771601,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,23814.1197034605,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,22519.6408855547,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,22702.8228380066,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,26473.6213384574,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,26196.108944305,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,25164.7626116947,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,26239.3600613076,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,23702.4750230082,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,23259.5334613272,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,26524.5115468839,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,24195.9334256766,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,20766.9170925859,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,19227.6221679028,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,18114.0702003259,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,15584.8646461506,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,12849.7232593553,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,11757.603659314,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,11652.9290294061,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,12371.8879045226,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,12512.8882177513,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,12300.1736663162,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,12973.0558652764,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,12730.8476426985,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,10969.3139384644,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,10513.65827884,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,11479.1245108075,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,10760.2249451734,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,10494.4746850409,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,8631.06466394314,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,8570.85351449002,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,7746.34327897062,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,6311.90579736774,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,4656.28280891539,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,4527.81045694251,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,4738.49651577011,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,4914.32581490138,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,5128.71854308382,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,5795.1682033759,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,5162.40736139079,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,4262.6611027984,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,3501.39780781125,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,3116.99477203056,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,3019.9081663642,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,2604.15929471011,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,2321.88625856893,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,1839.96617758158,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,1547.55468828972,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,1381.85855003421,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,1238.63225937362,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,1126.74880888434,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,1079.39361350599,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,1025.58847675693,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,957.435547266056,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,887.549892759299,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,812.183751165169,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,751.316541487379,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,695.027463779439,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+Z7,Europe & Central Asia,NY.GDP.PCAP.CD,GDP per capita (current US$),1960,638.829792544217,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2024,9793.69205809432,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2023,8617.04840986329,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2022,7266.02243154199,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2021,6673.97429035651,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2020,5776.19343817718,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2019,6069.27407282315,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2018,5996.28775888893,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2017,6138.12063922999,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2016,5986.89723080084,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2015,6291.45594655745,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2014,7290.90050313923,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2013,7667.03397664675,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2012,7093.45607745799,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2011,6785.87680428259,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2010,6019.29491137959,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2009,5125.12331489484,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2008,6191.07369718277,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2007,5206.48238815828,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2006,4142.44695498675,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2005,3576.72283332318,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2004,2883.55689723687,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2003,2249.74301490831,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2002,1771.9219856658,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2001,1529.60615620796,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),2000,1790.77072090719,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1999,1767.11233534975,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1998,1940.93640820527,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1997,1941.24978910286,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1996,1830.59814351656,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1995,1737.88574685501,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1994,1239.75571509396,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1993,1589.70149156537,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1992,1549.06158695832,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1991,1622.91351746991,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1990,1700.93581132748,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1989,1438.8173010524,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1988,1284.36981012792,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+7E,Europe & Central Asia (excluding high income),NY.GDP.PCAP.CD,GDP per capita (current US$),1987,1174.52679004131,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2024,13337.4386956337,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2023,12129.8641155432,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2022,11421.1364427001,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2021,10014.5108823837,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8478.35038656806,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2019,9058.74177112172,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2018,8911.87742979014,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2017,8575.46129195764,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2016,7659.54924391363,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2015,8009.61874995558,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2014,10307.2242685414,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2013,10965.2487116486,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2012,10418.3484935481,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2011,10028.6545563598,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2010,8280.72343768265,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2009,7074.02354262313,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2008,8951.25356376805,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2007,7247.02729943285,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2006,5632.99003233827,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2005,4660.80836930066,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2004,3723.43803208933,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2003,2879.65363440365,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2002,2340.82503908743,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2001,2080.98419116363,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),2000,2044.35074576548,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1999,1878.78922808186,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1998,2165.16719527635,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1997,2408.22960725737,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1996,2329.86607015662,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1995,2264.47976869591,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1994,1896.39718541029,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1993,2107.47422371283,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1992,2135.37505754846,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1991,2312.73788388468,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1990,2374.40408071154,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1989,2251.56950368039,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),NY.GDP.PCAP.CD,GDP per capita (current US$),1988,2335.03182707538,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,43304.9642561331,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,41566.5741100785,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,38066.8844892624,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,39206.9791776084,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,34694.7035869195,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,35374.1403676934,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,36054.953230113,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,33394.5888043692,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,31456.8971280656,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,30771.6568591261,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,35590.1004559069,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,34804.7281200997,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,33324.7709896821,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,35963.3147849808,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,33119.5673211775,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,33632.0748456258,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,37169.0746850842,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,33704.6636441399,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,29200.5809467343,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,27431.4991030834,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,26368.6780464333,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,23020.9558032659,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,18797.8116316074,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,17230.6480095869,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,16976.0452668705,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,18506.5941717551,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,18616.5119307706,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,18093.6207027952,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,19755.2431380919,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,19470.1012385881,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,16826.1293837396,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,15908.7811027866,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,17470.0648653893,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,15952.0353697466,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,15470.4116881227,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,12414.3519594263,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,12196.9043169801,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,11144.9676483273,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,9042.11917395753,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,6490.26717374341,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,6326.07088890792,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,6578.61259104975,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,6783.32823147929,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,7053.6397789631,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,8116.44667188749,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,7288.83936422885,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,6057.75686822687,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,4996.99888643709,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,4432.18340481752,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,4253.76925051968,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,3674.5118857554,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,3265.5063578579,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,2540.42566943023,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,2120.68051969328,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,1886.4511408238,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,1677.37128578399,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,1513.54365997406,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,1420.38226810128,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,1344.28320010645,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,1251.61101979756,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,1153.27324710743,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,1048.81148246515,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,962.977170962183,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,878.773144679956,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+EU,European Union,NY.GDP.PCAP.CD,GDP per capita (current US$),1960,797.157513267421,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1527.95809514037,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1682.75058845476,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,1850.91743054769,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,1711.40128929758,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1618.4798041022,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,1861.6533045303,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,1634.92965875473,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1549.60952933559,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1491.08080315915,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,1663.16200127279,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,2051.54643733895,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,2144.21479332186,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,2233.12675819557,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,2053.715805371,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,2017.56741418682,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,1739.10283567866,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,1971.04693971359,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,1578.9042249996,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,1319.3385305318,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,1079.24067613473,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,871.155012151521,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,703.739369790737,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,684.998396992158,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,719.215886038336,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,751.801263034453,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,657.920628983046,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,902.662957751524,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,899.622391059044,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,821.742503657984,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,777.742817479696,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,653.490982766103,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,668.540906266803,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,673.979682139604,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,775.977706384562,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,1121.80132830689,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,808.34209224195,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,835.813705522076,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,787.12000959593,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,801.009794575855,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,889.203700940945,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,895.475098949071,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,1019.09796936658,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,1208.20205136792,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,1295.49731663969,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,1006.6237487225,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,811.670500011327,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1978,660.183026040109,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1977,616.895812231003,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1976,571.931709127015,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1975,493.085166033969,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1974,460.337503728247,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1973,313.148765971362,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1972,259.131098166077,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1971,228.984191448816,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1970,227.440774511902,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1969,195.316905978144,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1968,177.988839296466,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1967,164.750936206224,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1966,170.789635303789,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1965,163.639830903512,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1964,152.273193452149,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1963,172.023589329207,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1962,153.858258932713,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1961,142.286927480689,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+F1,Fragile and conflict affected situations,NY.GDP.PCAP.CD,GDP per capita (current US$),1960,139.201818517739,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1216.37508472564,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1155.90445279924,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2022,1121.48387311982,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2021,1061.41414950431,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2020,962.590226473892,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2019,983.900062178744,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2018,985.478210719267,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2017,943.132832332498,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2016,894.708764701024,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2015,917.296109229181,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2014,986.983783219797,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2013,960.68552047794,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2012,881.192621901094,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2011,873.222093086024,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2010,812.08054988398,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2009,764.823758486232,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2008,797.380456091108,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2007,688.372468350697,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2006,593.211178044594,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2005,519.647933058567,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2004,462.336970473255,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2003,412.76823992883,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2002,374.531772057964,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2001,355.171230947667,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),2000,377.459385908018,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1999,359.069926606546,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1998,367.63883769207,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1997,365.376442370574,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1996,358.900827562186,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1995,337.597287128306,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1994,298.607566037976,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1993,359.759110518863,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1992,357.756774317661,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1991,484.673677252224,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1990,457.468692315205,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1989,409.390095483576,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1988,413.452348940116,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1987,403.910480739514,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1986,389.53568222666,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1985,434.951479538862,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1984,425.602086060453,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1983,429.410132495274,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1982,445.063803500033,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1981,451.572513740473,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1980,459.208823363419,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1979,424.769593090895,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1978,397.824622437476,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1977,351.516809204035,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1976,311.545793355116,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1975,298.545945572051,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1974,272.517186325367,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1973,237.870538064419,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1972,199.672129891292,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1971,184.49729524321,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1970,175.758084999252,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1969,187.003538090024,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1968,174.606385503424,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1967,166.513489520738,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1966,173.487384341159,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1965,164.177189590693,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1964,148.880649778661,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1963,164.108821020134,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1962,143.210707106393,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1961,134.98210090598,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XE,Heavily indebted poor countries (HIPC),NY.GDP.PCAP.CD,GDP per capita (current US$),1960,133.966706552323,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,50302.6052129514,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,48608.1947665895,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,46553.1150181383,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,45081.6648348438,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,40108.2348602411,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,41342.2066107349,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,41094.8560877186,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2017,38776.5615949516,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2016,37057.8096501124,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2015,36586.4346902662,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2014,39447.7093246608,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2013,39008.3249033591,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2012,38693.845536167,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2011,38785.8817355705,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2010,35778.2487328682,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2009,34111.8446047683,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2008,36900.1405697145,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2007,34666.0451564196,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2006,31710.7967236991,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2005,30051.3459550589,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2004,28451.5065479041,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2003,25606.6766440821,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2002,22929.756695357,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2001,22083.4201672758,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2000,22374.3254750161,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1999,21976.6114511313,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1998,21090.4317620041,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1997,21240.4885041756,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1996,21713.2096953916,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1995,21664.2004459795,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1994,19634.0842734145,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1993,18470.3300277875,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1992,18462.7676067204,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1991,17366.3731057001,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1990,16573.1448542517,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1989,14891.784569451,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1988,14398.664968022,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1987,12880.4033626254,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1986,11184.5378321116,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1985,9269.59471447854,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1984,8892.16783596375,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1983,8585.13267423054,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1982,8366.52973337003,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1981,8511.11527117424,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1980,8449.56205648537,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00
+XD,High income,NY.GDP.PCAP.CD,GDP per capita (current US$),1979,7628.83619389772,worldbank:NY.GDP.PCAP.CD,2026-05-04T19:28:33+00:00

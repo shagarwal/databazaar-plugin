@@ -1,0 +1,29 @@
+{
+  "title": "Labor Market & Workforce Statistics \u2014 217 Countries (1960\u20132024)",
+  "description": "High-quality panel dataset covering labor market indicators for 217 countries and territories from 1960 to 2024. Includes 14,105 observations across 29 variables: unemployment rates (total, youth, male, female), labor force participation rates by gender, employment distribution across agriculture, industry, and services sectors, vulnerable and self-employment shares, GDP per employed person (2017 PPP), wage/salaried worker proportions, and working-age population demographics.\n\nData is sourced from the World Bank World Development Indicators, which aggregates ILO modeled estimates, national labor force surveys, and official statistical agencies. Core labor indicators have strongest coverage from 1991\u20132024 (ILO modeled estimates era), while demographic indicators (GDP per capita, working-age population) extend back to 1960.\n\nIdeal for: labor economics research, cross-country employment comparisons, gender gap analysis in workforce participation, structural transformation studies (agriculture\u2192services transitions), development economics, and policy impact evaluation.",
+  "category": "social",
+  "tags": [
+    "labor",
+    "employment",
+    "unemployment",
+    "workforce",
+    "economics",
+    "world-bank",
+    "ILO",
+    "gender",
+    "demographics"
+  ],
+  "suggested_price_usd": 2.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 2.99,
+      "label": "heuristic"
+    }
+  ]
+}

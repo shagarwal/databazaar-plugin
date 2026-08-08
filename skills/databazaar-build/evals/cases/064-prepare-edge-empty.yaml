@@ -1,0 +1,8 @@
+mode: prepare
+kind: refusal
+input: evals/fixtures/empty.csv
+tags: prepare,edge,empty
+expected_fail: true
+expects:
+  stderr_contains: row
+notes: "Empty file should be refused (min row gate). v0.2 not yet wired — known gap."

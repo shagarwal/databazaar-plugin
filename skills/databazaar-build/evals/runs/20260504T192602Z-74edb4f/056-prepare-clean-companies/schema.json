@@ -1,0 +1,52 @@
+{
+  "title": "clean-companies",
+  "description": "Prepared from proprietary input. 5 rows \u00d7 4 columns.",
+  "category": "other",
+  "tags": [],
+  "columns": [
+    {
+      "name": "company",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "Acme",
+        "Globex",
+        "Initech"
+      ]
+    },
+    {
+      "name": "founded",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "1985",
+        "2001",
+        "1999"
+      ]
+    },
+    {
+      "name": "employees",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "1200",
+        "340",
+        "55"
+      ]
+    },
+    {
+      "name": "revenue_usd",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "450000000",
+        "72000000",
+        "8500000"
+      ]
+    }
+  ]
+}

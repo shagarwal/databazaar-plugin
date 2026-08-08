@@ -1,0 +1,26 @@
+{
+  "title": "single-row",
+  "description": "Prepared from proprietary input. 1 rows \u00d7 2 columns.",
+  "category": "other",
+  "tags": [],
+  "columns": [
+    {
+      "name": "col1",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "foo"
+      ]
+    },
+    {
+      "name": "col2",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "bar"
+      ]
+    }
+  ]
+}

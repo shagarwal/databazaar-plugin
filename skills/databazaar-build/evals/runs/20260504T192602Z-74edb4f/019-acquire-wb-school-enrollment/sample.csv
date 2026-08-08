@@ -1,0 +1,1001 @@
+country_code,country_name,indicator_code,indicator_name,year,value,_source,_retrieved_at
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,101.309242248535,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,100.85758972168,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,100.50830078125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,103.366081237793,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,104.591941833496,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,103.610618591309,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,102.624809265137,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,101.228408813477,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,100.342109680176,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,99.6975326538086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,100.930152893066,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,100.529190063477,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,101.240112304688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,100.985237121582,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,101.005401611328,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,101.704643249512,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,102.146499633789,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,98.4766082763672,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,95.3214797973633,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,92.893928527832,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,89.6281967163086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,87.5231781005859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,83.9098205566406,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,81.4848709106445,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,78.7628173828125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,76.9597015380859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,77.9961624145508,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,77.6953811645508,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,74.5785598754883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,74.8263092041016,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,73.0542297363281,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,73.0594177246094,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,72.3650207519531,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,73.7330932617188,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,72.1852264404297,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,74.4006576538086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,72.7201766967773,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,73.1920700073242,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,74.7373123168945,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,75.094482421875,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,77.4735794067383,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,78.3322906494141,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,78.6128768920898,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,78.2030715942383,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,76.4969482421875,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,73.4606781005859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,70.6764907836914,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,69.5916595458984,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,67.7546005249023,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,66.2727508544922,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,64.0002288818359,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,60.6062698364258,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,59.4477310180664,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,58.6986808776855,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZH,Africa Eastern and Southern,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,61.9125595092773,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,91.0609893798828,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,90.8780364990234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,89.5019226074219,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,88.094856262207,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,88.1576232910156,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,87.5555572509766,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,86.6523513793945,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,86.7825393676758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,86.6979904174805,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,87.0966186523438,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,89.1206970214844,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,90.5897598266602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,89.4396514892578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,87.8220062255859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,84.4784698486328,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,83.7195510864258,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,81.9908599853516,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,84.3852386474609,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,87.1062622070312,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,86.3789825439453,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,85.4685897827148,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,83.5836715698242,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,82.8384094238281,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,81.1157913208008,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,80.5795135498047,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,77.4401473999023,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,74.614387512207,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,71.7735214233398,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,68.1346969604492,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,72.7533569335938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,74.1205291748047,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,73.7167282104492,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,71.4829177856445,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,69.6713333129883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,69.5151977539062,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,68.1996536254883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,68.9551010131836,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,70.6258926391602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,72.1410522460938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,78.2972106933594,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,80.7616500854492,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,81.6516876220703,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,81.4873733520508,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,76.7117919921875,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,72.7487106323242,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,69.6812896728516,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,62.7575912475586,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,54.8492889404297,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,49.1612701416016,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,48.6604881286621,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,48.2149810791016,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,48.1077194213867,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,46.6416091918945,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,44.6707305908203,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZI,Africa Western and Central,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,43.0726509094238,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,91.5640716552734,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,91.053581237793,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,88.1042404174805,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,89.5069427490234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,89.6436614990234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,89.0579376220703,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,88.7614593505859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,88.2721176147461,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,87.8686981201172,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,87.7070693969727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,87.7741394042969,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,88.6862106323242,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,92.1455764770508,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,90.8111190795898,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,91.6954574584961,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,91.3790130615234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,91.4636917114258,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,91.2251892089844,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,91.5258178710938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,90.237190246582,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,90.5332489013672,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,90.3268814086914,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,89.5031585693359,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,88.6069107055664,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,88.1032562255859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,87.7244262695312,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,86.8744201660156,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,86.5562133789062,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,85.7543334960938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,83.7287368774414,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,85.0223617553711,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,82.7036819458008,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,82.1964797973633,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,84.7371978759766,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,84.048713684082,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,83.0580825805664,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,83.1119384765625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,82.4447937011719,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,81.5157470703125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,80.8155364990234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,80.9793319702148,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,80.2163772583008,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,79.6124801635742,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,78.966667175293,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,79.1370010375977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,69.8033294677734,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,76.8269271850586,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,76.4357223510742,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,75.7506866455078,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,74.276969909668,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,72.7994384765625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,72.3378829956055,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,71.2244415283203,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,69.9018173217773,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+1A,Arab World,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,74.427001953125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,94.0412826538086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,93.2237777709961,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,95.41455078125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,96.2688369750977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,97.1622467041016,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,98.5789184570312,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,99.6965789794922,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,98.6822204589844,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,99.3314819335938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,99.7156524658203,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,99.7497100830078,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,101.052429199219,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,101.867828369141,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,101.958076477051,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,101.148361206055,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,102.052131652832,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,101.459197998047,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,98.6062469482422,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,98.7633972167969,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,98.6311187744141,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,98.4158630371094,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,96.9032363891602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,96.4758224487305,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,97.7260513305664,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,98.6091384887695,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,98.1395874023438,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,99.5508193969727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,100.288711547852,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,100.886932373047,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,101.69499206543,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,102.451530456543,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,101.877632141113,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,101.794143676758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,101.444023132324,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,102.465278625488,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,104.029052734375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,102.668670654297,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,102.96492767334,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,102.6767578125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,103.950050354004,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,104.527221679688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,105.63060760498,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,105.44905090332,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,104.207672119141,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,105.278816223145,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,107.601417541504,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,107.943099975586,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,108.172401428223,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,106.183502197266,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,106.672538757324,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,110.043739318848,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,109.294738769531,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,110.945922851562,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,109.586921691895,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+S3,Caribbean small states,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,109.601760864258,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,98.6306533813477,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,98.6306610107422,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,97.0465393066406,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,96.9336395263672,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,91.6844635009766,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,95.8953704833984,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,95.3262329101562,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,95.9559783935547,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,96.1736373901367,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,96.9002227783203,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,97.7520599365234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,98.5211563110352,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,99.617431640625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,99.4442825317383,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,99.6034774780273,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,99.5862808227539,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,99.5227584838867,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,100.405372619629,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,101.207992553711,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,101.762031555176,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,102.430068969727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,102.354553222656,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,102.622337341309,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,102.447143554688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,101.966423034668,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+B8,Central Europe and the Baltics,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,105.809463500977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,105.642349243164,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,102.745788574219,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,102.033882141113,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,100.34375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,100.67162322998,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,99.8361892700195,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,100.035118103027,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,105.848731994629,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,106.965682983398,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,104.654136657715,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,104.586067199707,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,105.733299255371,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,105.739212036133,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,104.827453613281,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,105.187271118164,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,104.838607788086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,104.850952148438,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,104.734199523926,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,103.200523376465,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,102.473022460938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,101.335708618164,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,100.159210205078,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,96.843391418457,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,96.0902709960938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,96.5262908935547,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,95.5217666625977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,94.8999786376953,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,94.5794982910156,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,94.568717956543,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,93.5784378051758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,93.5161437988281,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,92.1416397094727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,90.7970581054688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,90.0846786499023,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,89.2943496704102,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,89.070556640625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,87.2574996948242,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,85.3471984863281,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,84.8670425415039,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,84.2640991210938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,83.4212493896484,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,81.5990219116211,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,79.7183685302734,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,76.9136810302734,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,75.6003265380859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,72.1366882324219,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,71.8087921142578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,71.8574371337891,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,69.8839111328125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,68.6247024536133,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,66.8838272094727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,66.0404815673828,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,63.4663009643555,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,61.552360534668,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+V2,Early-demographic dividend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,89.8283767700195,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,100.047248840332,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,99.4501113891602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,100.135848999023,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,99.9831924438477,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,100.061592102051,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,99.8616180419922,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,100.173690795898,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,100.652389526367,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,100.860946655273,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,101.045478820801,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,101.81568145752,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,104.620399475098,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,105.154861450195,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,105.003997802734,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,104.872680664062,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,105.32967376709,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,105.375160217285,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,105.071189880371,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,104.555038452148,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,105.281303405762,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,106.849769592285,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,108.066650390625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,109.465171813965,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,110.92357635498,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,110.224029541016,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,109.710021972656,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,108.379959106445,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,108.705673217773,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,109.115951538086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,109.973770141602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,110.039176940918,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,110.940200805664,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,112.360206604004,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,114.188041687012,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,116.245971679688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,120.892860412598,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,123.682899475098,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,125.606300354004,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,124.479248046875,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,121.974098205566,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,117.886947631836,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,116.024673461914,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,113.733909606934,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,112.309661865234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,110.341987609863,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,110.113876342773,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,110.403961181641,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,112.455528259277,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,113.105781555176,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,109.062049865723,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,104.571029663086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,105.704917907715,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,104.866401672363,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,107.593528747559,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z4,East Asia & Pacific,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,109.768867492676,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,99.9748001098633,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,99.3360290527344,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,100.10270690918,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,99.9219665527344,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,99.9778518676758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,99.757926940918,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,100.119400024414,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,100.619926452637,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,100.81974029541,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,100.997650146484,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,101.787551879883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,104.791893005371,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,105.358627319336,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,105.213920593262,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,105.075889587402,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,105.557289123535,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,105.605628967285,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,105.296531677246,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,104.781066894531,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,105.567909240723,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,107.267608642578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,108.63069152832,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,110.154830932617,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,111.72444152832,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,110.940551757812,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,110.373329162598,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,108.904190063477,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,109.168060302734,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,109.46257019043,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,110.166130065918,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,110.119888305664,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,110.885391235352,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,112.188751220703,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,113.987083435059,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,116.07527923584,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,121.042747497559,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,123.906639099121,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,125.720153808594,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,124.171577453613,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,121.097473144531,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,116.359268188477,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,114.154258728027,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,111.641410827637,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,110.140968322754,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,108.143051147461,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,108.15007019043,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,108.655830383301,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,110.957160949707,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,111.720809936523,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,107.469383239746,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,102.702362060547,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,103.672050476074,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,102.606117248535,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,105.528701782227,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+4E,East Asia & Pacific (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,110.675880432129,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,100.048690795898,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,99.4034194946289,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,100.176696777344,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,99.9938735961914,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,100.050987243652,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,99.829963684082,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,100.196716308594,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,100.693466186523,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,100.886978149414,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,101.058212280273,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,101.847709655762,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,104.857917785645,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,105.422721862793,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,105.269119262695,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,105.121353149414,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,105.598457336426,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,105.647567749023,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,105.335739135742,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,104.815521240234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,105.609703063965,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,107.324409484863,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,108.705848693848,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,110.241333007812,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,111.821853637695,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,111.027282714844,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,110.451629638672,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,108.968238830566,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,109.236030578613,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,109.534019470215,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,110.245040893555,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,110.19898223877,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,110.971992492676,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,112.287467956543,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,114.102569580078,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,116.209106445312,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,121.223388671875,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,124.110939025879,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,125.936111450195,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,124.370681762695,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,121.268898010254,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,116.490791320801,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,114.270072937012,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,111.740447998047,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,110.229232788086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,108.214538574219,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,108.224952697754,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,108.736389160156,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,111.064933776855,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,111.835678100586,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,107.535537719727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,102.718109130859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,103.698036193848,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,102.621536254883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,105.576461791992,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T4,East Asia & Pacific (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,110.78540802002,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,102.890296936035,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,102.890296936035,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,101.887222290039,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,101.872436523438,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,102.390007019043,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,102.415031433105,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,102.323181152344,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,102.201881408691,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,101.62654876709,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,101.96607208252,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,101.977119445801,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,102.651466369629,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,102.172668457031,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,102.460876464844,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,102.682350158691,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,103.118118286133,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,103.675003051758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,103.958572387695,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,104.140098571777,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,104.270568847656,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,103.387893676758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,103.33203125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,103.353088378906,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,103.899391174316,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,103.694633483887,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XC,Euro area,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,105.116920471191,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,99.9414596557617,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,100.080513000488,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,100.426940917969,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,100.687881469727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,100.668319702148,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,100.92504119873,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,100.49089050293,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,99.9920501708984,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,100.152008056641,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,100.50414276123,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,101.195068359375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,102.128631591797,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,101.023292541504,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,101.192428588867,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,101.274749755859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,101.233612060547,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,101.62899017334,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,101.992767333984,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,102.209281921387,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,102.640342712402,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,103.689987182617,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,104.293769836426,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,105.540267944336,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,104.970207214355,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,104.001197814941,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+Z7,Europe & Central Asia,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,106.351379394531,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,96.6787490844727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,97.1202392578125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,98.0470428466797,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,98.5894775390625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,99.0000915527344,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,99.2806625366211,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,98.02734375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,97.0207901000977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,99.3757934570312,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,99.9769515991211,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,102.54174041748,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,103.205513000488,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,100.126731872559,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,101.120239257812,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,100.901863098145,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,100.38215637207,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,100.993759155273,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,102.04753112793,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,101.878936767578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,102.54532623291,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,101.337051391602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,101.242980957031,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,105.925918579102,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,105.228988647461,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,103.896949768066,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+7E,Europe & Central Asia (excluding high income),SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,104.817520141602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,97.0421981811523,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,97.3087692260742,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,98.5650329589844,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,99.1017608642578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,98.7056427001953,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,99.2724227905273,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,98.4828109741211,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,97.6581878662109,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,98.4802780151367,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,98.978271484375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,100.431198120117,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,100.804801940918,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,99.3457794189453,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,99.6523895263672,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,99.4765472412109,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,99.0818099975586,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,99.3947906494141,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,100.39623260498,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,100.519172668457,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,101.066932678223,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,103.702407836914,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,105.676261901855,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,108.156982421875,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,106.632987976074,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,104.904747009277,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+T7,Europe & Central Asia (IDA & IBRD countries),SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,108.549743652344,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,102.439392089844,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,102.439392089844,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,101.426223754883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,101.443717956543,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,100.829528808594,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,101.538589477539,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,101.431221008301,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,101.440933227539,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,101.038848876953,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,101.410186767578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,101.565223693848,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,102.24144744873,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,101.635932922363,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,101.755767822266,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,101.965263366699,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,102.292503356934,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,102.696670532227,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,103.081672668457,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,103.352073669434,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,103.52172088623,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,103.018440246582,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,103.14395904541,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,103.241790771484,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,103.542198181152,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,103.283111572266,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+EU,European Union,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,105.164268493652,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,94.2756881713867,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,94.2381362915039,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,93.3247604370117,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,94.550651550293,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,95.4652328491211,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,94.3430786132812,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,93.2115707397461,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,92.0168609619141,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,91.2448425292969,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,90.6384201049805,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,92.2900924682617,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,92.8014984130859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,92.5065307617188,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,91.225959777832,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,89.3328399658203,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,89.0061416625977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,88.6716003417969,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,88.0829086303711,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,88.1582412719727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,86.2836990356445,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,83.7969970703125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,81.6445083618164,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,79.9070892333984,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,76.6733169555664,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,75.1186218261719,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,73.2478179931641,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,73.7992095947266,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,72.4703598022461,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,71.0345230102539,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,74.0595626831055,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,75.7174377441406,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,75.5013809204102,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,74.9957275390625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,75.066047668457,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,73.0331192016602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,73.4501800537109,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,75.6429901123047,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,75.9163208007812,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,77.7786636352539,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,80.363037109375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,82.4177093505859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,82.3236618041992,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,81.8666229248047,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,79.8620300292969,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,76.5009307861328,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,73.3355865478516,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,69.1414108276367,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,65.6188583374023,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,62.6165313720703,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,61.2616500854492,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,60.8999786376953,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,60.682918548584,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,59.8219108581543,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,59.0261688232422,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+F1,Fragile and conflict affected situations,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,57.7927284240723,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,100.075187683105,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,99.677490234375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,99.3296585083008,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,101.633941650391,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,102.423561096191,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,101.520050048828,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,100.386817932129,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,99.3734817504883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,98.7296829223633,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,97.9590301513672,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,98.9158096313477,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,98.0764236450195,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,98.12255859375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,96.8857727050781,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,96.8070373535156,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,96.6321182250977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,96.6233596801758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,92.7580413818359,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,90.4601135253906,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,87.9679794311523,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,85.2293701171875,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,82.3093719482422,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,79.1901321411133,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,73.9895324707031,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,70.7973480224609,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,68.5916366577148,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,69.1679916381836,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,68.5027618408203,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,64.7945098876953,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,64.718879699707,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,62.3841590881348,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,61.4078903198242,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,60.4049987792969,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,61.3656005859375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,59.4804611206055,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,60.8025207519531,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,62.5964088439941,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,61.775951385498,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,62.7875213623047,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,63.864330291748,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,64.1696701049805,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,64.3271102905273,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,65.1965484619141,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,64.4305572509766,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,62.6169586181641,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,60.4432983398438,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,58.7780609130859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,56.618049621582,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,54.1864585876465,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,51.6839599609375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,49.7184982299805,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,48.6889305114746,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,47.5390396118164,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,47.2159194946289,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XE,Heavily indebted poor countries (HIPC),SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,49.7156982421875,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,99.8059997558594,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,99.7090682983398,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,99.6370315551758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,100.129592895508,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,100.789581298828,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,101.189460754395,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,101.315391540527,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,101.420600891113,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,100.934463500977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,100.839988708496,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,100.687461853027,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,101.080459594727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,102.197303771973,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,102.228782653809,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,102.527587890625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,102.799209594727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,103.120239257812,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,102.935188293457,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,103.047943115234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,102.734519958496,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,103.751899719238,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,103.810478210449,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,103.362861633301,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,103.25431060791,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,103.074127197266,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XD,High income,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,104.249786376953,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,105.780838012695,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,103.504867553711,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,103.483993530273,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,101.189147949219,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,101.020111083984,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,100.436531066895,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,100.99626159668,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,106.233261108398,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,107.111763000488,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,105.501106262207,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,105.744148254395,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,107.99080657959,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,107.283470153809,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,106.66024017334,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,107.380897521973,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,107.860893249512,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,108.309280395508,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,108.11775970459,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,106.682983398438,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,107.032989501953,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,107.550323486328,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,107.630279541016,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,106.081069946289,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,106.493057250977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,106.667297363281,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,106.256446838379,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,104.038383483887,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,105.210342407227,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,104.015632629395,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,103.79419708252,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,104.666732788086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,104.009918212891,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,103.519203186035,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,103.809791564941,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,104.507637023926,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,105.080947875977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,104.894813537598,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,104.153686523438,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,103.13215637207,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,101.498809814453,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,99.2367095947266,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,97.1570816040039,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,95.4706192016602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,93.9213180541992,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,92.5375595092773,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,91.1123428344727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,90.4047622680664,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,91.4824600219727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,90.5497283935547,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,88.2558822631836,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,85.3982467651367,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,84.9599075317383,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,82.6074981689453,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,82.4054565429688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XF,IBRD only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,102.092651367188,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,102.438049316406,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,100.834548950195,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,100.477813720703,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,99.400390625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,99.4933319091797,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,98.9152526855469,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,98.8927383422852,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,101.764549255371,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,102.221817016602,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,100.988311767578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,101.681610107422,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,103.16951751709,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,102.943969726562,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,102.343353271484,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,102.4609375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,102.649108886719,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,102.820167541504,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,102.611930847168,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,101.524589538574,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,101.554862976074,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,101.412147521973,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,100.737106323242,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,99.0853500366211,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,98.7431335449219,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,98.6820678710938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,98.0059661865234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,96.4845581054688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,97.1568984985352,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,95.7489624023438,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,95.8541793823242,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,96.4324035644531,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,95.8370819091797,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,95.2431869506836,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,95.3601913452148,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,95.586799621582,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,96.2224731445312,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,96.5441818237305,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,95.979606628418,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,95.4836120605469,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,95.0524215698242,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,93.8476486206055,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,92.4612503051758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,91.1250534057617,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,89.3645935058594,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,88.1338119506836,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,86.6831130981445,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,85.6293411254883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,86.1156387329102,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,84.9978179931641,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,82.9765472412109,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,80.4403915405273,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,79.7861633300781,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,77.3786010742188,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,76.7774124145508,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+ZT,IDA & IBRD total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,92.7952880859375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,91.0903167724609,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,90.1945037841797,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,87.8811798095703,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,86.6772079467773,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,86.9594116210938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,86.3141784667969,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,85.2454528808594,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,84.072021484375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,84.2528381347656,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,83.1113510131836,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,85.1934127807617,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,85.5370330810547,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,85.1963500976562,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,84.2150115966797,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,83.0206069946289,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,82.2729110717773,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,81.3712921142578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,84.4523315429688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,85.2822723388672,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,86.7677764892578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,85.5430679321289,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,83.5680923461914,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,81.5835037231445,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,81.8082962036133,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,81.8791885375977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,79.5436019897461,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,77.8205108642578,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,75.8111114501953,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,73.568359375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,76.1261596679688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,77.372688293457,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,77.1602325439453,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,75.5901336669922,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,74.3518371582031,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,74.358772277832,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,73.9347381591797,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,77.1152572631836,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,79.2228317260742,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,78.0060424804688,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,85.1164169311523,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,87.271842956543,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,88.079719543457,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,87.1751098632812,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,79.6858673095703,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,79.5581665039062,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,76.7979583740234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,70.4966278076172,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,67.6505432128906,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,63.667839050293,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,63.8595314025879,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,63.643009185791,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,60.1396408081055,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,58.5007591247559,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,56.6657295227051,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XH,IDA blend,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,55.7724609375,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,100.371231079102,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,99.9170379638672,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,99.6045913696289,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,101.443641662598,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,102.127586364746,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,101.585350036621,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,100.657562255859,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,99.6305313110352,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,98.9838027954102,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,98.4274673461914,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,99.2957534790039,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,99.0662384033203,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,99.8444976806641,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,99.1322402954102,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,97.8945236206055,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,97.2744522094727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,96.7657928466797,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,94.351692199707,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,92.9991302490234,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,90.8573837280273,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,88.7349166870117,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,86.6669387817383,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,84.1138916015625,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,79.927848815918,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,78.0762481689453,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,76.2837219238281,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,76.6438293457031,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,76.2800064086914,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,74.0926132202148,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,73.8584518432617,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,72.4900817871094,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,71.5463333129883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,70.6311264038086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,70.3364486694336,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,68.2565536499023,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,69.1889038085938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,69.4902114868164,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,67.4631729125977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,68.5235290527344,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,68.7422866821289,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,69.9593734741211,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,70.1585311889648,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,69.6150894165039,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,68.9863891601562,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,67.4422302246094,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,66.0500106811523,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,64.9418334960938,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,63.0476913452148,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1976,61.7084007263184,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1975,59.619800567627,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1974,57.5305595397949,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1973,57.1296615600586,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1972,54.4104309082031,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1971,52.2772102355957,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XI,IDA only,SE.PRM.ENRR,"School enrollment, primary (% gross)",1970,54.4988594055176,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2024,97.2686233520508,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2023,96.6761322021484,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2022,95.7544326782227,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2021,96.5524978637695,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2020,97.0377807617188,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2019,96.439453125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2018,95.4467010498047,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2017,94.3613128662109,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2016,94.020149230957,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2015,93.3256301879883,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2014,94.6791305541992,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2013,94.6955490112305,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2012,95.1507110595703,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2011,94.4302368164062,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2010,93.2912979125977,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2009,92.7210083007812,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2008,92.0956802368164,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2007,91.5820693969727,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2006,90.9479598999023,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2005,89.9898223876953,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2004,88.1127014160156,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2003,86.0136871337891,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2002,83.5418930053711,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2001,80.8172607421875,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",2000,79.6313018798828,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1999,77.6121063232422,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1998,77.2781524658203,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1997,76.3395080566406,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1996,74.1025085449219,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1995,74.8383865356445,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1994,74.3645706176758,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1993,73.6814804077148,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1992,72.4846496582031,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1991,71.8321533203125,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1990,70.4034576416016,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1989,70.8657531738281,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1988,72.1593399047852,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1987,71.5011367797852,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1986,71.7775115966797,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1985,74.291862487793,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1984,75.7768325805664,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1983,76.1194915771484,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1982,75.3973693847656,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1981,72.4475326538086,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1980,71.3208389282227,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1979,69.4706726074219,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1978,66.7123336791992,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00
+XG,IDA total,SE.PRM.ENRR,"School enrollment, primary (% gross)",1977,64.5232009887695,worldbank:SE.PRM.ENRR,2026-05-04T19:27:54+00:00

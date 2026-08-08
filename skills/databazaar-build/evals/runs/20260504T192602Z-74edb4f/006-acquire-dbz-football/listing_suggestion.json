@@ -1,0 +1,27 @@
+{
+  "title": "International Football Match Results (1872\u20132026)",
+  "description": "A benchmark dataset of 49,215 international football (soccer) match results spanning over 150 years, from the first official match (Scotland vs England, 1872) through March 2026. Covers 333 national teams across 193 tournaments in every FIFA confederation.\n\nEach record includes: match date, year, decade, month, home and away teams, scores, total goals, goal difference, match result (home win/away win/draw), tournament name, tournament tier classification (Major Tournament, World Cup Qualifier, Continental Qualifier, Continental League, Friendly, Other Competition), venue city and country, neutral venue indicator, FIFA confederation for both teams (UEFA/CONMEBOL/CONCACAF/CAF/AFC/OFC), inter- vs intra-confederation match type, and penalty shootout indicator.\n\n20 columns across 49,215 rows. Sourced from publicly available international football records, enriched with confederation mappings, tournament tier classifications, and computed analytics fields. Ideal for sports analytics, historical trend analysis, prediction modeling, and FIFA ranking research.",
+  "category": "sports",
+  "tags": [
+    "football",
+    "soccer",
+    "FIFA",
+    "international",
+    "sports-analytics",
+    "world-cup",
+    "historical"
+  ],
+  "suggested_price_usd": 2.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 2.99,
+      "label": "heuristic"
+    }
+  ]
+}

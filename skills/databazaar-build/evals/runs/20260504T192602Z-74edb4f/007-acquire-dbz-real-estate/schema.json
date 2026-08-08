@@ -1,0 +1,129 @@
+{
+  "title": "Residential Property Market Index \u2014 77 Cities, 45 Countries (2015\u20132025)",
+  "description": "Longitudinal quarterly dataset tracking residential property markets across 77 major cities in 45 countries, spanning 2015-2025. Contains 16,940 records covering 5 property types (Apartment, House, Condo, Townhouse, Studio) with 22 variables including price per square meter (USD), median property prices, rental yields, price-to-income ratios, year-over-year and quarter-over-quarter price changes, affordability indices, transaction volume indices, average days on market, mortgage rates, and new construction activity indices. Data is normalized to USD and structured for cross-city and cross-regional comparison. Ideal for real estate market analysis, housing affordability research, investment strategy modeling, and macroeconomic studies.",
+  "category": "real-estate",
+  "tags": [
+    "real-estate",
+    "property-prices",
+    "housing",
+    "rental-yields",
+    "affordability",
+    "global-cities",
+    "quarterly",
+    "investment",
+    "mortgage-rates",
+    "urban-economics"
+  ],
+  "columns": [
+    {
+      "name": "id",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "city",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "country",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "region",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "quarter",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "property_type",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "avg_size_sqm",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "price_per_sqm_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "median_price_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "rental_yield_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "monthly_rent_per_sqm_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "price_to_income_ratio",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "yoy_price_change_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "qoq_price_change_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "city_population_millions",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gdp_per_capita_usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "affordability_index",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "transaction_volume_index",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "avg_days_on_market",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "avg_mortgage_rate_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "new_construction_index",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

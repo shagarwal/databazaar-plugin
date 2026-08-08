@@ -1,0 +1,49 @@
+{
+  "title": "HuggingFace dataset discovery \u2014 glue benchmark nlp dataset",
+  "description": "Top-5 HuggingFace datasets matching 'glue benchmark nlp dataset'. v0.2 returns discovery metadata only; use the `datasets` library to stream actual rows.",
+  "category": "ai-ml",
+  "tags": [
+    "language:en",
+    "size_categories:n<1K",
+    "format:parquet",
+    "modality:audio",
+    "modality:document",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars"
+  ],
+  "columns": [
+    {
+      "name": "dataset_id",
+      "type": "string",
+      "description": "HuggingFace dataset ID"
+    },
+    {
+      "name": "downloads",
+      "type": "number",
+      "description": "30-day download count"
+    },
+    {
+      "name": "likes",
+      "type": "number",
+      "description": "Likes on the dataset card"
+    },
+    {
+      "name": "tags",
+      "type": "string",
+      "description": "Comma-separated tags"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "description": "Truncated description (500 chars)"
+    },
+    {
+      "name": "url",
+      "type": "string",
+      "description": "HuggingFace dataset URL"
+    }
+  ]
+}

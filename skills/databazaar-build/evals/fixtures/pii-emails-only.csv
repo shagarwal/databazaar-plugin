@@ -1,0 +1,6 @@
+user_id,email,city
+1,user1@example.com,SF
+2,user2@example.com,NYC
+3,user3@example.com,LA
+4,user4@example.com,Chicago
+5,user5@example.com,Boston

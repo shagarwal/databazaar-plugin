@@ -1,0 +1,8 @@
+mode: prepare
+kind: standard
+input: evals/fixtures/clean-companies.csv
+tags: prepare,clean,csv
+expects:
+  min_rows: 5
+  pii_blocked: false
+notes: "Clean CSV. Schema inference + datacard rubric."

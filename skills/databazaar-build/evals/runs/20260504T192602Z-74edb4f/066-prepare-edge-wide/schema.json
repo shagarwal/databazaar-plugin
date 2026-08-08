@@ -1,0 +1,558 @@
+{
+  "title": "wide",
+  "description": "Prepared from proprietary input. 20 rows \u00d7 50 columns.",
+  "category": "other",
+  "tags": [],
+  "columns": [
+    {
+      "name": "col_0",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "name": "col_1",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "name": "col_2",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "name": "col_3",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "3",
+        "6"
+      ]
+    },
+    {
+      "name": "col_4",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "4",
+        "8"
+      ]
+    },
+    {
+      "name": "col_5",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "5",
+        "10"
+      ]
+    },
+    {
+      "name": "col_6",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "6",
+        "12"
+      ]
+    },
+    {
+      "name": "col_7",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "7",
+        "14"
+      ]
+    },
+    {
+      "name": "col_8",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "8",
+        "16"
+      ]
+    },
+    {
+      "name": "col_9",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "9",
+        "18"
+      ]
+    },
+    {
+      "name": "col_10",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "10",
+        "20"
+      ]
+    },
+    {
+      "name": "col_11",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "11",
+        "22"
+      ]
+    },
+    {
+      "name": "col_12",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "12",
+        "24"
+      ]
+    },
+    {
+      "name": "col_13",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "13",
+        "26"
+      ]
+    },
+    {
+      "name": "col_14",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "14",
+        "28"
+      ]
+    },
+    {
+      "name": "col_15",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "15",
+        "30"
+      ]
+    },
+    {
+      "name": "col_16",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "16",
+        "32"
+      ]
+    },
+    {
+      "name": "col_17",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "17",
+        "34"
+      ]
+    },
+    {
+      "name": "col_18",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "18",
+        "36"
+      ]
+    },
+    {
+      "name": "col_19",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "19",
+        "38"
+      ]
+    },
+    {
+      "name": "col_20",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "20",
+        "40"
+      ]
+    },
+    {
+      "name": "col_21",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "21",
+        "42"
+      ]
+    },
+    {
+      "name": "col_22",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "22",
+        "44"
+      ]
+    },
+    {
+      "name": "col_23",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "23",
+        "46"
+      ]
+    },
+    {
+      "name": "col_24",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "24",
+        "48"
+      ]
+    },
+    {
+      "name": "col_25",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "25",
+        "50"
+      ]
+    },
+    {
+      "name": "col_26",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "26",
+        "52"
+      ]
+    },
+    {
+      "name": "col_27",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "27",
+        "54"
+      ]
+    },
+    {
+      "name": "col_28",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "28",
+        "56"
+      ]
+    },
+    {
+      "name": "col_29",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "29",
+        "58"
+      ]
+    },
+    {
+      "name": "col_30",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "30",
+        "60"
+      ]
+    },
+    {
+      "name": "col_31",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "31",
+        "62"
+      ]
+    },
+    {
+      "name": "col_32",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "32",
+        "64"
+      ]
+    },
+    {
+      "name": "col_33",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "33",
+        "66"
+      ]
+    },
+    {
+      "name": "col_34",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "34",
+        "68"
+      ]
+    },
+    {
+      "name": "col_35",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "35",
+        "70"
+      ]
+    },
+    {
+      "name": "col_36",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "36",
+        "72"
+      ]
+    },
+    {
+      "name": "col_37",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "37",
+        "74"
+      ]
+    },
+    {
+      "name": "col_38",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "38",
+        "76"
+      ]
+    },
+    {
+      "name": "col_39",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "39",
+        "78"
+      ]
+    },
+    {
+      "name": "col_40",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "40",
+        "80"
+      ]
+    },
+    {
+      "name": "col_41",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "41",
+        "82"
+      ]
+    },
+    {
+      "name": "col_42",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "42",
+        "84"
+      ]
+    },
+    {
+      "name": "col_43",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "43",
+        "86"
+      ]
+    },
+    {
+      "name": "col_44",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "44",
+        "88"
+      ]
+    },
+    {
+      "name": "col_45",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "45",
+        "90"
+      ]
+    },
+    {
+      "name": "col_46",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "46",
+        "92"
+      ]
+    },
+    {
+      "name": "col_47",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "47",
+        "94"
+      ]
+    },
+    {
+      "name": "col_48",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "48",
+        "96"
+      ]
+    },
+    {
+      "name": "col_49",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "0",
+        "49",
+        "98"
+      ]
+    }
+  ]
+}

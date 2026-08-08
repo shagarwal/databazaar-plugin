@@ -1,0 +1,27 @@
+{
+  "title": "US Aircraft For-Sale Snapshot \u2014 $250k\u2013$350k (Apr 2026)",
+  "description": "Point-in-time snapshot of 66 US-located aircraft for-sale listings priced between $250,000 and $350,000, scraped from Barnstormers.com on 2026-04-25 UTC.\n\nEach record captures make/model, year, asking price, location (city/state/zip), broker/seller contact info, posted date, free-text condition summary, full long-form description, photo URLs (per-listing array), and best-effort extracted spec fields (total time, SMOH, engine, useful load) where stated in the listing description.\n\nHangars and other non-aircraft real estate are excluded. Top states by listing count: FL (15), CA (10), NV (6), MN (5), AZ (5). Price range $250,000\u2013$350,000 with a median of $299,000. 66 records total.\n\nFormat: JSON wrapper object with snapshot metadata + a `listings` array of records. Useful for market analysis, broker benchmarking, and aircraft-buyer research in the owner-flown / light-twin / experimental price band. Single point-in-time snapshot \u2014 no freshness guarantee; aviation listings turn over within days.",
+  "category": "pricing",
+  "tags": [
+    "aviation",
+    "aircraft",
+    "general-aviation",
+    "marketplace",
+    "listings",
+    "barnstormers",
+    "united-states"
+  ],
+  "suggested_price_usd": 0.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 0.99,
+      "label": "heuristic"
+    }
+  ]
+}

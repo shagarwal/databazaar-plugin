@@ -1,0 +1,4446 @@
+{
+  "run_id": "20260504T192602Z-74edb4f",
+  "started_at": "20260504T192835Z",
+  "case_count": 71,
+  "passed_cases": 70,
+  "graded": {
+    "passed": 70,
+    "failed": 0,
+    "total": 70
+  },
+  "expected_failures": {
+    "still_failing_as_expected": 1,
+    "now_passing_review_needed": 0
+  },
+  "mean_score": 0.9812206572769951,
+  "graded_pass_rate": 1.0,
+  "results": [
+    {
+      "case_id": "001-acquire-dbz-country-panel",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "/runs/20260504T192602Z-74edb4f/001-acquire-dbz-country-panel/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/001-acquire-dbz-country-panel/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/001-acquire-dbz-country-panel/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/001-acquire-dbz-country-panel/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/001-acquire-dbz-country-panel/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/001-acquire-dbz-country-panel/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/001-acquire-dbz-country-panel/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=50",
+          "passed": true,
+          "actual": 13952
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "002-acquire-dbz-earthquakes",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "tabazaar/evals/runs/20260504T192602Z-74edb4f/002-acquire-dbz-earthquakes/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/002-acquire-dbz-earthquakes/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/002-acquire-dbz-earthquakes/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/002-acquire-dbz-earthquakes/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/002-acquire-dbz-earthquakes/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/002-acquire-dbz-earthquakes/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/002-acquire-dbz-earthquakes/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=40",
+          "passed": true,
+          "actual": 94767
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "003-acquire-dbz-aircraft",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "marketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/003-acquire-dbz-aircraft/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/003-acquire-dbz-aircraft/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/003-acquire-dbz-aircraft/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/003-acquire-dbz-aircraft/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/003-acquire-dbz-aircraft/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/003-acquire-dbz-aircraft/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/003-acquire-dbz-aircraft/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=30",
+          "passed": false,
+          "actual": 10
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 17,
+      "failed": 1,
+      "score": 0.9444444444444444
+    },
+    {
+      "case_id": "004-acquire-dbz-flights",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "entdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/004-acquire-dbz-flights/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/004-acquire-dbz-flights/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/004-acquire-dbz-flights/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/004-acquire-dbz-flights/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/004-acquire-dbz-flights/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/004-acquire-dbz-flights/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/004-acquire-dbz-flights/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=100",
+          "passed": true,
+          "actual": 66771
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "005-acquire-dbz-museum",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "rmes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/005-acquire-dbz-museum/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/005-acquire-dbz-museum/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/005-acquire-dbz-museum/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/005-acquire-dbz-museum/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/005-acquire-dbz-museum/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/005-acquire-dbz-museum/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/005-acquire-dbz-museum/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=100",
+          "passed": true,
+          "actual": 10377
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "006-acquire-dbz-football",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "marketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/006-acquire-dbz-football/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/006-acquire-dbz-football/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/006-acquire-dbz-football/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/006-acquire-dbz-football/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/006-acquire-dbz-football/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/006-acquire-dbz-football/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/006-acquire-dbz-football/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=100",
+          "passed": true,
+          "actual": 49215
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "007-acquire-dbz-real-estate",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "tabazaar/evals/runs/20260504T192602Z-74edb4f/007-acquire-dbz-real-estate/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/007-acquire-dbz-real-estate/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/007-acquire-dbz-real-estate/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/007-acquire-dbz-real-estate/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/007-acquire-dbz-real-estate/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/007-acquire-dbz-real-estate/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/007-acquire-dbz-real-estate/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=50",
+          "passed": true,
+          "actual": 16940
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "008-acquire-dbz-exoplanets",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "ills/databazaar/evals/runs/20260504T192602Z-74edb4f/008-acquire-dbz-exoplanets/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/008-acquire-dbz-exoplanets/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/008-acquire-dbz-exoplanets/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/008-acquire-dbz-exoplanets/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/008-acquire-dbz-exoplanets/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/008-acquire-dbz-exoplanets/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/008-acquire-dbz-exoplanets/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=50",
+          "passed": true,
+          "actual": 20933
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "009-acquire-dbz-air-quality",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "tabazaar/evals/runs/20260504T192602Z-74edb4f/009-acquire-dbz-air-quality/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/009-acquire-dbz-air-quality/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/009-acquire-dbz-air-quality/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/009-acquire-dbz-air-quality/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/009-acquire-dbz-air-quality/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/009-acquire-dbz-air-quality/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/009-acquire-dbz-air-quality/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=50",
+          "passed": true,
+          "actual": 124824
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "010-acquire-dbz-energy",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "rmes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/010-acquire-dbz-energy/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/010-acquire-dbz-energy/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/010-acquire-dbz-energy/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/010-acquire-dbz-energy/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/010-acquire-dbz-energy/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/010-acquire-dbz-energy/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/010-acquire-dbz-energy/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=100",
+          "passed": true,
+          "actual": 11495
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "011-acquire-wb-gdp-per-capita",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "/runs/20260504T192602Z-74edb4f/011-acquire-wb-gdp-per-capita/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/011-acquire-wb-gdp-per-capita/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/011-acquire-wb-gdp-per-capita/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/011-acquire-wb-gdp-per-capita/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/011-acquire-wb-gdp-per-capita/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/011-acquire-wb-gdp-per-capita/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/011-acquire-wb-gdp-per-capita/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 14561
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "012-acquire-wb-population",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "lace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/012-acquire-wb-population/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/012-acquire-wb-population/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/012-acquire-wb-population/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/012-acquire-wb-population/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/012-acquire-wb-population/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/012-acquire-wb-population/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/012-acquire-wb-population/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=5000",
+          "passed": true,
+          "actual": 13952
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "013-acquire-wb-life-expectancy",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "0260504T192602Z-74edb4f/013-acquire-wb-life-expectancy/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/013-acquire-wb-life-expectancy/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/013-acquire-wb-life-expectancy/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/013-acquire-wb-life-expectancy/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/013-acquire-wb-life-expectancy/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/013-acquire-wb-life-expectancy/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/013-acquire-wb-life-expectancy/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=5000",
+          "passed": true,
+          "actual": 17191
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "014-acquire-wb-unemployment",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "tabazaar/evals/runs/20260504T192602Z-74edb4f/014-acquire-wb-unemployment/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/014-acquire-wb-unemployment/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/014-acquire-wb-unemployment/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/014-acquire-wb-unemployment/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/014-acquire-wb-unemployment/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/014-acquire-wb-unemployment/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/014-acquire-wb-unemployment/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 14105
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "015-acquire-wb-inflation",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "marketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/015-acquire-wb-inflation/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/015-acquire-wb-inflation/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/015-acquire-wb-inflation/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/015-acquire-wb-inflation/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/015-acquire-wb-inflation/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/015-acquire-wb-inflation/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/015-acquire-wb-inflation/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 9066
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "016-acquire-wb-co2-emissions",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "r/evals/runs/20260504T192602Z-74edb4f/016-acquire-wb-co2-emissions/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/016-acquire-wb-co2-emissions/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/016-acquire-wb-co2-emissions/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/016-acquire-wb-co2-emissions/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/016-acquire-wb-co2-emissions/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/016-acquire-wb-co2-emissions/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/016-acquire-wb-co2-emissions/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 13805
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "017-acquire-wb-internet-users",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "/runs/20260504T192602Z-74edb4f/017-acquire-wb-internet-users/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/017-acquire-wb-internet-users/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/017-acquire-wb-internet-users/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/017-acquire-wb-internet-users/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/017-acquire-wb-internet-users/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/017-acquire-wb-internet-users/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/017-acquire-wb-internet-users/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 6917
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "018-acquire-wb-literacy",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "entdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/018-acquire-wb-literacy/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/018-acquire-wb-literacy/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/018-acquire-wb-literacy/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/018-acquire-wb-literacy/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/018-acquire-wb-literacy/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/018-acquire-wb-literacy/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/018-acquire-wb-literacy/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=100",
+          "passed": true,
+          "actual": 16931
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "019-acquire-wb-school-enrollment",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "Z-74edb4f/019-acquire-wb-school-enrollment/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/019-acquire-wb-school-enrollment/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/019-acquire-wb-school-enrollment/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/019-acquire-wb-school-enrollment/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/019-acquire-wb-school-enrollment/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/019-acquire-wb-school-enrollment/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/019-acquire-wb-school-enrollment/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 9597
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "020-acquire-wb-health-expenditure",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "4f/020-acquire-wb-health-expenditure/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/020-acquire-wb-health-expenditure/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/020-acquire-wb-health-expenditure/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/020-acquire-wb-health-expenditure/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/020-acquire-wb-health-expenditure/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/020-acquire-wb-health-expenditure/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/020-acquire-wb-health-expenditure/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=500",
+          "passed": true,
+          "actual": 10170
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "021-acquire-wb-labor-force",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "ills/databazaar/evals/runs/20260504T192602Z-74edb4f/021-acquire-wb-labor-force/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/021-acquire-wb-labor-force/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/021-acquire-wb-labor-force/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/021-acquire-wb-labor-force/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/021-acquire-wb-labor-force/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/021-acquire-wb-labor-force/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/021-acquire-wb-labor-force/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 8446
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "022-acquire-wb-gdp-total",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "marketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/022-acquire-wb-gdp-total/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/022-acquire-wb-gdp-total/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/022-acquire-wb-gdp-total/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/022-acquire-wb-gdp-total/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/022-acquire-wb-gdp-total/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/022-acquire-wb-gdp-total/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/022-acquire-wb-gdp-total/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 14561
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "023-acquire-hf-squad",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "ta\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/023-acquire-hf-squad/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/023-acquire-hf-squad/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/023-acquire-hf-squad/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/023-acquire-hf-squad/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/023-acquire-hf-squad/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/023-acquire-hf-squad/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/023-acquire-hf-squad/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1",
+          "passed": true,
+          "actual": 29
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "024-acquire-hf-imagenet",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "entdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/024-acquire-hf-imagenet/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/024-acquire-hf-imagenet/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/024-acquire-hf-imagenet/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/024-acquire-hf-imagenet/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/024-acquire-hf-imagenet/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/024-acquire-hf-imagenet/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/024-acquire-hf-imagenet/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1",
+          "passed": true,
+          "actual": 11
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "025-acquire-hf-glue",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "    \"data\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/025-acquire-hf-glue/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/025-acquire-hf-glue/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/025-acquire-hf-glue/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/025-acquire-hf-glue/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/025-acquire-hf-glue/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/025-acquire-hf-glue/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/025-acquire-hf-glue/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1",
+          "passed": true,
+          "actual": 15
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "026-acquire-hf-wikitext",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "entdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/026-acquire-hf-wikitext/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/026-acquire-hf-wikitext/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/026-acquire-hf-wikitext/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/026-acquire-hf-wikitext/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/026-acquire-hf-wikitext/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/026-acquire-hf-wikitext/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/026-acquire-hf-wikitext/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1",
+          "passed": true,
+          "actual": 16
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "027-acquire-hf-common-voice",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "tabazaar/evals/runs/20260504T192602Z-74edb4f/027-acquire-hf-common-voice/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/027-acquire-hf-common-voice/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/027-acquire-hf-common-voice/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/027-acquire-hf-common-voice/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/027-acquire-hf-common-voice/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/027-acquire-hf-common-voice/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/027-acquire-hf-common-voice/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1",
+          "passed": true,
+          "actual": 25
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "028-acquire-hf-openwebtext",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "ills/databazaar/evals/runs/20260504T192602Z-74edb4f/028-acquire-hf-openwebtext/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/028-acquire-hf-openwebtext/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/028-acquire-hf-openwebtext/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/028-acquire-hf-openwebtext/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/028-acquire-hf-openwebtext/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/028-acquire-hf-openwebtext/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/028-acquire-hf-openwebtext/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1",
+          "passed": true,
+          "actual": 49
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "029-acquire-hf-alpaca",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/029-acquire-hf-alpaca/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/029-acquire-hf-alpaca/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/029-acquire-hf-alpaca/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/029-acquire-hf-alpaca/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/029-acquire-hf-alpaca/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/029-acquire-hf-alpaca/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/029-acquire-hf-alpaca/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1",
+          "passed": true,
+          "actual": 9
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "030-acquire-hf-c4",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": " \"outputs\": {\n    \"data\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/030-acquire-hf-c4/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/030-acquire-hf-c4/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/030-acquire-hf-c4/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/030-acquire-hf-c4/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/030-acquire-hf-c4/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/030-acquire-hf-c4/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/030-acquire-hf-c4/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1",
+          "passed": true,
+          "actual": 19
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "031-miss-bookstores-reykjavik",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "/runs/20260504T192602Z-74edb4f/031-miss-bookstores-reykjavik/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/031-miss-bookstores-reykjavik/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/031-miss-bookstores-reykjavik/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/031-miss-bookstores-reykjavik/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/031-miss-bookstores-reykjavik/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/031-miss-bookstores-reykjavik/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/031-miss-bookstores-reykjavik/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": false
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=0",
+          "passed": true,
+          "actual": 0
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 17,
+      "failed": 1,
+      "score": 0.9444444444444444
+    },
+    {
+      "case_id": "032-miss-niche-tomato",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/032-miss-niche-tomato/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/032-miss-niche-tomato/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/032-miss-niche-tomato/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/032-miss-niche-tomato/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/032-miss-niche-tomato/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/032-miss-niche-tomato/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/032-miss-niche-tomato/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": false
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=0",
+          "passed": true,
+          "actual": 0
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 17,
+      "failed": 1,
+      "score": 0.9444444444444444
+    },
+    {
+      "case_id": "033-miss-knitting",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": " \"outputs\": {\n    \"data\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/033-miss-knitting/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/033-miss-knitting/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/033-miss-knitting/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/033-miss-knitting/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/033-miss-knitting/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/033-miss-knitting/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/033-miss-knitting/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": false
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=0",
+          "passed": true,
+          "actual": 0
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 17,
+      "failed": 1,
+      "score": 0.9444444444444444
+    },
+    {
+      "case_id": "034-miss-microbrewery",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/034-miss-microbrewery/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/034-miss-microbrewery/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/034-miss-microbrewery/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/034-miss-microbrewery/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/034-miss-microbrewery/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/034-miss-microbrewery/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/034-miss-microbrewery/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": false
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=0",
+          "passed": true,
+          "actual": 0
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 17,
+      "failed": 1,
+      "score": 0.9444444444444444
+    },
+    {
+      "case_id": "035-miss-dog-parks",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "ts\": {\n    \"data\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/035-miss-dog-parks/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/035-miss-dog-parks/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/035-miss-dog-parks/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/035-miss-dog-parks/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/035-miss-dog-parks/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/035-miss-dog-parks/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/035-miss-dog-parks/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": false
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=0",
+          "passed": true,
+          "actual": 0
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 17,
+      "failed": 1,
+      "score": 0.9444444444444444
+    },
+    {
+      "case_id": "036-refusal-pii-01",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: PII aggregation about private individuals is not allowed. See references/pii-patterns.md. Public-record facts about public figures (executives, elected officials) in their professional capacity may be fine \u2014 rephrase if that's the actual intent.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "037-refusal-pii-02",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: PII aggregation about private individuals is not allowed. See references/pii-patterns.md. Public-record facts about public figures (executives, elected officials) in their professional capacity may be fine \u2014 rephrase if that's the actual intent.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "038-refusal-pii-03",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: PII aggregation about private individuals is not allowed. See references/pii-patterns.md. Public-record facts about public figures (executives, elected officials) in their professional capacity may be fine \u2014 rephrase if that's the actual intent.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "039-refusal-pii-04",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: PII aggregation about private individuals is not allowed. See references/pii-patterns.md. Public-record facts about public figures (executives, elected officials) in their professional capacity may be fine \u2014 rephrase if that's the actual intent.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "040-refusal-pii-05",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: PII aggregation about private individuals is not allowed. See references/pii-patterns.md. Public-record facts about public figures (executives, elected officials) in their professional capacity may be fine \u2014 rephrase if that's the actual intent.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "041-refusal-pii-06",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: PII aggregation about private individuals is not allowed. See references/pii-patterns.md. Public-record facts about public figures (executives, elected officials) in their professional capacity may be fine \u2014 rephrase if that's the actual intent.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "042-refusal-pii-07",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: PII aggregation about private individuals is not allowed. See references/pii-patterns.md. Public-record facts about public figures (executives, elected officials) in their professional capacity may be fine \u2014 rephrase if that's the actual intent.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "043-refusal-pii-08",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: PII aggregation about private individuals is not allowed. See references/pii-patterns.md. Public-record facts about public figures (executives, elected officials) in their professional capacity may be fine \u2014 rephrase if that's the actual intent.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "044-refusal-pii-09",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: PII aggregation about private individuals is not allowed. See references/pii-patterns.md. Public-record facts about public figures (executives, elected officials) in their professional capacity may be fine \u2014 rephrase if that's the actual intent.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "045-refusal-tos-linkedin",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from linkedin. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "046-refusal-tos-facebook",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from facebook. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "047-refusal-tos-instagram",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from instagram. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "048-refusal-tos-twitter",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from twitter.com. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "049-refusal-tos-x-com",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from x.com. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "050-refusal-tos-glassdoor",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from glassdoor. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "051-refusal-tos-zillow",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from zillow. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "052-refusal-tos-wsj",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from wsj. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "053-refusal-tos-nyt",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from nytimes. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "054-refusal-tos-ft",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from ft.com. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "055-refusal-tos-bloomberg",
+      "mode": "acquire",
+      "exit_code": 3,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: ToS / scraping policy violation. The skill will not acquire data from bloomberg. See references/sources.md for the web_fetch denylist.\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "056-prepare-clean-companies",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "s/runs/20260504T192602Z-74edb4f/056-prepare-clean-companies/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/056-prepare-clean-companies/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/056-prepare-clean-companies/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/056-prepare-clean-companies/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/056-prepare-clean-companies/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:26+00:00\",\n    \"row_count\": 5,\n    \"detections\": [\n      {\n        \"column\": \"revenue_usd\",\n        \"pattern\": \"phone\",\n        \"tier\": 1,\n        \"match_count\": 1,\n        \"action\": \"redacted\"\n      }\n    ],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=5",
+          "passed": true,
+          "actual": 5
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "057-prepare-clean-products-json",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "192602Z-74edb4f/057-prepare-clean-products-json/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/057-prepare-clean-products-json/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/057-prepare-clean-products-json/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/057-prepare-clean-products-json/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/057-prepare-clean-products-json/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/057-prepare-clean-products-json/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:26+00:00\",\n    \"row_count\": 20,\n    \"detections\": [],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=20",
+          "passed": true,
+          "actual": 20
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "058-prepare-clean-events-jsonl",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "192602Z-74edb4f/058-prepare-clean-events-jsonl/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/058-prepare-clean-events-jsonl/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/058-prepare-clean-events-jsonl/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/058-prepare-clean-events-jsonl/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/058-prepare-clean-events-jsonl/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:26+00:00\",\n    \"row_count\": 30,\n    \"detections\": [\n      {\n        \"column\": \"value_cents\",\n        \"pattern\": \"phone\",\n        \"tier\": 1,\n        \"match_count\": 4,\n        \"action\": \"redacted\"\n      }\n    ],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=30",
+          "passed": true,
+          "actual": 30
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "059-prepare-pii-emails-redact",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "ns/20260504T192602Z-74edb4f/059-prepare-pii-emails-redact/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/059-prepare-pii-emails-redact/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/059-prepare-pii-emails-redact/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/059-prepare-pii-emails-redact/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/059-prepare-pii-emails-redact/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:27+00:00\",\n    \"row_count\": 5,\n    \"detections\": [\n      {\n        \"column\": \"email\",\n        \"pattern\": \"email\",\n        \"tier\": 1,\n        \"match_count\": 5,\n        \"action\": \"redacted\"\n      }\n    ],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=5",
+          "passed": true,
+          "actual": 5
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "060-prepare-pii-phones-redact",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "ns/20260504T192602Z-74edb4f/060-prepare-pii-phones-redact/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/060-prepare-pii-phones-redact/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/060-prepare-pii-phones-redact/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/060-prepare-pii-phones-redact/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/060-prepare-pii-phones-redact/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:27+00:00\",\n    \"row_count\": 5,\n    \"detections\": [\n      {\n        \"column\": \"phone\",\n        \"pattern\": \"phone\",\n        \"tier\": 1,\n        \"match_count\": 5,\n        \"action\": \"redacted\"\n      }\n    ],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=5",
+          "passed": true,
+          "actual": 5
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "061-prepare-pii-mixed-redact",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "/evals/runs/20260504T192602Z-74edb4f/061-prepare-pii-mixed-redact/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/061-prepare-pii-mixed-redact/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/061-prepare-pii-mixed-redact/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/061-prepare-pii-mixed-redact/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:27+00:00\",\n    \"row_count\": 7,\n    \"detections\": [\n      {\n        \"column\": \"email\",\n        \"pattern\": \"email\",\n        \"tier\": 1,\n        \"match_count\": 7,\n        \"action\": \"redacted\"\n      },\n      {\n        \"column\": \"phone\",\n        \"pattern\": \"phone\",\n        \"tier\": 1,\n        \"match_count\": 7,\n        \"action\": \"redacted\"\n      }\n    ],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=7",
+          "passed": true,
+          "actual": 7
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "062-prepare-pii-ssn-block",
+      "mode": "prepare",
+      "exit_code": 4,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: blocking PII detected \u2014 ssn in column 'ssn'\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "063-prepare-pii-apikey-block",
+      "mode": "prepare",
+      "exit_code": 4,
+      "stdout_tail": "",
+      "stderr_tail": "REFUSED: blocking PII detected \u2014 api_key in column 'key'\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "case_id": "064-prepare-edge-empty",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "tdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/064-prepare-edge-empty/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/064-prepare-edge-empty/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/064-prepare-edge-empty/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/064-prepare-edge-empty/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/064-prepare-edge-empty/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/064-prepare-edge-empty/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:28+00:00\",\n    \"row_count\": 0,\n    \"detections\": [],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": false
+        },
+        {
+          "name": "stderr_match",
+          "passed": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "case_id": "065-prepare-edge-single-row",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "zaar/evals/runs/20260504T192602Z-74edb4f/065-prepare-edge-single-row/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/065-prepare-edge-single-row/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/065-prepare-edge-single-row/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/065-prepare-edge-single-row/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/065-prepare-edge-single-row/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/065-prepare-edge-single-row/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:28+00:00\",\n    \"row_count\": 1,\n    \"detections\": [],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1",
+          "passed": true,
+          "actual": 1
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "066-prepare-edge-wide",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/066-prepare-edge-wide/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/066-prepare-edge-wide/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/066-prepare-edge-wide/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/066-prepare-edge-wide/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/066-prepare-edge-wide/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/066-prepare-edge-wide/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:28+00:00\",\n    \"row_count\": 20,\n    \"detections\": [],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=20",
+          "passed": true,
+          "actual": 20
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "067-prepare-edge-high-nulls",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "zaar/evals/runs/20260504T192602Z-74edb4f/067-prepare-edge-high-nulls/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/067-prepare-edge-high-nulls/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/067-prepare-edge-high-nulls/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/067-prepare-edge-high-nulls/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/067-prepare-edge-high-nulls/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/067-prepare-edge-high-nulls/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:29+00:00\",\n    \"row_count\": 8,\n    \"detections\": [],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=8",
+          "passed": true,
+          "actual": 8
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "068-prepare-edge-mixed-types",
+      "mode": "prepare",
+      "exit_code": 0,
+      "stdout_tail": "vals/runs/20260504T192602Z-74edb4f/068-prepare-edge-mixed-types/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/068-prepare-edge-mixed-types/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/068-prepare-edge-mixed-types/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/068-prepare-edge-mixed-types/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/068-prepare-edge-mixed-types/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/068-prepare-edge-mixed-types/listing_suggestion.json\"\n  },\n  \"pii\": {\n    \"scanned_at\": \"2026-05-04T19:28:29+00:00\",\n    \"row_count\": 5,\n    \"detections\": [],\n    \"blocked\": false,\n    \"blockers\": []\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=5",
+          "passed": true,
+          "actual": 5
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "069-reproducibility-a",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/069-reproducibility-a/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/069-reproducibility-a/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/069-reproducibility-a/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/069-reproducibility-a/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/069-reproducibility-a/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/069-reproducibility-a/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/069-reproducibility-a/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 14561
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "070-reproducibility-b",
+      "mode": "acquire",
+      "exit_code": 0,
+      "stdout_tail": "home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/070-reproducibility-b/data.csv\",\n    \"schema\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/070-reproducibility-b/schema.json\",\n    \"datacard\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/070-reproducibility-b/datacard.md\",\n    \"provenance\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/070-reproducibility-b/provenance.json\",\n    \"sample\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/070-reproducibility-b/sample.csv\",\n    \"pii_report\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/070-reproducibility-b/pii_report.json\",\n    \"listing_suggestion\": \"/home/hermes/agentdatamarketplace/skills/databazaar/evals/runs/20260504T192602Z-74edb4f/070-reproducibility-b/listing_suggestion.json\"\n  }\n}\n",
+      "stderr_tail": "",
+      "checks": [
+        {
+          "name": "output_file:data.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:schema.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:datacard.md",
+          "passed": true
+        },
+        {
+          "name": "output_file:provenance.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:sample.csv",
+          "passed": true
+        },
+        {
+          "name": "output_file:pii_report.json",
+          "passed": true
+        },
+        {
+          "name": "output_file:listing_suggestion.json",
+          "passed": true
+        },
+        {
+          "name": "min_rows>=1000",
+          "passed": true,
+          "actual": 14561
+        },
+        {
+          "name": "datacard_section:Overview",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Schema",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Sources",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Methodology",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Known gaps",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Intended use",
+          "passed": true
+        },
+        {
+          "name": "datacard_section:Provenance",
+          "passed": true
+        },
+        {
+          "name": "marketing_footer",
+          "passed": true
+        },
+        {
+          "name": "provenance_complete",
+          "passed": true
+        },
+        {
+          "name": "pii_block_correct",
+          "passed": true
+        }
+      ],
+      "passed": 18,
+      "failed": 0,
+      "score": 1.0
+    },
+    {
+      "case_id": "071-aggregate-merge-not-impl",
+      "mode": "aggregate",
+      "exit_code": 2,
+      "stdout_tail": "",
+      "stderr_tail": "aggregate: not yet implemented in v0.1\n",
+      "checks": [
+        {
+          "name": "non_zero_exit",
+          "passed": true
+        },
+        {
+          "name": "stderr_match",
+          "passed": true
+        }
+      ],
+      "score": 1.0
+    }
+  ]
+}

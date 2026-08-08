@@ -1,0 +1,121 @@
+{
+  "title": "US Aircraft For-Sale Snapshot \u2014 $250k\u2013$350k (Apr 2026)",
+  "description": "Point-in-time snapshot of 66 US-located aircraft for-sale listings priced between $250,000 and $350,000, scraped from Barnstormers.com on 2026-04-25 UTC.\n\nEach record captures make/model, year, asking price, location (city/state/zip), broker/seller contact info, posted date, free-text condition summary, full long-form description, photo URLs (per-listing array), and best-effort extracted spec fields (total time, SMOH, engine, useful load) where stated in the listing description.\n\nHangars and other non-aircraft real estate are excluded. Top states by listing count: FL (15), CA (10), NV (6), MN (5), AZ (5). Price range $250,000\u2013$350,000 with a median of $299,000. 66 records total.\n\nFormat: JSON wrapper object with snapshot metadata + a `listings` array of records. Useful for market analysis, broker benchmarking, and aircraft-buyer research in the owner-flown / light-twin / experimental price band. Single point-in-time snapshot \u2014 no freshness guarantee; aviation listings turn over within days.",
+  "category": "pricing",
+  "tags": [
+    "aviation",
+    "aircraft",
+    "general-aviation",
+    "marketplace",
+    "listings",
+    "barnstormers",
+    "united-states"
+  ],
+  "columns": [
+    {
+      "name": "ad_id",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "title",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "url",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "price_usd",
+      "type": "number",
+      "description": ""
+    },
+    {
+      "name": "status",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "summary",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "contact_name",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "company",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "role",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "location_raw",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "posted_date",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "thumbnail_count",
+      "type": "number",
+      "description": ""
+    },
+    {
+      "name": "thumbnails",
+      "type": "object",
+      "description": ""
+    },
+    {
+      "name": "city",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "state",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "zip",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "country",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "meta_description",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "image_urls",
+      "type": "object",
+      "description": ""
+    },
+    {
+      "name": "image_count",
+      "type": "number",
+      "description": ""
+    },
+    {
+      "name": "engine",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

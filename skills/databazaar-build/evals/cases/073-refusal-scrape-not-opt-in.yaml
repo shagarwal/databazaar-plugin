@@ -1,0 +1,7 @@
+mode: acquire
+kind: refusal
+request: "fetch from https://example.com/inventory"
+tags: refusal,opt-in-scrape,v0.4
+expects:
+  stderr_contains: opt-in
+notes: "Should refuse — bare URL acquisition without --allow-scrape + --tos-ack."

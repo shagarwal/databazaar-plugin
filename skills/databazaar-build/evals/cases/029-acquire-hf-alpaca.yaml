@@ -1,0 +1,8 @@
+mode: acquire
+kind: standard
+request: "alpaca instruction tuning dataset"
+tags: acquire,huggingface,ml
+expects:
+  min_rows: 1
+  pii_blocked: false
+notes: "HuggingFace discovery for alpaca."

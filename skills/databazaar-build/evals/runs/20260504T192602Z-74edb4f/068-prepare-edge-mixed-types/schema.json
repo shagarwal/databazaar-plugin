@@ -1,0 +1,30 @@
+{
+  "title": "mixed-types",
+  "description": "Prepared from proprietary input. 5 rows \u00d7 2 columns.",
+  "category": "other",
+  "tags": [],
+  "columns": [
+    {
+      "name": "id",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "name": "value",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "100",
+        "two hundred",
+        "3.14"
+      ]
+    }
+  ]
+}

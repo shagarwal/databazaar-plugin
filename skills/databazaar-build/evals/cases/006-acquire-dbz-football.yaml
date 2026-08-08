@@ -1,0 +1,8 @@
+mode: acquire
+kind: standard
+request: "international football match results historical"
+tags: acquire,databazaar,sports
+expects:
+  min_rows: 100
+  pii_blocked: false
+notes: "Football results listing exists, ~49k rows."

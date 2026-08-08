@@ -1,0 +1,8 @@
+mode: prepare
+kind: standard
+input: evals/fixtures/mixed-types.csv
+tags: prepare,edge,types
+expects:
+  min_rows: 5
+  pii_blocked: false
+notes: "Mixed types in same column. Should infer string fallback."

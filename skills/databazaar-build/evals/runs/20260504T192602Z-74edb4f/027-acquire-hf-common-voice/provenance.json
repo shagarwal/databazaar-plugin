@@ -1,0 +1,20 @@
+{
+  "skill_version": "0.2.0",
+  "generated_at": "2026-05-04T19:28:12+00:00",
+  "row_count": 1,
+  "sources": [
+    {
+      "name": "HuggingFace dataset AlicanKiraz0/Cybersecurity-Dataset-Fenrir-v2.1",
+      "url": "https://huggingface.co/datasets/AlicanKiraz0/Cybersecurity-Dataset-Fenrir-v2.1",
+      "license": "see card",
+      "retrieved_at": "2026-05-04T19:28:12+00:00"
+    }
+  ],
+  "rows": [
+    {
+      "row_index": 0,
+      "source": "huggingface:AlicanKiraz0/Cybersecurity-Dataset-Fenrir-v2.1",
+      "retrieved_at": "2026-05-04T19:28:12+00:00"
+    }
+  ]
+}

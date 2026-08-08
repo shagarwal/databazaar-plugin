@@ -1,0 +1,163 @@
+{
+  "title": "Labor Market & Workforce Statistics \u2014 217 Countries (1960\u20132024)",
+  "description": "High-quality panel dataset covering labor market indicators for 217 countries and territories from 1960 to 2024. Includes 14,105 observations across 29 variables: unemployment rates (total, youth, male, female), labor force participation rates by gender, employment distribution across agriculture, industry, and services sectors, vulnerable and self-employment shares, GDP per employed person (2017 PPP), wage/salaried worker proportions, and working-age population demographics.\n\nData is sourced from the World Bank World Development Indicators, which aggregates ILO modeled estimates, national labor force surveys, and official statistical agencies. Core labor indicators have strongest coverage from 1991\u20132024 (ILO modeled estimates era), while demographic indicators (GDP per capita, working-age population) extend back to 1960.\n\nIdeal for: labor economics research, cross-country employment comparisons, gender gap analysis in workforce participation, structural transformation studies (agriculture\u2192services transitions), development economics, and policy impact evaluation.",
+  "category": "social",
+  "tags": [
+    "labor",
+    "employment",
+    "unemployment",
+    "workforce",
+    "economics",
+    "world-bank",
+    "ILO",
+    "gender",
+    "demographics"
+  ],
+  "columns": [
+    {
+      "name": "country_code_iso3",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "country_code_iso2",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "country_name",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "region",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "income_level",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "year",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "unemployment_rate_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "labor_force_participation_rate_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "youth_unemployment_rate_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "total_labor_force",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "employment_agriculture_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "employment_industry_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "employment_services_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "female_unemployment_rate_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "male_unemployment_rate_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "female_labor_participation_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "male_labor_participation_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "vulnerable_employment_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gdp_per_employed_person_2017ppp",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "self_employed_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "youth_female_unemployment_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "youth_male_unemployment_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "labor_force_participation_15plus_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "wage_and_salaried_workers_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "contributing_family_workers_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "employers_pct_of_employment",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "female_labor_force_pct",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "gdp_per_capita_constant_2015usd",
+      "type": "string",
+      "description": ""
+    },
+    {
+      "name": "working_age_population_pct",
+      "type": "string",
+      "description": ""
+    }
+  ]
+}

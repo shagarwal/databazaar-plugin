@@ -1,0 +1,7 @@
+mode: prepare
+kind: refusal
+input: evals/fixtures/pii-ssn-block.csv
+tags: prepare,pii,block
+expects:
+  stderr_contains: blocking PII
+notes: "SSN must block."

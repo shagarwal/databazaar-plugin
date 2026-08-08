@@ -1,0 +1,8 @@
+mode: acquire
+kind: standard
+request: "urban air quality PM2.5 cities"
+tags: acquire,databazaar,environment
+expects:
+  min_rows: 50
+  pii_blocked: false
+notes: "Air quality listings exist."

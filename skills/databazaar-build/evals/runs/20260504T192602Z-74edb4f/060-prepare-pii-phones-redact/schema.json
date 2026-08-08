@@ -1,0 +1,41 @@
+{
+  "title": "pii-phones-only",
+  "description": "Prepared from proprietary input. 5 rows \u00d7 3 columns.",
+  "category": "other",
+  "tags": [],
+  "columns": [
+    {
+      "name": "lead_id",
+      "type": "integer",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "name": "phone",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "415-555-0100",
+        "(212) 555-0199",
+        "+1-310-555-0188"
+      ]
+    },
+    {
+      "name": "source",
+      "type": "string",
+      "description": "",
+      "null_rate": 0.0,
+      "sample_values": [
+        "web",
+        "web",
+        "web"
+      ]
+    }
+  ]
+}

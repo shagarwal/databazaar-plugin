@@ -1,0 +1,30 @@
+{
+  "title": "HuggingFace dataset discovery \u2014 wikitext language modeling corpus",
+  "description": "Top-5 HuggingFace datasets matching 'wikitext language modeling corpus'. v0.2 returns discovery metadata only; use the `datasets` library to stream actual rows.",
+  "category": "ai-ml",
+  "tags": [
+    "task_categories:text-generation",
+    "task_categories:fill-mask",
+    "task_ids:language-modeling",
+    "task_ids:masked-language-modeling",
+    "annotations_creators:no-annotation",
+    "language_creators:crowdsourced",
+    "multilinguality:monolingual",
+    "source_datasets:original",
+    "language:en",
+    "license:cc-by-sa-3.0"
+  ],
+  "suggested_price_usd": 0.99,
+  "pricing_confidence": "low",
+  "pricing_reasoning": "v0 heuristic \u2014 see references/pricing-model.md",
+  "alternatives": [
+    {
+      "price": 0,
+      "label": "free (drives traffic)"
+    },
+    {
+      "price": 0.99,
+      "label": "heuristic"
+    }
+  ]
+}
