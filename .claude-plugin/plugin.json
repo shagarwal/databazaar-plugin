@@ -1,7 +1,7 @@
 {
   "name": "databazaar",
-  "version": "0.1.0",
-  "description": "Build, normalize, and publish agent-ready datasets — and search, buy, and sell data on the DataBazaar marketplace via MCP.",
+  "version": "0.2.0",
+  "description": "Search and evaluate datasets, retrieve data with account access, and work with listings and bounties via MCP.",
   "author": {
     "name": "DataBazaar",
     "url": "https://databazaar.io"
