@@ -2,7 +2,7 @@
   "mcpServers": {
     "databazaar": {
       "command": "npx",
-      "args": ["-y", "databazaar-mcp"]
+      "args": ["-y", "databazaar-mcp@1.5.1"]
     }
   }
 }
